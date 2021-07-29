@@ -1,0 +1,302 @@
+[
+  {
+    "park_id": -2147483611,
+    "short_name": "Frontenac",
+    "full_name": "Frontenac Provincial Park",
+    "description": "Camping at Frontenac is available year-round.  All campsite clusters are accessible by hiking or paddling.   Campsites on boundary lakes can be accessed by motorboat while those within the interior are motor restricted.  All campsites have a fire pit, picnic table, tent-pad, food-locker and privy. \r\n \r\nFrontenac provides excellent hiking and snowshoeing on one of our 12 hiking loops (120+ km).  The park also offers excellent fishing, wildlife viewing, Wilderness Skills Workshops and other outdoors activities for all skill levels.\r\n",
+    "website": "https://www.ontarioparks.com/park/Frontenac",
+    "address": {
+      "streetAddress": "6700 Salmon Lake Rd",
+      "city": "Sydenham",
+      "region": "Ontario",
+      "regionCode": "K0H 2T0",
+      "country": "Canada",
+      "phoneNumber": "(613)376-3489"
+    }
+  },
+  {
+    "park_id": -2147483636,
+    "short_name": "Beaverhouse Access Point",
+    "full_name": "Beaverhouse Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483633,
+    "short_name": "Bonnechere",
+    "full_name": "Bonnechere Provincial Park",
+    "description": "Tall Pines and River Loop Campgrounds are within a five-minute walk to swimming, the Visitor Centre and Park Store while Sandy Flats is a 10 minute walk to these amenities. All campgrounds provide access to a central comfort station, laundry facilities and water taps.\r\n\r\nTall Pines Campground is set among some spectacular White Pine trees that have survived the logging days. Campsites in Tall Pines campground can accommodate equipment ranging from tents only to large trailers. Many of these campsites offer electrical hook up.\r\nCampsites in the River Loop Campground can accommodate tents only to small trailers. Electrical sites are not provided in this campground. Many of the campsites are located immediately adjacent to the Bonnechere River, providing direct access to water activities such as boating, canoeing, fishing and wildlife viewing. \r\nSandy Flats is a radio-free campground that can accommodate tents to small trailers. Electrical sites are not provided in this campground. Sandy Flats Campground has a mini-comfort station which provides pedal flush toilets and showers near the campsites.\r\nBonnechere has one cottage located on Round Lake, and four rustic cabins found on the shores of the Bonnechere River.\r\n",
+    "website": "https://www.ontarioparks.com/park/Bonnechere",
+    "address": {
+      "streetAddress": "4024 Round Lake Rd, R.R. 5",
+      "city": "Killaloe",
+      "region": "Ontario",
+      "regionCode": "K0J 2A0",
+      "country": "Canada",
+      "phoneNumber": "(613)757-2103"
+    }
+  },
+  {
+    "park_id": -2147483630,
+    "short_name": "Bronte Creek",
+    "full_name": "Bronte Creek Provincial Park",
+    "description": "The Savannah, Woodlands and Ravine Loops are ideal for smaller trailers < 25 ft and tent camping. All campsites have electrical hook-ups. Amenities such as water taps, comfort stations, laundry facilities, playgrounds, hiking trails, park programs and amphitheater are close by. \r\nDay-use facilities are located a short drive outside of the campground. These facilities include hiking trails, play barn, education centres, disc golf course, out door swimming pool, park store and picnic shelters.\r\n",
+    "website": "https://www.ontarioparks.com/park/BronteCreek",
+    "address": {
+      "streetAddress": "3201 Upper Middle Road West",
+      "city": "Oakville",
+      "region": "Ontario",
+      "regionCode": "L6J 4Z3",
+      "country": "Canada",
+      "phoneNumber": "(905)827-3228"
+    }
+  },
+  {
+    "park_id": -2147483629,
+    "short_name": "Cache Bay Access Point",
+    "full_name": "Cache Bay Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483626,
+    "short_name": "Canoe Lake Access Point",
+    "full_name": "Canoe Lake Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483625,
+    "short_name": "Charleston Lake",
+    "full_name": "Charleston Lake Provincial Park",
+    "description": "Bayside and Shady Ridge Campgrounds are located adjacent to Charleston Lake in a mature, wooded setting. The Meadowlands Campground is located in a younger forest with some partially open sites for those sun seekers.\r\nEach campground has a mixture of electrical and non-electrical sites and can accommodate camping equipment ranging from a tent to a large RV. Hiking trails, Nature Centre, Day-Use area and amphitheatre are only a short walk away.\r\nOur yurts are located in the Shady Ridge campground close to the beach.  Each sleeping up to six.\r\nThe Tall Pines Cabin is located on the eastern shore of Charleston Lake.  This special place is only accessible by water.  Visitors are required to provide their own water transportation.  \r\nThe park also offers backcountry camping opportunities and sites can be accessed by water or by hiking trail.\r\n",
+    "website": "https://www.ontarioparks.com/park/CharlestonLake",
+    "address": {
+      "streetAddress": "148 Woodvale Road",
+      "city": "Lansdowne",
+      "region": "Ontario",
+      "regionCode": "K0E 1L0",
+      "country": "Canada",
+      "phoneNumber": "(613)659-2065"
+    }
+  },
+  {
+    "park_id": -2147483621,
+    "short_name": "Dawson Trail Access Point",
+    "full_name": "Dawson Trail Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483620,
+    "short_name": "Driftwood",
+    "full_name": "Driftwood Provincial Park",
+    "description": "The East and West River campgrounds are located along the Ottawa River with many waterfront campsites.\r\n\r\nThe Brumm Campground is suited for larger trailer units and RVs.  All sites are electrical and some are pull-through.\r\n",
+    "website": "https://www.ontarioparks.com/park/Driftwood",
+    "address": {
+      "streetAddress": "39520 Hwy 17",
+      "city": "Stonecliff",
+      "region": "Ontario",
+      "regionCode": "K0J 2K0",
+      "country": "Canada",
+      "phoneNumber": "(613) 586-2553\n"
+    }
+  },
+  {
+    "park_id": -2147483619,
+    "short_name": "Earl Rowe",
+    "full_name": "Earl Rowe Provincial Park",
+    "description": "Riverside Campground is open for the entire operating season and has four camping areas: Heydon Way, Salmon Run, Rabbit Loop and Blue Heron and located on the east side of Concession 7, sperate from the day use area. Campsites in Heydon Way have electrical hookups and can accommodate a variety of types/size of equipment. Salmon Run, Rabbit Loop and Blue Heron are non-electrical campsites designed for tents only. Blue Heron is non-electrical and Radio-Free. Access to comfort stations with showers and laundry facilities are available in Heydon Way.\r\nThe Westside Campground is located on the same side as the Day Use area and home to Boyne Meadow, Trillium Woods and Meadowbrook campgrounds which are non-electrical sites that accommodate tents and camper trailers. Fletcher’s Field offers electrical hookups and accommodates various sizes of camping equipment. All campgrounds offer comfort stations with showers, water taps, and laundry facilities.\r\n",
+    "website": "https://www.ontarioparks.com/park/EarlRowe",
+    "address": {
+      "streetAddress": "4998 Concession Rd 7",
+      "city": "Tosorontio Township, Alliston",
+      "region": "Ontario",
+      "regionCode": "L9R 1W1",
+      "country": "Canada",
+      "phoneNumber": "(705)435-2498"
+    }
+  },
+  {
+    "park_id": -2147483617,
+    "short_name": "Esker Lakes",
+    "full_name": "Esker Lakes Provincial Park",
+    "description": "Esker Lakes has three campgrounds that offer car camping: Sunny Point, Lake Side, and Hill Top. Campsites can accommodate equipment ranging from tents to large trailers. Amenities such as water taps and comfort stations with showers are close by. Campsites in Sunny Point campground offer electrical hook-up. Swimming, angling, and hiking opportunities are only a short distance away. ",
+    "website": "https://www.ontarioparks.com/park/EskerLakes",
+    "address": {
+      "streetAddress": "Hwy 672",
+      "city": "Kirkland Lake",
+      "region": "Ontario",
+      "regionCode": "P2N 3K4",
+      "country": "Canada",
+      "phoneNumber": "(705)568-7677"
+    }
+  },
+  {
+    "park_id": -2147483615,
+    "short_name": "Ferris",
+    "full_name": "Ferris Provincial Park",
+    "description": "Valleyview Loop is set atop a forested drumlin, with some campsites providing a view across the Trent River Valley. \r\nThe Bedrock Loop has some electrical campsites and is just a short walk to the playground and day-use picnic areas.\r\n",
+    "website": "https://www.ontarioparks.com/park/Ferris",
+    "address": {
+      "streetAddress": "474 County Road 8",
+      "city": "Campbellford",
+      "region": "Ontario",
+      "regionCode": "K0L 1L0",
+      "country": "Canada",
+      "phoneNumber": "(705)653-3575 April to September (613)475-4324 October to March"
+    }
+  },
+  {
+    "park_id": -2147483614,
+    "short_name": "Finlayson Point",
+    "full_name": "Finlayson Point Provincial Park",
+    "description": "Campsites can accommodate equipment ranging from tents only to large trailers.  Many campsites offer electrical hook-up.  Amenities such as water taps, comfort stations and laundry facilities are close by. Swimming, boating, angling and hiking opportunities are only a short distance away.\r\nThe Temagami Cabin sleeps up to six and is located on the shores of Lake Temagami.  Call the reservation call centre to reserve.\r\n",
+    "website": "https://www.ontarioparks.com/park/FinlaysonPoint",
+    "address": {
+      "streetAddress": "24 Finlayson Point Park Rd",
+      "city": "Temagami",
+      "region": "Ontario",
+      "regionCode": "P0H 2H0",
+      "country": "Canada",
+      "phoneNumber": "(705)569-3205"
+    }
+  },
+  {
+    "park_id": -2147483613,
+    "short_name": "Fitzroy",
+    "full_name": "Fitzroy Provincial Park",
+    "description": "Waterfront campsites are available on the Carp and Ottawa Rivers which bisect the park.  Some electrical sites are available in each campground.\r\nTwo Rivers Campground has a small beach which is great for families with small children.\r\nThe park has 6 large group camping sites along with group picnic site overlooking the upper Ottawa River. \r\nThe Day Use area has flush toilets, numerous charcoal BBQ’s, picnic tables, large beach and plenty of parking. There is a children’s playground, volley ball court and field area for soccer. The park offers canoe and kayak rentals and park store that provides camping supplies, Ice firewood and ice cream.\r\n",
+    "website": "https://www.ontarioparks.com/park/Fitzroy",
+    "address": {
+      "streetAddress": "5201 Canon Smith Drive",
+      "city": "Fitzroy Harbour",
+      "region": "Ontario",
+      "regionCode": "K0A 1X0",
+      "country": "Canada",
+      "phoneNumber": "(613)623-5159"
+    }
+  },
+  {
+    "park_id": -2147483608,
+    "short_name": "Halfway Lake",
+    "full_name": "Halfway Lake Provincial Park",
+    "description": "Most campsites are flat, private and some can accommodate large trailers. \r\nIn the Wild Rose campground, all sites are equipped with electricity. The campground is a favourite for families with young children because of its closer proximity to the store and to the main beach. It also offers a small number of waterfront campsites that are situated directly on Raven Lake. \r\nThe Hawksnest campground offers a mixture of both electrical and non-electrical campsites. The north end of the Hawksnest campground offers quiet campsites within a short walking distance to hiking trails within the campground, while the south end of Hawksnest offers non-electrical campsites that are in close proximity to the main beach and playground. There are also a small number of non-electrical campsites situated directly on Raven Lake.\r\n",
+    "website": "https://www.ontarioparks.com/park/HalfwayLake",
+    "address": {
+      "streetAddress": "Hwy 144  25km north of Cartier",
+      "city": "Levack",
+      "region": "Ontario",
+      "regionCode": "P0M 2C0",
+      "country": "Canada",
+      "phoneNumber": "(705)965-2702\n(705)966-2315 October to April"
+    }
+  },
+  {
+    "park_id": -2147483522,
+    "short_name": "Headquarters",
+    "full_name": "Headquarters",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483607,
+    "short_name": "Inverhuron",
+    "full_name": "Inverhuron Provincial Park",
+    "description": "Inverhuron has three campgrounds with a range of features including electrical service and pull-through sites ideal for larger RVs. The campsites are well separated and private. All sites are treed, spacious and have a level surface making them ideal for larger trailers. \r\nThe large, private sites may mean that you need to bring an extra long extension cord to reach the electrical outlet. All sites are conveniently located close to the comfort stations and showers.\r\nFour camp cabins, sleeping up to five each, are located away from the main campgrounds with views over Lake Huron.  A mini-comfort station is nearby.\r\nTwo Group campsites are located with views of Lake Huron. Group sites can accommodate up to thirty-five people. Site includes five picnic tables and one hydro pedestal with two thirty amp and two fifteen amp outlets. A mini-comfort station is nearby.\r\n",
+    "website": "https://www.ontarioparks.com/park/Inverhuron",
+    "address": {
+      "streetAddress": "19 Jordon Rd. R.R. 2",
+      "city": "Tiverton",
+      "region": "Ontario",
+      "regionCode": "N0G 2T0",
+      "country": "Canada",
+      "phoneNumber": "(519)368-1959"
+    }
+  },
+  {
+    "park_id": -2147483606,
+    "short_name": "Ivanhoe Lake",
+    "full_name": "Ivanhoe Lake Provincial Park",
+    "description": "A long, curving lip of sandy beach with warm, shallow water for swimming beckons families with young children to this lake between Chapleau and Timmins. This park is a popular spot for family holidays, fishing trips and canoe outings. Hike alone or with park naturalists to a bog and kettle lakes, or paddle on your own to a favourite spot for viewing moose.",
+    "website": "https://www.ontarioparks.com/park/IvanhoeLake",
+    "address": {
+      "streetAddress": "170 Ivanhoe Lake Rd",
+      "city": "Foleyet",
+      "region": "Ontario",
+      "regionCode": "P0M 1T0",
+      "country": "Canada",
+      "phoneNumber": "(705)899-2644"
+    }
+  },
+  {
+    "park_id": -2147483598,
+    "short_name": "Lac La Croix Access Point",
+    "full_name": "Lac La Croix Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483595,
+    "short_name": "Lake St. Peter",
+    "full_name": "Lake St. Peter Provincial Park",
+    "description": "Campsites at Lake St. Peter are spacious, comfortable and sheltered by the mixed forest. Many sites will accommodate large trailers. There are several electrical sites and waterfront sites to choose from. All sites are close to drinking water taps and vault toilets. A centrally located comfort station has washrooms, showers and laundry facilities.",
+    "website": "http://www.ontarioparks.com/park/LakeStPeter",
+    "address": {
+      "streetAddress": "356 Lake St Peter Road",
+      "city": "Lake St Peter",
+      "region": "Ontario",
+      "regionCode": "K0L 1C0",
+      "country": "Canada",
+      "phoneNumber": "(613)338-5312"
+    }
+  }
+]
