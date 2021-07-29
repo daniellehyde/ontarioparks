@@ -1,0 +1,11 @@
+<h1>Ontario Provincial Parks</h1>
+
+<ul>
+  <% @parks.each do |park| %>
+    <li>
+    <a href="/parks/<%= park.id %>">
+      <%= park.name %>
+      </a>
+    </li>
+  <% end %>
+</ul>
