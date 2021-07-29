@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_07_28_234221) do
+ActiveRecord::Schema.define(version: 2021_07_29_010309) do
 
   create_table "campsites", force: :cascade do |t|
     t.string "name"
@@ -24,9 +24,10 @@ ActiveRecord::Schema.define(version: 2021_07_28_234221) do
 
   create_table "parks", force: :cascade do |t|
     t.string "name"
-    t.string "region"
+    t.string "city"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.integer "external_park_id"
   end
 
   add_foreign_key "campsites", "parks"
