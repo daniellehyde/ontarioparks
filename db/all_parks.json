@@ -1,0 +1,1967 @@
+[
+  {
+    "park_id": -2147483611,
+    "short_name": "Frontenac",
+    "full_name": "Frontenac Provincial Park",
+    "description": "Camping at Frontenac is available year-round.  All campsite clusters are accessible by hiking or paddling.   Campsites on boundary lakes can be accessed by motorboat while those within the interior are motor restricted.  All campsites have a fire pit, picnic table, tent-pad, food-locker and privy. \r\n \r\nFrontenac provides excellent hiking and snowshoeing on one of our 12 hiking loops (120+ km).  The park also offers excellent fishing, wildlife viewing, Wilderness Skills Workshops and other outdoors activities for all skill levels.\r\n",
+    "website": "https://www.ontarioparks.com/park/Frontenac",
+    "address": {
+      "streetAddress": "6700 Salmon Lake Rd",
+      "city": "Sydenham",
+      "region": "Ontario",
+      "regionCode": "K0H 2T0",
+      "country": "Canada",
+      "phoneNumber": "(613)376-3489"
+    }
+  },
+  {
+    "park_id": -2147483636,
+    "short_name": "Beaverhouse Access Point",
+    "full_name": "Beaverhouse Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483633,
+    "short_name": "Bonnechere",
+    "full_name": "Bonnechere Provincial Park",
+    "description": "Tall Pines and River Loop Campgrounds are within a five-minute walk to swimming, the Visitor Centre and Park Store while Sandy Flats is a 10 minute walk to these amenities. All campgrounds provide access to a central comfort station, laundry facilities and water taps.\r\n\r\nTall Pines Campground is set among some spectacular White Pine trees that have survived the logging days. Campsites in Tall Pines campground can accommodate equipment ranging from tents only to large trailers. Many of these campsites offer electrical hook up.\r\nCampsites in the River Loop Campground can accommodate tents only to small trailers. Electrical sites are not provided in this campground. Many of the campsites are located immediately adjacent to the Bonnechere River, providing direct access to water activities such as boating, canoeing, fishing and wildlife viewing. \r\nSandy Flats is a radio-free campground that can accommodate tents to small trailers. Electrical sites are not provided in this campground. Sandy Flats Campground has a mini-comfort station which provides pedal flush toilets and showers near the campsites.\r\nBonnechere has one cottage located on Round Lake, and four rustic cabins found on the shores of the Bonnechere River.\r\n",
+    "website": "https://www.ontarioparks.com/park/Bonnechere",
+    "address": {
+      "streetAddress": "4024 Round Lake Rd, R.R. 5",
+      "city": "Killaloe",
+      "region": "Ontario",
+      "regionCode": "K0J 2A0",
+      "country": "Canada",
+      "phoneNumber": "(613)757-2103"
+    }
+  },
+  {
+    "park_id": -2147483630,
+    "short_name": "Bronte Creek",
+    "full_name": "Bronte Creek Provincial Park",
+    "description": "The Savannah, Woodlands and Ravine Loops are ideal for smaller trailers < 25 ft and tent camping. All campsites have electrical hook-ups. Amenities such as water taps, comfort stations, laundry facilities, playgrounds, hiking trails, park programs and amphitheater are close by. \r\nDay-use facilities are located a short drive outside of the campground. These facilities include hiking trails, play barn, education centres, disc golf course, out door swimming pool, park store and picnic shelters.\r\n",
+    "website": "https://www.ontarioparks.com/park/BronteCreek",
+    "address": {
+      "streetAddress": "3201 Upper Middle Road West",
+      "city": "Oakville",
+      "region": "Ontario",
+      "regionCode": "L6J 4Z3",
+      "country": "Canada",
+      "phoneNumber": "(905)827-3228"
+    }
+  },
+  {
+    "park_id": -2147483629,
+    "short_name": "Cache Bay Access Point",
+    "full_name": "Cache Bay Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483626,
+    "short_name": "Canoe Lake Access Point",
+    "full_name": "Canoe Lake Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483625,
+    "short_name": "Charleston Lake",
+    "full_name": "Charleston Lake Provincial Park",
+    "description": "Bayside and Shady Ridge Campgrounds are located adjacent to Charleston Lake in a mature, wooded setting. The Meadowlands Campground is located in a younger forest with some partially open sites for those sun seekers.\r\nEach campground has a mixture of electrical and non-electrical sites and can accommodate camping equipment ranging from a tent to a large RV. Hiking trails, Nature Centre, Day-Use area and amphitheatre are only a short walk away.\r\nOur yurts are located in the Shady Ridge campground close to the beach.  Each sleeping up to six.\r\nThe Tall Pines Cabin is located on the eastern shore of Charleston Lake.  This special place is only accessible by water.  Visitors are required to provide their own water transportation.  \r\nThe park also offers backcountry camping opportunities and sites can be accessed by water or by hiking trail.\r\n",
+    "website": "https://www.ontarioparks.com/park/CharlestonLake",
+    "address": {
+      "streetAddress": "148 Woodvale Road",
+      "city": "Lansdowne",
+      "region": "Ontario",
+      "regionCode": "K0E 1L0",
+      "country": "Canada",
+      "phoneNumber": "(613)659-2065"
+    }
+  },
+  {
+    "park_id": -2147483621,
+    "short_name": "Dawson Trail Access Point",
+    "full_name": "Dawson Trail Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483620,
+    "short_name": "Driftwood",
+    "full_name": "Driftwood Provincial Park",
+    "description": "The East and West River campgrounds are located along the Ottawa River with many waterfront campsites.\r\n\r\nThe Brumm Campground is suited for larger trailer units and RVs.  All sites are electrical and some are pull-through.\r\n",
+    "website": "https://www.ontarioparks.com/park/Driftwood",
+    "address": {
+      "streetAddress": "39520 Hwy 17",
+      "city": "Stonecliff",
+      "region": "Ontario",
+      "regionCode": "K0J 2K0",
+      "country": "Canada",
+      "phoneNumber": "(613) 586-2553\n"
+    }
+  },
+  {
+    "park_id": -2147483619,
+    "short_name": "Earl Rowe",
+    "full_name": "Earl Rowe Provincial Park",
+    "description": "Riverside Campground is open for the entire operating season and has four camping areas: Heydon Way, Salmon Run, Rabbit Loop and Blue Heron and located on the east side of Concession 7, sperate from the day use area. Campsites in Heydon Way have electrical hookups and can accommodate a variety of types/size of equipment. Salmon Run, Rabbit Loop and Blue Heron are non-electrical campsites designed for tents only. Blue Heron is non-electrical and Radio-Free. Access to comfort stations with showers and laundry facilities are available in Heydon Way.\r\nThe Westside Campground is located on the same side as the Day Use area and home to Boyne Meadow, Trillium Woods and Meadowbrook campgrounds which are non-electrical sites that accommodate tents and camper trailers. Fletcher’s Field offers electrical hookups and accommodates various sizes of camping equipment. All campgrounds offer comfort stations with showers, water taps, and laundry facilities.\r\n",
+    "website": "https://www.ontarioparks.com/park/EarlRowe",
+    "address": {
+      "streetAddress": "4998 Concession Rd 7",
+      "city": "Tosorontio Township, Alliston",
+      "region": "Ontario",
+      "regionCode": "L9R 1W1",
+      "country": "Canada",
+      "phoneNumber": "(705)435-2498"
+    }
+  },
+  {
+    "park_id": -2147483617,
+    "short_name": "Esker Lakes",
+    "full_name": "Esker Lakes Provincial Park",
+    "description": "Esker Lakes has three campgrounds that offer car camping: Sunny Point, Lake Side, and Hill Top. Campsites can accommodate equipment ranging from tents to large trailers. Amenities such as water taps and comfort stations with showers are close by. Campsites in Sunny Point campground offer electrical hook-up. Swimming, angling, and hiking opportunities are only a short distance away. ",
+    "website": "https://www.ontarioparks.com/park/EskerLakes",
+    "address": {
+      "streetAddress": "Hwy 672",
+      "city": "Kirkland Lake",
+      "region": "Ontario",
+      "regionCode": "P2N 3K4",
+      "country": "Canada",
+      "phoneNumber": "(705)568-7677"
+    }
+  },
+  {
+    "park_id": -2147483615,
+    "short_name": "Ferris",
+    "full_name": "Ferris Provincial Park",
+    "description": "Valleyview Loop is set atop a forested drumlin, with some campsites providing a view across the Trent River Valley. \r\nThe Bedrock Loop has some electrical campsites and is just a short walk to the playground and day-use picnic areas.\r\n",
+    "website": "https://www.ontarioparks.com/park/Ferris",
+    "address": {
+      "streetAddress": "474 County Road 8",
+      "city": "Campbellford",
+      "region": "Ontario",
+      "regionCode": "K0L 1L0",
+      "country": "Canada",
+      "phoneNumber": "(705)653-3575 April to September (613)475-4324 October to March"
+    }
+  },
+  {
+    "park_id": -2147483614,
+    "short_name": "Finlayson Point",
+    "full_name": "Finlayson Point Provincial Park",
+    "description": "Campsites can accommodate equipment ranging from tents only to large trailers.  Many campsites offer electrical hook-up.  Amenities such as water taps, comfort stations and laundry facilities are close by. Swimming, boating, angling and hiking opportunities are only a short distance away.\r\nThe Temagami Cabin sleeps up to six and is located on the shores of Lake Temagami.  Call the reservation call centre to reserve.\r\n",
+    "website": "https://www.ontarioparks.com/park/FinlaysonPoint",
+    "address": {
+      "streetAddress": "24 Finlayson Point Park Rd",
+      "city": "Temagami",
+      "region": "Ontario",
+      "regionCode": "P0H 2H0",
+      "country": "Canada",
+      "phoneNumber": "(705)569-3205"
+    }
+  },
+  {
+    "park_id": -2147483613,
+    "short_name": "Fitzroy",
+    "full_name": "Fitzroy Provincial Park",
+    "description": "Waterfront campsites are available on the Carp and Ottawa Rivers which bisect the park.  Some electrical sites are available in each campground.\r\nTwo Rivers Campground has a small beach which is great for families with small children.\r\nThe park has 6 large group camping sites along with group picnic site overlooking the upper Ottawa River. \r\nThe Day Use area has flush toilets, numerous charcoal BBQ’s, picnic tables, large beach and plenty of parking. There is a children’s playground, volley ball court and field area for soccer. The park offers canoe and kayak rentals and park store that provides camping supplies, Ice firewood and ice cream.\r\n",
+    "website": "https://www.ontarioparks.com/park/Fitzroy",
+    "address": {
+      "streetAddress": "5201 Canon Smith Drive",
+      "city": "Fitzroy Harbour",
+      "region": "Ontario",
+      "regionCode": "K0A 1X0",
+      "country": "Canada",
+      "phoneNumber": "(613)623-5159"
+    }
+  },
+  {
+    "park_id": -2147483608,
+    "short_name": "Halfway Lake",
+    "full_name": "Halfway Lake Provincial Park",
+    "description": "Most campsites are flat, private and some can accommodate large trailers. \r\nIn the Wild Rose campground, all sites are equipped with electricity. The campground is a favourite for families with young children because of its closer proximity to the store and to the main beach. It also offers a small number of waterfront campsites that are situated directly on Raven Lake. \r\nThe Hawksnest campground offers a mixture of both electrical and non-electrical campsites. The north end of the Hawksnest campground offers quiet campsites within a short walking distance to hiking trails within the campground, while the south end of Hawksnest offers non-electrical campsites that are in close proximity to the main beach and playground. There are also a small number of non-electrical campsites situated directly on Raven Lake.\r\n",
+    "website": "https://www.ontarioparks.com/park/HalfwayLake",
+    "address": {
+      "streetAddress": "Hwy 144  25km north of Cartier",
+      "city": "Levack",
+      "region": "Ontario",
+      "regionCode": "P0M 2C0",
+      "country": "Canada",
+      "phoneNumber": "(705)965-2702\n(705)966-2315 October to April"
+    }
+  },
+  {
+    "park_id": -2147483522,
+    "short_name": "Headquarters",
+    "full_name": "Headquarters",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483607,
+    "short_name": "Inverhuron",
+    "full_name": "Inverhuron Provincial Park",
+    "description": "Inverhuron has three campgrounds with a range of features including electrical service and pull-through sites ideal for larger RVs. The campsites are well separated and private. All sites are treed, spacious and have a level surface making them ideal for larger trailers. \r\nThe large, private sites may mean that you need to bring an extra long extension cord to reach the electrical outlet. All sites are conveniently located close to the comfort stations and showers.\r\nFour camp cabins, sleeping up to five each, are located away from the main campgrounds with views over Lake Huron.  A mini-comfort station is nearby.\r\nTwo Group campsites are located with views of Lake Huron. Group sites can accommodate up to thirty-five people. Site includes five picnic tables and one hydro pedestal with two thirty amp and two fifteen amp outlets. A mini-comfort station is nearby.\r\n",
+    "website": "https://www.ontarioparks.com/park/Inverhuron",
+    "address": {
+      "streetAddress": "19 Jordon Rd. R.R. 2",
+      "city": "Tiverton",
+      "region": "Ontario",
+      "regionCode": "N0G 2T0",
+      "country": "Canada",
+      "phoneNumber": "(519)368-1959"
+    }
+  },
+  {
+    "park_id": -2147483606,
+    "short_name": "Ivanhoe Lake",
+    "full_name": "Ivanhoe Lake Provincial Park",
+    "description": "A long, curving lip of sandy beach with warm, shallow water for swimming beckons families with young children to this lake between Chapleau and Timmins. This park is a popular spot for family holidays, fishing trips and canoe outings. Hike alone or with park naturalists to a bog and kettle lakes, or paddle on your own to a favourite spot for viewing moose.",
+    "website": "https://www.ontarioparks.com/park/IvanhoeLake",
+    "address": {
+      "streetAddress": "170 Ivanhoe Lake Rd",
+      "city": "Foleyet",
+      "region": "Ontario",
+      "regionCode": "P0M 1T0",
+      "country": "Canada",
+      "phoneNumber": "(705)899-2644"
+    }
+  },
+  {
+    "park_id": -2147483598,
+    "short_name": "Lac La Croix Access Point",
+    "full_name": "Lac La Croix Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483595,
+    "short_name": "Lake St. Peter",
+    "full_name": "Lake St. Peter Provincial Park",
+    "description": "Campsites at Lake St. Peter are spacious, comfortable and sheltered by the mixed forest. Many sites will accommodate large trailers. There are several electrical sites and waterfront sites to choose from. All sites are close to drinking water taps and vault toilets. A centrally located comfort station has washrooms, showers and laundry facilities.",
+    "website": "http://www.ontarioparks.com/park/LakeStPeter",
+    "address": {
+      "streetAddress": "356 Lake St Peter Road",
+      "city": "Lake St Peter",
+      "region": "Ontario",
+      "regionCode": "K0L 1C0",
+      "country": "Canada",
+      "phoneNumber": "(613)338-5312"
+    }
+  },
+  {
+    "park_id": -2147483589,
+    "short_name": "Mara",
+    "full_name": "Mara Provincial Park",
+    "description": "Mara has a range of campsite options that can accommodate equipment ranging from tents only to large trailers.  A number of pull-through campsites are available.",
+    "website": "http://www.ontarioparks.com/park/Mara",
+    "address": {
+      "streetAddress": "181 Courtland Street",
+      "city": "Ramara Township",
+      "region": "Ontario",
+      "regionCode": "L3V 6S1",
+      "country": "Canada",
+      "phoneNumber": "(705)326-4451"
+    }
+  },
+  {
+    "park_id": -2147483588,
+    "short_name": "Marten River",
+    "full_name": "Marten River Provincial Park",
+    "description": "Campsites can accommodate equipment ranging from tents only to large trailers. Many campsites offer electrical hook-up. Amenities such as water taps, comfort stations and laundry facilities are close by. Swimming, boating, angling and hiking opportunities are only a short distance away.",
+    "website": "http://www.ontarioparks.com/park/MartenRiver",
+    "address": {
+      "streetAddress": "2860 Hwy 11",
+      "city": "Marten River",
+      "region": "Ontario",
+      "regionCode": "P0H 1T0",
+      "country": "Canada",
+      "phoneNumber": "(705)892-2200"
+    }
+  },
+  {
+    "park_id": -2147483584,
+    "short_name": "Mikisew",
+    "full_name": "Mikisew Provincial Park",
+    "description": "The Hardwoods Campground features mature Maple, Oak, and mixed wood forests. It’s close to the beaches, dog park, and day use area. The Pines Campground is in an open Red Pine forest with campsites that can accommodate large trailers. This campground has great visibility which makes it excellent for families with young children.   \r\nBoth campgrounds feature campsites with and without electricity. They also have centrally located comfort stations with showers, flush toilets, and laundry facilities.  \r\n",
+    "website": "http://www.ontarioparks.com/park/Mikisew",
+    "address": {
+      "streetAddress": "301 Park Road S",
+      "city": "South River",
+      "region": "Ontario",
+      "regionCode": "P0A 1X0",
+      "country": "Canada",
+      "phoneNumber": "(705)386-7762"
+    }
+  },
+  {
+    "park_id": -2147483581,
+    "short_name": "Mississagi",
+    "full_name": "Mississagi Provincial Park",
+    "description": "Campsites in this wooded campground are secluded and private. Most are pull-through trailer sites.\r\nFour campsites are walk-in (tent) sites and are located on the shore of Semiwite Lake. The distance from car to campsite at these sites is less than 20 metres.\r\n",
+    "website": "http://www.ontarioparks.com/park/Mississagi",
+    "address": {
+      "streetAddress": "Hwy # 639",
+      "city": "Elliot Lake",
+      "region": "Ontario",
+      "regionCode": "P0P 1P0",
+      "country": "Canada",
+      "phoneNumber": "(705)862-1203"
+    }
+  },
+  {
+    "park_id": -2147483579,
+    "short_name": "Nagagamisis",
+    "full_name": "Nagagamisis Provincial Park",
+    "description": "Nagagamisis Lake is at the centre of this quiet northern park.  The campground lies on the southern shore of this 15 kilometre-long lake.  Car camping is available at two campgrounds in close proximity to hot showers, a laundromat and flush toilets. No electrical sites are available. A number of campsites have easy access to waterfront. There is also a sand beach and boat launch are found in the park’s day use area.",
+    "website": "http://www.ontarioparks.com/park/Nagagamisis",
+    "address": {
+      "streetAddress": "32 km N of Hornepayne, ON, on Hwy# 631",
+      "city": "Hearst",
+      "region": "Ontario",
+      "regionCode": "P0L 1N0",
+      "country": "Canada",
+      "phoneNumber": "(807)868-2254"
+    }
+  },
+  {
+    "park_id": -2147483578,
+    "short_name": "Neys",
+    "full_name": "Neys Provincial Park",
+    "description": "The Area 1 campground is relatively open and the front row offers spectacular views of Lake Superior. All sites in this area are electrified. Most are pull-through and suitable for larger vehicles. The more private sites of Areas 2 and 3 offer electrical hookups along the back row, and the non-electrical front row provides convenient access to the parks sandy beach. A comfort station is located between Areas 1 and 2.\r\nArea 4 is more suited to tents and tent-trailers and offers private, partially shaded campsites.\r\nSeasonal Campsites are available.\r\nThe Trapp Cabin is located on the beach with spectacular views of Lake Superior.  It can accommodate up to four people.\r\n",
+    "website": "http://www.ontarioparks.com/park/Neys",
+    "address": {
+      "streetAddress": "P.O. Box 280",
+      "city": "Terrace Bay",
+      "region": "Ontario",
+      "regionCode": "P0T 2W0",
+      "country": "Canada",
+      "phoneNumber": "(807)229-1624"
+    }
+  },
+  {
+    "park_id": -2147483576,
+    "short_name": "Oastler Lake",
+    "full_name": "Oastler Lake Provincial Park",
+    "description": "Oastler Lake is known for its premium waterfront campsites.\r\nThere are 5 campgrounds that can accommodate equipment ranging from tents to large trailers. Campsites offer parking for one vehicle with an additional vehicle parking lot a short distance away. \r\nBeachside Campground has 24 electrical campsites most of which are pull-through making it easier for larger trailers. Enjoy camping only steps from Oastler Lake’s sandy beach spanning roughly 600 metres in length. \r\nLakeview Campground includes 18 waterfront campsites with spectacular sunset views. \r\nThe Point Campground is radio-free. This unique campground offers ten walk-in campsites located on the tip of the hemlock peninsula. Parking for one vehicle per campsite is available and is approximately 100 to 300 metres from your campsite. \r\nRiverside Campground offers 18 large electrical campsites along the Boyne River. \r\nHardwood Hill Campground offers 24 electrical sites in a beautiful mixed deciduous forest only steps away from the pet exercise area.  \r\nWatercraft rentals such as canoes, kayaks, paddle boats and stand up paddle boards are available at the park office.\r\nPlease note that railway tracks near the park are used frequently. \r\n",
+    "website": "http://www.ontarioparks.com/park/OastlerLake",
+    "address": {
+      "streetAddress": "380 Oastler Park Drive",
+      "city": "Seguin",
+      "region": "Ontario",
+      "regionCode": "P2A 2W8",
+      "country": "Canada",
+      "phoneNumber": "(705)378-2401"
+    }
+  },
+  {
+    "park_id": -2147483572,
+    "short_name": "OP Marketing",
+    "full_name": "OP Marketing",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483571,
+    "short_name": "Opeongo Lake Access Point",
+    "full_name": "Opeongo Lake Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483569,
+    "short_name": "Pancake Bay",
+    "full_name": "Pancake Bay Provincial Park",
+    "description": "Many of the campsites at Pancake Bay are along the shoreline with spectacular views of Lake Superior.\r\nFor those seeking a more quiet experience, the Hilltop Campground is radio-free.\r\nYurts and a camp cabin are dotted throughout the park.  All have easy access to the Pancake.\r\n",
+    "website": "http://www.ontarioparks.com/park/PancakeBay",
+    "address": {
+      "streetAddress": "12650 Hwy 17 North",
+      "city": "Batchawana Bay",
+      "region": "Ontario",
+      "regionCode": "P0S 1A0\n",
+      "country": "Canada",
+      "phoneNumber": "(705)882-2209"
+    }
+  },
+  {
+    "park_id": -2147483566,
+    "short_name": "Point Farms",
+    "full_name": "Point Farms Provincial Park",
+    "description": "Colborne Campground generally offers the largest sites that can accommodate all equipment types including several pull-through sites. Sites are within a forested area, with the amount of buffer differing slightly between sites. Many electrical sites are available. Amenities such as water taps, comfort station, laundry facilities, playground and trails are close by. Playing field, swimming and pet beach are a short walk or drive away.\r\nHuron Campground is radio-free and generally has smaller more private sites to users with tents to mid-size trailers. Many electrical sites are available. Sites are within a forested area, with the amount of buffer differing slightly between sites. Amenities such as water taps, comfort station, laundry facilities, playground and trails are close by. Swimming and pet beach are a short walk or drive away. \r\n\r\n",
+    "website": "http://www.ontarioparks.com/park/PointFarms",
+    "address": {
+      "streetAddress": "82491 Bluewater Highway 21",
+      "city": "Goderich",
+      "region": "Ontario",
+      "regionCode": "N7A 3X9",
+      "country": "Canada",
+      "phoneNumber": "(519)524-7124"
+    }
+  },
+  {
+    "park_id": -2147483564,
+    "short_name": "Prairie Portage Access Point",
+    "full_name": "Prairie Portage Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483562,
+    "short_name": "Quetico",
+    "full_name": "Quetico Provincial Park",
+    "description": "The extensive network of lakes and rivers at Quetico provide a variety of backcountry canoe experiences. Backcountry paddlers enjoy a mix of short, easy trips or extended routes that require skillful paddling, navigation, outdoor living techniques and rigorous portaging. \r\nDawson Trail Campground is the only car campground in Quetico and is located on French Lake in the northeast corner of the park at the threshold of the Quetico wilderness. There are two campground loops: Chippewa and Ojibwa. Seasonal Campsites are also available.\r\nBoth campground loops have electrical campsites and can accommodate trailers and tents. Vault toilets, flush toilets, showers, laundry and water taps are all nearby\r\n",
+    "website": "http://www.ontarioparks.com/park/Quetico",
+    "address": {
+      "streetAddress": "2240 Hwy 11 Dawson Trail Campground",
+      "city": "Atikokan",
+      "region": "Ontario",
+      "regionCode": "P0T 1C0",
+      "country": "Canada",
+      "phoneNumber": "807-597-2735"
+    }
+  },
+  {
+    "park_id": -2147483560,
+    "short_name": "Rainbow Falls",
+    "full_name": "Rainbow Falls Provincial Park",
+    "description": "The Whitesand Lake Campground is located on the north side of Highway 17 along a beautiful inland lake perfect for swimming, fishing, and water sports.  A comfort station is centrally located within the campground for easy access. \r\nThe Maggie and Selim Campground loops offer electrical campsites. Many sites in Selim are pull-through and relatively level.  \r\nThe park offers three non-electrical loops; Whitesand, Lakeside and Hewitson. The Whitesand loop’s interior offers pull through sites, while the outside loop contains private, well buffered sites, both of which are suitable for larger trailers. Lakeside campsites are located up on a hill and offer lovely views of the lake through trees. The Hewitson campground is quiet, private and best suited for tents and small pop-up trailers. \r\nRossport Campground is located 5 km west of Whitesand Lake Campground, on the south side of Highway 17, situated along the shoreline of the pristine Lake Superior. \r\nCampsites at Rossport are located within a grassy birch grove making them more open than Whitesand Lake campground. With a centrally located comfort station, and spectacular views of Lake Superior, this campground is very popular with return visitors.\r\nSeasonal Campsites are also available.\r\n",
+    "website": "http://www.ontarioparks.com/park/RainbowFalls ",
+    "address": {
+      "streetAddress": "P.O. Box 280",
+      "city": "Terrace Bay",
+      "region": "Ontario",
+      "regionCode": "P0T 2W0",
+      "country": "Canada",
+      "phoneNumber": "(807)824-2298"
+    }
+  },
+  {
+    "park_id": -2147483557,
+    "short_name": "Restoule",
+    "full_name": "Restoule Provincial Park",
+    "description": "Kettle Point Campground offers electrical campsites. It’s close to the parks main beach and hiking/biking trails.\r\nPutts Point and Bells Point Campgrounds feature private campsites without electricity. Putts Point provides easy access to both beaches. Bells Point is close to the Restoule Lake boat launch and dog beach.  \r\nPutts Point and Kettle Point both have centrally located comfort stations with showers, flush toilets, and laundry facilities. \r\nIf you like privacy, Bells Point offers walk-in campsites, less than five minutes from the parking lot. These sites provide the best of the car and backcountry camping experiences. Potable water and a composting toilet are available at the entrance to these sites.\r\nFor a more adventurous experience, boat access backcountry campsites are available on Stormy Lake and the Restoule River. These sites all have beautiful waterfront views and exceptional privacy. \r\n\r\n",
+    "website": "http://www.ontarioparks.com/park/Restoule",
+    "address": {
+      "streetAddress": "8818 Hwy 534",
+      "city": "Restoule",
+      "region": "Ontario",
+      "regionCode": "P0H 2R0",
+      "country": "Canada",
+      "phoneNumber": "(705)729-2010"
+    }
+  },
+  {
+    "park_id": -2147483556,
+    "short_name": "Rideau River",
+    "full_name": "Rideau River Provincial Park",
+    "description": "Rideau River is known for its large campsites, lush green vegetation and well-maintained scenic beaches overlooking the historic Rideau Waterway.\r\nThe park affords many electrical campsites, including pull-through sites making this park a great destination minutes from the Nation’s Capital.\r\nCamp in luxury in one of two roofed accommodations. The park offers two camp cabins that sleeps up to five. Or reserve a group camping site suitable for trailers that can accommodate between 40-125 members!\r\nTwo well maintained beaches, a Shoreline Trail, small park store, centrally located comfort stations and a boat launch with great fishing opportunities are some of the amenities offered.\r\n",
+    "website": "http://www.ontarioparks.com/park/RideauRiver",
+    "address": {
+      "streetAddress": "2680 Donnelly Drive",
+      "city": "Kemptville",
+      "region": "Ontario",
+      "regionCode": "K0G 1J0",
+      "country": "Canada",
+      "phoneNumber": "(613)258-2740"
+    }
+  },
+  {
+    "park_id": -2147483554,
+    "short_name": "Rock Point",
+    "full_name": "Rock Point Provincial Park",
+    "description": "Kinsey and Niece campgrounds offer electrical campsites that can accommodate equipment ranging from tents to large trailers. Access to swimming, hiking trails and the park store are nearby.\r\n\r\nMinor and Lookout campgrounds consist of non-electrical campsites that can accommodate tents and small trailers. Waterfront trails are easily accessed taking you to the park beach or to the limestone shelf that gives Rock Point its namesake.\r\n\r\nAmenities such as water taps, playgrounds, and comfort stations with laundry facilities are close by in all campgrounds.\r\n",
+    "website": "http://www.ontarioparks.com/park/RockPoint",
+    "address": {
+      "streetAddress": "215 Niece Road",
+      "city": "Lowbanks",
+      "region": "Ontario",
+      "regionCode": "N0A 1K0",
+      "country": "Canada",
+      "phoneNumber": "(905)774-6642"
+    }
+  },
+  {
+    "park_id": -2147483553,
+    "short_name": "Rondeau",
+    "full_name": "Rondeau Provincial Park",
+    "description": "Rondeau has one campground in the north end of the park that opens the first Friday in April and closes the last Sunday in October.\r\nYou navigate through the main campground on a series of parallel roads named after trees; campsites can accommodate equipment ranging from tents only to large trailers and some offer electrical hook-up.  Amenities such as water taps and comfort stations with laundry facilities are close by.  Swimming, boating, fishing, beach access and the Park Store are only a short distance away.\r\n",
+    "website": "http://www.ontarioparks.com/park/Rondeau",
+    "address": {
+      "streetAddress": "18050 Rondeau Park Road",
+      "city": "Morpeth",
+      "region": "Ontario",
+      "regionCode": "N0P 1X0",
+      "country": "Canada",
+      "phoneNumber": "(519)674-1750"
+    }
+  },
+  {
+    "park_id": -2147483550,
+    "short_name": "Sand Lake Gate Access Point",
+    "full_name": "Sand Lake Gate Access Point",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483548,
+    "short_name": "Sandbar Lake",
+    "full_name": "Sandbar Lake Provincial Park",
+    "description": "Sandbar Lake Provincial Park is a beautiful well-treed  small campground located approximately 12km north of the Trans-Canada Highway #17 in Ignace. \r\nThe parks name exemplifies its character, through a range of natural sand bar formations which showcase numerous beaches around the lake.\r\nThis park offers fewer than 80 campsites, half of which have electricity.  Campsites can accommodate equipment ranging from tents only to large trailers.  \r\n 2 group sites are available which are located in the northern section of the Park privately situated away from the main camping sites. Seasonal Campsites are also available. \r\nCampsites in Sandbar are partially shaded with some offering a tantalizing glimpse of the lake. Amenities such as water taps, comfort stations, laundry facilities and boat launches are close by.  Swimming, boating, great fishing and hiking are only a short distance away. \r\n",
+    "website": "http://www.ontarioparks.com/park/SandbarLake",
+    "address": {
+      "streetAddress": "479 Government Road",
+      "city": "Dryden",
+      "region": "Ontario",
+      "regionCode": "P8N 2Z4",
+      "country": "Canada",
+      "phoneNumber": "(807)934-2995 May-September\n(807)223-7535 October-April"
+    }
+  },
+  {
+    "park_id": -2147483547,
+    "short_name": "Sauble Falls",
+    "full_name": "Sauble Falls Provincial Park",
+    "description": "Sauble Falls is a smaller park with a range of campsites including some with electrical service in two campgrounds. All sites are convenient to the showers and comfort stations.\r\nWest Campground is radio-free.\r\n",
+    "website": "http://www.ontarioparks.com/park/SaubleFalls",
+    "address": {
+      "streetAddress": "1400 Sauble Falls Rd",
+      "city": "Wiarton",
+      "region": "Ontario",
+      "regionCode": "N0H 2T0",
+      "country": "Canada",
+      "phoneNumber": "(519)422-1952"
+    }
+  },
+  {
+    "park_id": -2147483545,
+    "short_name": "Sharbot Lake",
+    "full_name": "Sharbot Lake Provincial Park",
+    "description": "Sharbot Lake Provincial Park is situated on two beautiful clear bodies of water, Black Lake and Sharbot Lake. A mature mix of hardwood trees, the park has a skyline canopy that explodes with colour into the autumn.  Many campsites surrounding Black Lake will accommodate tents and offer the perfect retreat to enjoy the shoreline with a morning coffee while listening to the call the loons. \r\nThe campground has four distinctive loops. Beach Front and Maple Grove offer a mix of electrical sites and tent sites close to and adjacent to the water. The Point offers small campsites, perfect for a tent, on the lakeshore. The Ridge offers campsites further away from amenities and some walk in-sites with spectacular views of Sharbot Lake.  \r\n\r\nBoth lakes are very clean and offer an abundance of water recreation opportunities including swimming at one of the two sand beaches, a boat launch, plus canoe, kayak and paddleboard rentals.  Black Lake is a small, calm lake. Just a short portage away is much larger Sharbot Lake, which offers numerous bays, islands and shoreline to explore for paddlers that are more adventurous.  \r\nThe park has two trails. The Ridge trail is a short walk with a grand vista of Sharbot Lake, while the Discovery Trail is a 2 km loop taking the hiker through the rugged terrain of the Canadian Shield with views of Sharbot Lake.\r\nThe park also offers a BBQ shelter, a children’s playground, two recreational beaches and a dog beach all wonderful places to gather and make memories. ",
+    "website": "http://www.ontarioparks.com/park/SharbotLake",
+    "address": {
+      "streetAddress": "25467 Hwy 7",
+      "city": "Sharbot Lake",
+      "region": "Ontario",
+      "regionCode": "K0H 2P0",
+      "country": "Canada",
+      "phoneNumber": "(613)335-2814"
+    }
+  },
+  {
+    "park_id": -2147483541,
+    "short_name": "Silver Lake",
+    "full_name": "Silver Lake Provincial Park",
+    "description": "Known for its canopy of mature mixed hardwoods Silver Lake Provincial Park is nestled on the clear waters of Silver Lake and Highway 7 in eastern Ontario. \r\n The campground has three camping loops; Wesley, which offers pull through electrical sites, as well as Dawson and Algonquin that offer traditional tent campsites of which many overlook the water. \r\n Silver Lake is a very clean lake that offers an abundance of water recreation opportunities including swimming at two sand beaches, a boat launch, plus canoe, kayak and paddleboard rentals. Silver Lake is a popular fishing destination for both new and experienced anglers; offering great opportunities to catch lake trout, pike and/or bass. \r\n \r\nThe large stone BBQ shelter, situated in the grassy day use area with plenty of nearby picnic tables, is a wonderful attraction at the park and offers a place for friends to gather and enjoy a picnic. Children delight in the playground and sandy beaches at the park. \r\nOverall, the park is small and very user friendly, with all amenities close by so that you can park your vehicle and walk just about everywhere for the weekend.  \r\nEnjoy an overnight campsite, swim at the beach, picnic in the park for the day and watch the spectacular sunset disappear over the Silver Lake horizon.\r\n",
+    "website": "http://www.ontarioparks.com/park/SilverLake",
+    "address": {
+      "streetAddress": "22726 Hwy 7",
+      "city": "Maberly",
+      "region": "Ontario",
+      "regionCode": "K0H 2B0",
+      "country": "Canada",
+      "phoneNumber": "(613)268-2000"
+    }
+  },
+  {
+    "park_id": -2147483539,
+    "short_name": "Six Mile Lake",
+    "full_name": "Six Mile Lake Provincial Park",
+    "description": "Six Mile Lake offers seven campgrounds in a natural setting and within walking distance of all park facilities. All campsites are equipped with a fire pit and picnic table.\r\nPine and Birch Campgrounds can accommodate large equipment and are equipped with hydro. Birch Campground is located close to the beach, playground, shower building and is within walking distance of the park store.\r\nMaple, Oak and Poplar Campgrounds offer non-electrical, semi-private campsites on low-traffic roadways. Most sites are surrounded by trees, offering both shade and privacy. The comfort station is located just past the entrance into Maple Campground and within walking distance to the beach.\r\nLakeview Heights Campground stretches the length of the park and offers a number of premium waterfront sites with views of Six Mile Lake. The sites are located along the main park road and are close to washroom facilities.\r\nCedar Campground has only a few semi-private waterfront campsites and is located adjacent to the pet beach, day use and shower building and is within walking distance of the park store. These campsites are walk in sites only and have motorboat restrictions along their stretch of shore.\r\n",
+    "website": "http://www.ontarioparks.com/park/SixMileLake",
+    "address": {
+      "streetAddress": "2024 Joe King's Rd",
+      "city": "Port Severn",
+      "region": "Ontario",
+      "regionCode": "LOK 1S0",
+      "country": "Canada",
+      "phoneNumber": "(705)756-2746"
+    }
+  },
+  {
+    "park_id": -2147483535,
+    "short_name": "Sturgeon Bay",
+    "full_name": "Sturgeon Bay Provincial Park",
+    "description": "Many campsites offer electrical hook-up. Amenities such as water taps and toilets are nearby. Laundry facilities and showers are available on the cabin side of the park, a short distance away. Swimming, boating, canoeing and a boat launch are all within walking distance from the campground.\r\nCottages, sleeping 4 to 10, are located east of Highway 529.\r\n\r\n",
+    "website": "http://www.ontarioparks.com/park/SturgeonBay",
+    "address": {
+      "streetAddress": "203 Hwy.529",
+      "city": "Point au Baril",
+      "region": "Ontario",
+      "regionCode": "P0G 1K0",
+      "country": "Canada",
+      "phoneNumber": "(705)366-2521"
+    }
+  },
+  {
+    "park_id": -2147483530,
+    "short_name": "Voyageur",
+    "full_name": "Voyageur Provincial Park",
+    "description": "Champlain and Portage Campgrounds are better suited for visitors with larger camping units. \r\nChamplain has an adjacent beach and a small boat launching ramp. Iroquois and Portage share a beach located in Iroquois Campground.\r\nIroquois Campground has one loop of 20 sites that are designated pet-free. These sites will appeal to those who prefer a camping experience without any noise or contact with domestic pets.\r\nIroquois Campground has one loop set aside as a radio-free area. The sites are located in a forested section of the park and offer a more secluded, private experience without the noise of electronic audio equipment.\r\n",
+    "website": "http://www.ontarioparks.com/park/Voyageur",
+    "address": {
+      "streetAddress": "1313 Front Rd",
+      "city": "Chute-a-Blondeau",
+      "region": "Ontario",
+      "regionCode": "K0B 1B0",
+      "country": "Canada",
+      "phoneNumber": "(613)674-2825"
+    }
+  },
+  {
+    "park_id": -2147483526,
+    "short_name": "White Lake",
+    "full_name": "White Lake Provincial Park",
+    "description": "Moccasin Flower campground offers both electrical and non-electrical campsites, with the interior of the campground offering large electrified pull-through sites sheltered by mature pines, and the perimeter of the loop offer large non-electrical sites. The comfort station with flush toilets, showers, laundry facilities and a potable water filling station is centrally located. \r\nWoodlilly also offers electrical and non-electrical campsites suitable for large trailers while providing closer access to the park’s day use areas and the potable trailer fill station. \r\n The Sundew campground offers non-electrical pull campsites, many which skirt the shores of White Lake and its sandy Sundew beach.  \r\nSeasonal Campsites are also available.\r\n",
+    "website": "http://www.ontarioparks.com/park/WhiteLake",
+    "address": {
+      "streetAddress": "Hwy 17",
+      "city": "White River",
+      "region": "Ontario",
+      "regionCode": "P0M 3G0",
+      "country": "Canada",
+      "phoneNumber": "807-822-2447"
+    }
+  },
+  {
+    "park_id": -2147483524,
+    "short_name": "Windy Lake",
+    "full_name": "Windy Lake Provincial Park",
+    "description": "All campsites are secluded, large and flat. They are close to flush toilets, showers, laundry facilities, playground and drinking water taps.\r\nThree campsites have space for double family camping.\r\nFor a more secluded camping experience, there are walk-in campsites (just a short walk from your car) with five of the sites situated on the waterfront. This is a great introductory experience to backcountry camping. This area is radio-free.\r\nCamp Cabins are located in a private area close to the beach.  Yurts are found in the Windy Lake Campground.\r\n",
+    "website": "http://www.ontarioparks.com/park/WindyLake",
+    "address": {
+      "streetAddress": "Hwy 144",
+      "city": "Levack",
+      "region": "Ontario",
+      "regionCode": "P0M 2C0",
+      "country": "Canada",
+      "phoneNumber": "(705)966-2315"
+    }
+  },
+  {
+    "park_id": -2147483516,
+    "short_name": "Fish & Wildlife",
+    "full_name": "Fish & Wildlife",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483587,
+    "short_name": "Massasauga",
+    "full_name": "The Massasauga Provincial Park",
+    "description": "Campsites at The Massasauga are only accessible by water\r\nThe north end of the park is accessed through Three Legged Lake and provides access to our remote wilderness campsites.  A minimum of one 370m portage is required to access Spider Lake.  A complete ban on any mechanized travel is in place in all the parks interior lakes.\r\nThe south end is accessed through Pete’s Place behind the village of MacTier Ontario.  Direct access to Georgian Bay is provided by two boat launches.  Recommended maximum length of 20’.\r\nAll campsites have a picnic table, firepit with grill and a privy style vault toilet.\r\n",
+    "website": "http://www.ontarioparks.com/park/TheMassasauga",
+    "address": {
+      "streetAddress": "640 Healey Lake Road",
+      "city": "Mactier",
+      "region": "Ontario",
+      "regionCode": "P2A 2W8",
+      "country": "Canada",
+      "phoneNumber": "(705)378-2401"
+    }
+  },
+  {
+    "park_id": -2147483603,
+    "short_name": "Kawartha Highlands",
+    "full_name": "Kawartha Highlands Provincial Park",
+    "description": "Kawartha Highlands Provincial Park has over 100 backcountry campsites spread over six recommended loops. Most sites have three tent pads, a designated fire ring, a picnic table and a privy toilet. Campsites can only be reached by canoe; there are no car campsites in the park. Trips range from: introductory with minimal or no portaging; to experienced with portages over 1.5 kilometres.",
+    "website": "http://www.ontarioparks.com/park/KawarthaHighlands",
+    "address": {
+      "streetAddress": "106 Monck Street,  Box 500",
+      "city": "Bancroft",
+      "region": "Ontario",
+      "regionCode": "K0L 1C0",
+      "country": "Canada",
+      "phoneNumber": "(613) 332-3940 ext. 261"
+    }
+  },
+  {
+    "park_id": -2147483586,
+    "short_name": "McRae Point",
+    "full_name": "McRae Point Provincial Park",
+    "description": "North Campground at McRae Point is fully serviced with electricity and has large pull-through sites that accommodate extra-large trailers and motorhomes. \r\nThe South Campground is a campground that features both electrical and non-electrical campsites. This campground has access to the shower buildings in the North Campground and has washrooms located throughout.\r\n",
+    "website": "http://www.ontarioparks.com/park/McRaePoint",
+    "address": {
+      "streetAddress": "4366 McRae Park Rd",
+      "city": "Ramara Township",
+      "region": "Ontario",
+      "regionCode": "L3V 6S1",
+      "country": "Canada",
+      "phoneNumber": "(705)325-7290"
+    }
+  },
+  {
+    "park_id": -2147483601,
+    "short_name": "Killarney",
+    "full_name": "Killarney Provincial Park",
+    "description": "George Lake Campground is open for camping all year.  The main gates are closed during the snowy season and the campground and yurts become “walk in” from approximately the end of November to the beginning of May.\r\nCampground D – sites #82 to #113 including the East Beach are radio-free.\r\nCamp Cabins are located in Campground B secluded from the rest of the campground.  Yurts are found in their own private location in Campground A.  Visitors can park in a nearby lot and use the available wagons to bring their gear to the site.\r\nKillarney has 183 backcountry canoe-in sites and 34 backcountry hike-in sites. Winter camping in the backcountry is available, however camping on existing summer campsites is prohibited. This is to protect the campsites from negative impacts that winter camping can cause. Winter campsites should be 30 metres from the shoreline of lakes, portages and trails. Sheltered areas near small bays and smaller interior lakes are recommended for winter campsites.",
+    "website": "http://www.ontarioparks.com/park/Killarney",
+    "address": {
+      "streetAddress": "960 Hwy 637",
+      "city": "Killarney",
+      "region": "Ontario",
+      "regionCode": "P0M 2A0",
+      "country": "Canada",
+      "phoneNumber": "(705)287-2900"
+    }
+  },
+  {
+    "park_id": -2147483543,
+    "short_name": "Silent Lake",
+    "full_name": "Silent Lake Provincial Park",
+    "description": "Silent Lake’s two campgrounds, Pincer Bay and Granite Ridge, are located in forested settings.\r\nGranite Ridge Campground offers a number of electrical campsites. For those who want to camp with larger groups, Silent Lake has a number of double campsites. Two campsites share one driveway and one firepit. These double campsites can occupy up to twelve people and must be reserved together.\r\nFor those looking for a quieter experience, Silent Lake has two loops of walk-in sites in the Pincer Bay Campground as well as one loop in Granite Ridge Campground. For all walk-in sites, campers park their vehicles in the designated walk-in parking lots and walk their gear a short distance in to the campsite. The walk to your site will be no longer than 500 m.\r\nCamp cabins are located away from the main campground with easy access to the lake.  Yurts are found in both Granite Ridge and Pincer Bay campgrounds.\r\n\r\n",
+    "website": "http://www.ontarioparks.com/park/SilentLake",
+    "address": {
+      "streetAddress": "1589 Silent Lake Park Road",
+      "city": "Bancroft",
+      "region": "Ontario",
+      "regionCode": "K0L 1C0",
+      "country": "Canada",
+      "phoneNumber": "(613)339-2807"
+    }
+  },
+  {
+    "park_id": -2147483527,
+    "short_name": "Wheatley",
+    "full_name": "Wheatley Provincial Park",
+    "description": "Boosey Creek Campground provides a rustic camping experience with non-electrical campsites located throughout a series of camping loops. This area is heavily treed, and the roadways are narrow often single lane. Large trailers are not recommended. This campground is ideally suited for tents, camper vans with the larger loops able to accommodate small trailers.\r\nHighlands Campground is more open, electrical sites in the back, with 211-220 on the creek system.\r\nMiddle Creek Campground is completely electrical and provides a few creek side campsites.\r\nTwo Creeks Campground is surrounded by a creek and provides many creek side camping opportunities. Boosey Creek Campground is Radio Free. A wooden footbridge provides access to the day-use area and a view of Lake Erie.\r\n",
+    "website": "http://www.ontarioparks.com/park/Wheatley",
+    "address": {
+      "streetAddress": "21116 Klondyke Road S.",
+      "city": "Wheatley",
+      "region": "Ontario",
+      "regionCode": "N0P 2P0",
+      "country": "Canada",
+      "phoneNumber": "(519)825-4659"
+    }
+  },
+  {
+    "park_id": -2147483551,
+    "short_name": "Samuel de Champlain",
+    "full_name": "Samuel de Champlain Provincial Park",
+    "description": "Campsites at Babawasse Campground have 15 and 30 amp electrical connections. A small comfort station provides flush toilets, showers and laundry facilities and is centrally located. Playground equipment is offered at the small private camper’s beach. The name “Babwasee” finds its roots in the Ojibway language meaning “a lake is seen through the woods”.\r\nJingwakoki Campground offers primarily non-electric campsite and a few with electrical connections.  A comfort station located at the campground entrance provides, flush toilets, showers and laundry facilities. Playground equipment is offered at the shallow, sandy beach located on the northwest shore of Moore Lake. The Ojibway name Jingwakoki aptly describes the campground setting meaning “pine forest or tall pines”\r\n",
+    "website": "http://www.ontarioparks.com/park/SamuelDeChamplain",
+    "address": {
+      "streetAddress": "6905 Hwy. 17 East",
+      "city": "Mattawa",
+      "region": "Ontario",
+      "regionCode": "P0H 1V0",
+      "country": "Canada",
+      "phoneNumber": "(705)744-2276"
+    }
+  },
+  {
+    "park_id": -2147483528,
+    "short_name": "Wakami Lake",
+    "full_name": "Wakami Lake Provincial Park",
+    "description": "Wakami Lake offers two distinctive opportunities for exploration and recreation. Many visitors choose to stay in our developed campground area and enjoy fishing, boating, paddling, swimming and hiking one or all of our three trail systems. Others will take on the challenge of exploring the park’s interior by boat, canoe or kayak.\r\nCampground:\r\nWakami Lake offers an array of campsite opportunities in four campgrounds across the developed section of the park, including many waterfront sites. Each campsite has a fire-ring and picnic table; vault privies, potable water and a trailer sanitation station are also available within the campgrounds. For the avid anglers, we offer two fish cleaning stations, two dock areas and a boat launch to help get you out on the water.\r\nInterior:\r\nBackcountry campsites are accessible by boat, canoe and kayak. Many of these campsites are just a short paddle away from the developed campground, making these sites a great option for the beginner backcountry camper. These picturesque sites are equipped with a fire-ring, picnic table, tent pads and a pit privy.\r\n",
+    "website": "http://www.ontarioparks.com/park/WakamiLake",
+    "address": {
+      "streetAddress": "Highway 667",
+      "city": "Sultan",
+      "region": "Ontario",
+      "regionCode": "P0M 2Z0",
+      "country": "Canada",
+      "phoneNumber": "1-705-233-2853 (1-705-864-3114 during the off season)"
+    }
+  },
+  {
+    "park_id": -2147483558,
+    "short_name": "Rene Brunelle",
+    "full_name": "Rene Brunelle Provincial Park",
+    "description": "The campground occupies a section of the eastern shore of Remi Lake.  The park has 88 secluded campsites, the majority with electricity, and all at a convenient distance from hot showers, laundromat and flush toilets.  Phipps Point day use area has great beaches and recreational facilities, north of the campground, while smaller Campers Beach is closer, just south of the campground.  A camp cabin that sleeps up to 5 is located on the shores of Remi Lake, with stunning waterfront views.",
+    "website": "http://www.ontarioparks.com/park/ReneBrunelle",
+    "address": {
+      "streetAddress": "10km north on Hwy 581",
+      "city": "Moonbeam",
+      "region": "Ontario",
+      "regionCode": "P5N 2X8",
+      "country": "Canada",
+      "phoneNumber": "(705)367-2692 (705)372-2209 October to April"
+    }
+  },
+  {
+    "park_id": -2147483616,
+    "short_name": "Fairbank",
+    "full_name": "Fairbank Provincial Park",
+    "description": "The campground at Fairbank offers a range of options for different sized camping equipment. The park offers a number of waterfront sites and pull-through sites for larger vehicles.",
+    "website": "https://www.ontarioparks.com/park/Fairbank",
+    "address": {
+      "streetAddress": "696 Park Road, Regional Road 4",
+      "city": "Worthington",
+      "region": "Ontario",
+      "regionCode": "P0M 2C0",
+      "country": "Canada",
+      "phoneNumber": "(705)866-0530 May to September\n(705)966-2315 October to April\n"
+    }
+  },
+  {
+    "park_id": -2147483592,
+    "short_name": "MacGregor Point",
+    "full_name": "MacGregor Point Provincial Park",
+    "description": "Algonquin Campground offers well treed, mixed forest sites with plenty of shade and privacy. This electrical campground accommodates larger trailers and RVs. Pull-thru driveways are available for easier access to sites. The Visitor Center, Park Store and Dog Beach area are easily accessible from this campground.\r\n\r\nNipissing Campground is the perfect location for those looking to spend time at the beach, just a short walk from most campsites. Campsites in this area will accommodate tents to medium size trailers and offers both electrical and non-electrical sites. Easy access to the park store and visitor center.\r\n\r\nHuron Campground offers mostly sunny private sites, surrounded by Poplar and Birch trees. Radio Free Areas, both electrical and non-electrical make this campground perfect for those looking to have a peaceful camping experience. Campsites will accommodate tents to small trailers in non-electrical areas, while the electrical area will accommodate larger trailers. Access to trails is the best from this campground.",
+    "website": "http://www.ontarioparks.com/park/MacGregorPoint",
+    "address": {
+      "streetAddress": "1593 Bruce  Road 33, R.R. 1",
+      "city": "Port Elgin",
+      "region": "Ontario",
+      "regionCode": "N0H 2C5",
+      "country": "Canada",
+      "phoneNumber": "(519)389-9056"
+    }
+  },
+  {
+    "park_id": -2147483627,
+    "short_name": "Canisbay Lake",
+    "full_name": "Algonquin - Canisbay Lake Campground",
+    "description": "Canisbay Lake Campground is located at km 23.1 on Hwy 60.  The campground is situated at the south end of Canisbay Lake, in a hardwood forest setting.   Campsites are located in three separate loops; one with electrical service and one which is designated a radio-free and dog-free zone. Sites can accommodate equipment ranging from tents to larger recreational vehicles.  Good sand beaches are found both in the day use area and in the campground.",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "(705)633-5572"
+    }
+  },
+  {
+    "park_id": -2147483596,
+    "short_name": "Lake Of Two Rivers",
+    "full_name": "Algonquin - Lake Of Two Rivers Campground",
+    "description": "Lake of Two Rivers Campground, at km 31.8 on highway 60, is located on the west shore of Lake of Two Rivers, in an attractive White Pine forest and has an excellent beach.  This campground is the oldest and best known of Algonquin’s campgrounds.  \r\nLake of Two Rivers has over 200 campsites, over half of which have electrical hook ups. Sites are available that can accommodate all types of camping equipment. Campers should note that traffic noise can be heard at some sites adjacent to Highway 60.\r\n",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "(705)633-5572"
+    }
+  },
+  {
+    "park_id": -2147483567,
+    "short_name": "Pog Lake and Kearney Lake",
+    "full_name": "Algonquin - Pog Lake and Kearney Lake Campground",
+    "description": "Kearney Lake Campground, located at km 36.5 of Hwy 60, is situated on the shore of Kearney Lake in a predominantly pine setting.  Campsites are located on two loops on either side of Kearney Creek. Sites can accommodate a range of equipment types. There are no electrical campsites.\r\n\r\nPog Lake Campground is located at km 36.9 on Highway 60, in a predominantly Pine forest.  The campground is divided into three sections, A, B, and C, with a mix of electrical and non-electrical sites.\r\nPets are not permitted in the eastern most loop of the Pog Lake Campground Section A (sites 201-232).\r\nAudio devices are not permitted in the eastern most loop of the Pog Lake Campground Section A (sites 201-232).\r\n",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "(705)633-5572"
+    }
+  },
+  {
+    "park_id": -2147483533,
+    "short_name": "Tea Lake",
+    "full_name": "Algonquin - Tea Lake Campground",
+    "description": "Tea Lake Campground, is a small campground with fewer than 50 car campsites.  It is located at km 11.4 on Highway 60, and set in a mixed hardwood-coniferous forest. The campground has vault toilets but no shower or laundry facilities. This is a popular campground for backpackers intending to hike the Western Uplands Backpacking Trail, and canoeists heading into the backcountry via Canoe or Smoke Lake.",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "(705)633-5572"
+    }
+  },
+  {
+    "park_id": -2147483513,
+    "short_name": "Algonquin Office",
+    "full_name": "Algonquin Office",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483540,
+    "short_name": "Sioux Narrows",
+    "full_name": "Sioux Narrows Provincial Park",
+    "description": "Sioux Narrows Provincial Park is situated along the shoreline of Lake of the Woods. On the edge of the Canadian Shield, bedrock outcrops and towering White Pine make each of the 56 campsites unique. Nearly 25% of campsites have electricity.\r\nSioux Narrows has eight walk-in campsites for those who want a bit of quiet from the main campground road and a unique waterfront location. Your campsite will be a 20 to 50 m walk from where your car is parked. Seasonal Campsites are also available.",
+    "website": "http://www.ontarioparks.com/park/SiouxNarrows",
+    "address": {
+      "streetAddress": "Sioux Narrows Park Road off Hwy 71",
+      "city": "Sioux Narrows",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": "(807)226-5223"
+    }
+  },
+  {
+    "park_id": -2147483518,
+    "short_name": "Wasaga Beach",
+    "full_name": "Wasaga Beach Provincial Park",
+    "description": "",
+    "website": "http://www.ontarioparks.com/park/WasagaBeach",
+    "address": {
+      "streetAddress": "11-22nd St. North",
+      "city": "Wasaga Beach",
+      "region": "Ontario",
+      "regionCode": "L9Z 2V9",
+      "country": "Canada",
+      "phoneNumber": "705-429-2516"
+    }
+  },
+  {
+    "park_id": -2147483624,
+    "short_name": "Chutes",
+    "full_name": "Chutes Provincial Park",
+    "description": "Most of the campsites at Chutes are a short walking distance to the scenic waterfalls. Two campgrounds, Red Pine Road and Seven Sisters Circle, offer electrical sites and are situated closest to the comfort station. There are many large sites suitable for RVs and trailers although none are pull-through sites.\r\nTrillium Trail Campground is located in an area of mixed forest near the day-use and swimming area. There are two pull-through sites here. Some of the sites in Trillium Trail are close to townhomes and activity. Log Drive Lane and Big Chute Crescent Campgrounds are situated in a mixed forest and is close to the hiking trail and day-use area. The sound of the main waterfall can be heard from campsites #90-96. Big Chute Crescent Campground is Radio Free.",
+    "website": "https://www.ontarioparks.com/park/Chutes",
+    "address": {
+      "streetAddress": "650 Imperial Street North",
+      "city": "Massey",
+      "region": "Ontario",
+      "regionCode": "P0P 1P0",
+      "country": "Canada",
+      "phoneNumber": "(705)865-2021"
+    }
+  },
+  {
+    "park_id": -2147483546,
+    "short_name": "Selkirk",
+    "full_name": "Selkirk Provincial Park",
+    "description": "Selkirk Provincial Park is located on the shore of Lake Erie and offers a mix of electric and non-electric campsites in 4 campgrounds.\r\nAreas 1 and 3 offer smaller private treed sites that are non electric and ideal for tenting or small tent trailers. \r\nMost campsites located in Areas 2 and 4 offer electrical hook-ups, are pull through, and can accommodate larger trailers. Amenities include a central comfort station in Area 2 which offers flush toilets, showers and laundry facilities. \r\nWater taps are located throughout all four campground areas. \r\nAreas 1, 3 and 4 offer vault toilets with vanity areas.  The comfort station in Area 2 is less than a 5-minute walk from most campsites.\r\nSelkirk also offers two Group camping sites which can accommodate up to 40 people each.",
+    "website": "http://www.ontarioparks.com/park/Selkirk",
+    "address": {
+      "streetAddress": "151 Wheeler Rd",
+      "city": "Selkirk",
+      "region": "Ontario",
+      "regionCode": "N0A 1P0",
+      "country": "Canada",
+      "phoneNumber": "(905)776-2600"
+    }
+  },
+  {
+    "park_id": -2147483580,
+    "short_name": "Murphys Point",
+    "full_name": "Murphys Point Provincial Park",
+    "description": "Murphys Point is known for its beautiful natural environment on Big Rideau Lake, excellent fishing and wildlife viewing, and quality Discovery programming. The park is equipped with a fully stocked store, two beaches, eight hiking trails, two comfort stations with showers, trailer water-fill and dumping station, and a boat launch onto the Big Rideau.\r\n\r\nHogg Bay Campground (sites 40-72) is perfect for trailers as these sites are electrical pull through campsites, and conveniently located close to the main beach and playground. \r\n\r\nAsh Hill, located within Hogg Bay Campground (sites 1-39), offers electrical sites for smaller trailers or tents as well as non-electrical sites, all within walking distance to a comfort station with showers and laundry facilities. \r\n\r\nHardwood Campground (sites 100-129) offers non-electrical campsites suitable for smaller trailers and tent camping with good privacy and spacious sites. There is no comfort station in Hardwood.\r\n\r\nFallows Campground (sites 130-198) offers non-electrical campsites suitable for smaller trailers and tent camping in a mature forest setting. One comfort station is located centrally in Fallows, as well as our barrier-free site (with electricity and water tap on site).\r\n\r\nHogg Bay, Ash Hill and Hardwood are all open later in the season for fall camping.\r\n\r\nMurphys Point offers three roofed accommodations: a camp cabin and two soft-sided shelters located in Hogg Bay Campground. \r\n\r\nMurphys Point offers 14 water-access backcountry sites located on Big Rideau. Rideau (sites 401-402) are paddle-in only with no docks, Feldspar (sites 403-406), Narrows (sites 407-410) and Noble (sites 411-414) offer docks to accommodate motors. All sites have a firepit and picnic table.\r\n\r\nMurphys Point offers three group camping sites on Round Lake. Sites accommodate 12-50 people depending on the site. Sites are non-electrical and will not accommodate trailers. Sites share vault toilets and dock access to Round Lake.",
+    "website": "http://www.ontarioparks.com/park/MurphysPoint",
+    "address": {
+      "streetAddress": "2243 Elm Grove Road",
+      "city": "Perth",
+      "region": "Ontario",
+      "regionCode": "K7H 3C7",
+      "country": "Canada",
+      "phoneNumber": "613-267-5060"
+    }
+  },
+  {
+    "park_id": -2147483628,
+    "short_name": "Caliper Lake",
+    "full_name": "Caliper Lake Provincial Park",
+    "description": "Almost 100 picturesque campsites await you at Caliper Lake. One-quarter of the sites have electrical hook-up and a dump and fill station is located in the park. A modern comfort station with showers and flush toilets is centrally located in the campground.  Seasonal Campsites are available.",
+    "website": "https://www.ontarioparks.com/park/CaliperLake",
+    "address": {
+      "streetAddress": "Hwy 71, Caliper Lake Park Road Fire # 150",
+      "city": "Nestor Falls",
+      "region": "Ontario",
+      "regionCode": "P0X 1K0",
+      "country": "Canada",
+      "phoneNumber": "(807)484-2181 (May-September)\n(807)468-2669 (October-April)"
+    }
+  },
+  {
+    "park_id": -2147483585,
+    "short_name": "Mew Lake",
+    "full_name": "Algonquin - Mew Lake Campground",
+    "description": "Mew Lake Campground, located at km 30.6 on Highway 60, is situated in a coniferous forest setting dominated by White Pine. Half of the sites in this campground have electrical hook-ups and another group are located in a dog and radio-free zone.\r\nMew Lake is open for camping during the winter months for those who love the snow.  An ice rink is maintained in the campground during the winter season, weather permitting.\r\nDogs are not permitted in the campground loop on the west side of Mew Lake (from sites 95 to 131).\r\nThe campground loop on the west side of Mew Lake (from sites 95 to 131) offers radio-free campsites.\r\nThere are seven yurts available year-round at Mew Lake Campground.\r\n",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "(705)633-5572"
+    }
+  },
+  {
+    "park_id": -2147483610,
+    "short_name": "Fushimi Lake",
+    "full_name": "Fushimi Lake Provincial Park",
+    "description": "A small, quiet campground on the shores of Fushimi Lake, most of its campsites are quite secluded and almost all sites have electrical service. Sites are a convenient distance to all facilities and to the sand beach. \r\nSeasonal camping is also available. \r\nBackcountry campsites are all within a short distance from the boat launch.\r\nA camp cabin is available on a waterfront site with outstanding views of the lake.\r\n",
+    "website": "https://www.ontarioparks.com/park/FushimiLake",
+    "address": {
+      "streetAddress": "P.O. Box 670, 613 Front Street",
+      "city": "Hearst",
+      "region": "Ontario",
+      "regionCode": "P0L 1N0",
+      "country": "Canada",
+      "phoneNumber": "705-372-5909"
+    }
+  },
+  {
+    "park_id": -2147483565,
+    "short_name": "Port Burwell",
+    "full_name": "Port Burwell Provincial Park",
+    "description": "<p><b>Alzora Campground</b> has a pleasant array of campsites located throughout mixed deciduous and conifer stands which vary from large, sunny and grassy sites, to well-treed, average sized sites, to smaller tenting sites which are located right along our Ravine Creek. This campground is conveniently located adjacent to the Recreation Field, with easy access to the Interpretive Centre and playground. It also offers 3 comfort stations.</p>\r\n\r\n<p><b>Leander Campground</b>, with its central location and proximity to the playground, is the most popular for families with young children as the Recreation Field, Interpretive Centre and Ravine Creek trail head are also close by. Campsites are decently sized and are fairly private, with most being sunny and grass covered. Sites closest to the Rec Field are less private but are shady and cooler due to their placement under large conifers.</p>\r\n\r\n<p><b>Iroquois Campground</b> offers a variety of full-sun, full-shade or sites with a pleasing mix of both to complement its majority of electrically serviced campsites. This campground also features some of our largest campsites, yet the sites still retain ample privacy and distance from one another. Access to the end of the Ravine Creek Trail is located close by for those wishing to take a leisurely walk to the beach.</p>\r\n\r\n<p><b>Group Camp</b> offers two very large, shady and private sites, located just a short distance away from the main campground.</p>",
+    "website": "http://www.ontarioparks.com/park/PortBurwell",
+    "address": {
+      "streetAddress": "9 Wilson Lane",
+      "city": "Port Burwell",
+      "region": "Ontario",
+      "regionCode": "N0J 1T0",
+      "country": "Canada",
+      "phoneNumber": "519-874-4691"
+    }
+  },
+  {
+    "park_id": -2147483648,
+    "short_name": "Aaron",
+    "full_name": "Aaron Provincial Park",
+    "description": "<p>Aaron Provincial Park is located on the Trans Canada Highway, providing a variety of camping and recreational opportunities.</p>\r\n\r\n<p>Campsites can accommodate equipment ranging from tents only to large trailers. One-half of campsites offer electrical hook-ups. A non-electrical group campsite is located in the southern section of the park providing privacy and individual site access. Seasonal Campsites are also available.</p>\r\n\r\n<p>Amenities such as water taps, comfort stations, laundry facilities and boat launches are close by. Swimming, boating, great fishing and hiking are only a short distance away.</p>\r\n\r\n<p>The park has two sandy beaches located on Thunder Lake, a popular recreation lake for locals and travellers alike.</p>\r\n\r\n<p>Enjoy the natural landscape and recreational opportunities that Aaron Provincial Park offers.</p>",
+    "website": "https://www.ontarioparks.com/park/aaron",
+    "address": {
+      "streetAddress": "13133 Hwy 17 E",
+      "city": "Dryden",
+      "region": "Ontario",
+      "regionCode": "P8N 3A8",
+      "country": "Canada",
+      "phoneNumber": "807-938-6534"
+    }
+  },
+  {
+    "park_id": -2147483644,
+    "short_name": "Algonquin Backcountry",
+    "full_name": "Algonquin Backcountry",
+    "description": "<p>The essence of Algonquin is in its vast interior of maple hills, rocky ridges, and thousands of lakes. The only way to explore the interior of this park is by canoe or on foot.</p>\r\n\n<p>There is also a second Algonquin along the 56-kilometre stretch of Highway 60. Here you can enjoy camping at one of eight campgrounds, hike one of 14 trails, take part in extensive education programs, and visit Algonquin's superlative Visitor Centre and the Logging Museum.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483645,
+    "short_name": "Algonquin East Gate",
+    "full_name": "Algonquin East Gate",
+    "description": "",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483643,
+    "short_name": "Algonquin West Gate",
+    "full_name": "Algonquin West Gate",
+    "description": "",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483639,
+    "short_name": "Awenda",
+    "full_name": "Awenda Provincial Park",
+    "description": "<p>Awenda’s 6 campgrounds of well-spaced campsites shaded beneath Sugar Maples and Red Oaks are a cool oasis from the summer heat.</p>\r\n\r\n<p>For campers looking for a quieter experience than traditional campgrounds, <b>Bear and Deer Campgrounds</b> are radio-free and for even quieter camping, <b>Snake Campground</b> is both radio-free and pet-free.</p>\r\n\r\n<p><b>Wolf Campground</b> is the largest campground and all sites have electrical hook-ups. Almost half of <b>Hawk Campground</b> offers electrical hook-ups.</p>\r\n\r\n<p><b>Turtle Campground</b> offers traditional campsites and is the furthest away from the beach although most campers from all campgrounds find it preferable to drive to the beach which is a 5 to 10 minute drive.</p>\r\n\r\n<p>A cottage rental is located on the shores of Georgian Bay east of the First Beach.</p>",
+    "website": "https://www.ontarioparks.com/park/Awenda",
+    "address": {
+      "streetAddress": "670 Conc 18 East Awenda Park Road",
+      "city": "Penetanguishene",
+      "region": "Ontario",
+      "regionCode": "L9M 2G2",
+      "country": "Canada",
+      "phoneNumber": "705-549-2231"
+    }
+  },
+  {
+    "park_id": -2147483525,
+    "short_name": "Algonquin (Whitefish Lake)",
+    "full_name": "Algonquin Provincial Park (Whitefish Lake)",
+    "description": "<p>Whitefish Lake Group Campground is located at km 37. It has 18 large sites that can accommodate groups ranging in size from 10 to 40 people. The campground is not highly developed and offers basic amenities such as cold running water and vault privies.</p>\r\n\r\n<p>Permits can be picked up at the Pog Lake Campground.\r\n",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Hwy 60 P.O. Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483638,
+    "short_name": "Balsam Lake",
+    "full_name": "Balsam Lake Provincial Park",
+    "description": "<p>Balsam Lake offers a range of electrical and non-electrical sites which can accommodate tents and RVs. The park also offers walk-in campsites (\"eco-sites”) which are radio-free and provide an introduction or transition to backcountry experience with amenities close by if required.</p>\r\n\r\n<p>Cedar, Maple and Hawthorn campgrounds are radio-free as well and offer the most privacy in comparison to our other campgrounds. Lakeshore campgrounds Ash, Oak, Elm and Fir offer sites that accommodate both tents and trailers in close proximity to the lake. Hawthorn campground is radio-free and offers tent and trailer sites and private tree covered sites. The Park Cottage can accommodate 8 people, with four-bedrooms and a games room, located across the trail from the waterfront.</p>\r\n\r\n<p>Recreational activities are endless with two hiking trails, bicycle rentals, and one of the largest beaches in the Kawartha Lakes. The park also offers stand up paddle boards, paddle boats, and canoes for rent during July-August. The north end of the beach is designated as a dog beach. The boat launch offers docking and opens up opportunities to boating on the Trent Severn waterway.</p>\r\n\r\n<p>The park also offers Group camping for 20-25 people per site, tents only with a maximum of 12 tents, non-electric, radio-free, vault privies, and drinking water.</p>",
+    "website": "https://www.ontarioparks.com/park/BalsamLake",
+    "address": {
+      "streetAddress": "2238 Hwy 48",
+      "city": "Kirkfield",
+      "region": "Ontario",
+      "regionCode": "K0M 2B0",
+      "country": "Canada",
+      "phoneNumber": "705-454-3324"
+    }
+  },
+  {
+    "park_id": -2147483637,
+    "short_name": "Bass Lake",
+    "full_name": "Bass Lake Provincial Park",
+    "description": "<p>Lakeview is a non-electrical campground offering many grassy sites for tents or small trailers. A fully-serviced comfort station is centrally located in this campground.</p>\r\n\r\n<p>Cedar Campground is closest to the waterfront area. It offers 6 shady non-electrical campsites. This campground has vault washrooms.</p>\r\n\r\n<p>Hilltop Campground features both electrical and non-electrical campsites. This campground offers many campsites with mature trees providing shade. There are large sites that accommodate large trailers up to 32 feet.</p>\r\n\r\n<p>Eastside campground offers large electrical campsites. Many of the sites are grassy with large trees offering shade. There is a barrier free comfort station located at the entry to this campground.</p>",
+    "website": "https://www.ontarioparks.com/park/BassLake",
+    "address": {
+      "streetAddress": "2540 Bass Lake Sideroad E",
+      "city": "Orillia",
+      "region": "Ontario",
+      "regionCode": "L3V 6S1",
+      "country": "Canada",
+      "phoneNumber": "705-326-7054"
+    }
+  },
+  {
+    "park_id": -2147483635,
+    "short_name": "Blue Lake",
+    "full_name": "Blue Lake Provincial Park",
+    "description": "<p>Blue Lake Provincial Park is located on Highway 647, only 9km north of the Trans-Canada Highway 17 in Vermilion Bay. The park provides a variety of camping and recreational opportunities.</p>\r\n\r\n<p>Blue Lake offers a range of car camping opportunities from private tent pads to pull-through sites with parking areas. Half of the campsites offer electrical hook-up. Two group electrical sites, are located on the Eastern and Western section of the park providing beautiful lake views and water access.</p>\r\n\r\n<p>Amenities such as water taps, comfort stations, laundry facilities and a boat launch are close by. Swimming, boating and hiking opportunities, including an amphitheatre and the Visitor Centre, are only a short distance away.</p>\r\n\r\n<p>Blue Lake offers 27ft trailer-equipped campsites available to rent.  Each trailer sleeps up to six people and they are located in the Northern and Southern sections of the park.</p>",
+    "website": "https://www.ontarioparks.com/park/BlueLake",
+    "address": {
+      "streetAddress": "1722 Hwy 647",
+      "city": "Vermillion Bay",
+      "region": "Ontario",
+      "regionCode": "P8N 2Z4",
+      "country": "Canada",
+      "phoneNumber": "807-227-2601 (May to September)\n807-223-7535 (October to April"
+    }
+  },
+  {
+    "park_id": -2147483634,
+    "short_name": "Bon Echo",
+    "full_name": "Bon Echo Provincial Park",
+    "description": "<p>The Mazinaw Lake Campground has three camping loops: Sawmill Bay, Midway and Fairway. Campsites on these loops can accommodate equipment ranging from tents to large trailers. Many campsites offer electrical hook-up. Amenities such as water taps, comfort stations and laundry facilities are close by. Swimming, boating and the Visitor Centre are only a short distance away.</p>\r\n\r\n<p>For a semi-wilderness experience, you can camp in the maple-beech forest of the Hardwood Hill Campground. Sites in Hardwood Hill can accommodate tents or tent-trailers. Toilets are nearby and there is one comfort station to service the campground. There are no electrical hook-ups.</p>\r\n\r\n<p>The Midway loop of the Mazinaw Lake Campground and Hardwood Hill Campground are radio-free.</p>\r\n\r\n<p>Bon Echo offers a number of opportunities for roofed accommodation. Camp cabins are located in a private waterfront on Bon Echo Lake. Yurts are found on the Mazinaw Lake Campground with quick access to the lake. Exploration Tents are situated in Sawmill Bay Campground near Mazinaw Lake.</p>\r\n\r\n<p>The park also offers backcountry campsites on a number of inland lakes. There are 25 canoe access sites and 5 hiking access sites. At each campsite, you will find a picnic table, tent space and a privy toilet nearby.</p>",
+    "website": "https://www.ontarioparks.com/park/BonEcho",
+    "address": {
+      "streetAddress": "16151 Hwy 41",
+      "city": "Cloyne",
+      "region": "Ontario",
+      "regionCode": "K0H 1K0",
+      "country": "Canada",
+      "phoneNumber": "613-336-2228"
+    }
+  },
+  {
+    "park_id": -2147483536,
+    "short_name": "Spanish River & Biscotasi Lake",
+    "full_name": "Spanish River & Biscotasi Lake Provincial Park",
+    "description": "<p>The Spanish River and Biscotasi Lake are favourites for backcountry canoeing. Its rugged landscape, towering pines, variety of whitewater, a chance to include road or train access options and choice of routes make it a popular trip.</p>\r\n\r\n<p>The Spanish River offers paddling for canoeists of intermediate skill level, with Class I and II rapids, lots of swifts and moving water. Take the East Branch of the river for whitewater fun or take the train to Biscotasing to start your trip on the wilder, West Branch of the river.</p>\r\n\r\n<p>Stay on huge, island-studded Biscotasi Lake for flatwater paddling and great fishing.</p>\r\n\r\n<p>No reservations necessary.</p>\r\n\r\n<p>It's a historic route of the Ojibwe, 18th century fur traders and turn of the century Forest Ranger Archie Belaney, known later as Grey Owl.</p>",
+    "website": "http://www.ontarioparks.com/park/SpanishRiver",
+    "address": {
+      "streetAddress": "c/o Chutes Provincial Park \n        PO Box 37 - 650 Imperial Street",
+      "city": "Massey",
+      "region": "Ontario",
+      "regionCode": "P0P 1P0",
+      "country": "Canada",
+      "phoneNumber": "705-865-2021"
+    }
+  },
+  {
+    "park_id": -2147483523,
+    "short_name": "Woodland Caribou",
+    "full_name": "Woodland Caribou Provincial Park",
+    "description": "This wilderness park covers 486,258 hectares of northwestern Ontario next to the provincial border of Manitoba and lies about 30 kilometres from Red Lake. It is a paddler’s paradise with 5,190 lakes and 7,840 islands.  Unlike most other Ontario Parks, there are no roads in the park.  Flying or paddling are the only means of access providing great seclusion and has very little human interference. The park is made up of rocky-shored lakes, rushing and winding streams, roaring rapids and waterfalls, surrounded by a carpet of forest punctuated by open wetlands and rocky outcrops. The Park is included in Canada’s first mixed cultural and natural UNESCO World Heritage Site, Pimachiowin Aki. The heritage site blends both natural and cultural heritage value in addition to being an example of the indivisibility of the natural environment, the cultural indemnity and traditions of the Indigenous peoples.",
+    "website": "http://www.ontarioparks.com/park/WoodlandCaribou",
+    "address": {
+      "streetAddress": "227 Howey Street",
+      "city": "Red Lake",
+      "region": "Ontario",
+      "regionCode": "P0V 2M0",
+      "country": "Canada",
+      "phoneNumber": "807-727-1329"
+    }
+  },
+  {
+    "park_id": -2147483529,
+    "short_name": "Wabakimi",
+    "full_name": "Wabakimi Provincial Park",
+    "description": "Wabakimi offers remote backcountry camping that can be accessed by canoe, float plane or train. Many of the canoe routes require skillful paddling, navigation, outdoor living techniques and adventurous portaging. Campsites are unmarked and rustic. They vary in size and ground cover, ranging from large bedrock areas to small wooded clearings. Paddlers are permitted to camp at any location as long as the site is returned to the same or better condition as it was found. \r\n\r\n",
+    "website": "http://www.ontarioparks.com/park/Wabakimi",
+    "address": {
+      "streetAddress": "435 James St. South",
+      "city": "Suite 221d, Thunder Bay",
+      "region": "Ontario",
+      "regionCode": "P7E 6S7",
+      "country": "Canada",
+      "phoneNumber": "807-473-3031"
+    }
+  },
+  {
+    "park_id": -2147483604,
+    "short_name": "Kap-Kig-Iwan",
+    "full_name": "Kap-Kig-Iwan Provincial Park",
+    "description": "Kap-Kig-Iwan has electrical campsites available. The campsites can accommodate equipment ranging from tents to large trailers. Amenities such as water taps and comfort stations with showers are located in the park. Hiking and angling opportunities are only a short distance away.",
+    "website": "http://www.ontarioparks.com/park/KapKigIwan",
+    "address": {
+      "streetAddress": "474030 Kap-Kig-Iwan Rd",
+      "city": "Englehart",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": "705-544-8737"
+    }
+  },
+  {
+    "park_id": -2147483583,
+    "short_name": "Missinaibi",
+    "full_name": "Missinaibi Provincial Park (Lake)",
+    "description": "Missinaibi Lake offers endless exploration opportunities, including; world-class fishing, three pictograph sites, an old Hudson’s Bay Company trading post and an abandoned logging camp. \r\nCampground:\r\nThe Barclay Bay Campground has 36 campsites, each with a fire-ring, and picnic table. There are vault privies and potable water, as well as an extensive dock system, boat launch and fish cleaning house to accommodate our visiting anglers.\r\nInterior:\r\nMissinaibi Lake, the centrepiece of the park, offers 20 backcountry campsites, accessible only by boat, canoe or kayak. These sites also offer some amenities; picnic tables and fire-rings can be found on these remote sites, along with level tent pads.\r\nThe magnificent Missinaibi River flows northward from Missinaibi Lake, 426 kms to Moose River and finally into James Bay. This river is one of the longest protected, unimpeded wilderness waterways in Canada, offering canoeists challenging white water, incredible scenery and abundant wildlife viewing opportunities. The Missinaibi River is remote and challenging and is recommended for experienced canoeist only. There are designated campsites along the river and portages around most rapids.  \r\n",
+    "website": "http://www.ontarioparks.com/park/Missinaibi",
+    "address": {
+      "streetAddress": "190 Cherry Street",
+      "city": "Chapleau",
+      "region": "Ontario",
+      "regionCode": "P0M 1K0",
+      "country": "Canada",
+      "phoneNumber": "1-705-234-2222 (Off Season – 1-705-864-3114)"
+    }
+  },
+  {
+    "park_id": -2147483582,
+    "short_name": "Missinaibi (River)",
+    "full_name": "Missinaibi Provincial Park (River)",
+    "description": "Missinaibi Lake offers endless exploration opportunities, including; world-class fishing, three pictograph sites, an old Hudson’s Bay Company trading post and an abandoned logging camp. Campground: The Barclay Bay Campground has 36 campsites, each with a fire-ring, and picnic table. There are vault privies and potable water, as well as an extensive dock system, boat launch and fish cleaning house to accommodate our visiting anglers. Interior: Missinaibi Lake, the centrepiece of the park, offers 20 backcountry campsites, accessible only by boat, canoe or kayak. These sites also offer some amenities; picnic tables and fire-rings can be found on these remote sites, along with level tent pads. The magnificent Missinaibi River flows northward from Missinaibi Lake, 426 kms to Moose River and finally into James Bay. This river is one of the longest protected, unimpeded wilderness waterways in Canada, offering canoeists challenging white water, incredible scenery and abundant wildlife viewing opportunities. The Missinaibi River is remote and challenging and is recommended for experienced canoeist only. There are designated campsites along the river and portages around most rapids.",
+    "website": "https://www.ontarioparks.com/park/missinaibi",
+    "address": {
+      "streetAddress": "190 Cherry Street",
+      "city": "Chapleau",
+      "region": "Ontario",
+      "regionCode": "P0M 1K0",
+      "country": "Canada",
+      "phoneNumber": "1-705-234-2222 (Off Season – 1-705-864-3114)"
+    }
+  },
+  {
+    "park_id": -2147483573,
+    "short_name": "Ojibway",
+    "full_name": "Ojibway Provincial Park",
+    "description": "Ojibway Provincial Park is a beautiful, well-treed and nicely buffered small campground located in the heart of the boreal forest.  The landscape ties together the natural beauty of a northern forest, a pristine lake system and the comfort of a hospitable campground. \r\nThis park offers fewer than 50 campsites, half of which have electricity.  Campsites can accommodate equipment ranging from tents only to large trailers.  \r\nA group site is available which offers the option of a yurt accommodation which is located on the northern section of the park privately situated away from the main camping sites. Seasonal Campsites are also available. \r\nAmenities such as water taps, comfort stations, laundry facilities and boat launches are close by.  Swimming, boating, great fishing and hiking are only a short distance away.\r\n",
+    "website": "http://www.ontarioparks.com/park/Ojibway",
+    "address": {
+      "streetAddress": "4484 Hwy 72",
+      "city": "Sioux Lookout",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": "807-223-2824"
+    }
+  },
+  {
+    "park_id": -2147483570,
+    "short_name": "Pakwash",
+    "full_name": "Pakwash Provincial Park",
+    "description": "This small, quiet campground has over 50 campsites, almost half of which have electricity.  A few campsites are located away from the main campground and have their own beach front view. Campsites can accommodate equipment ranging from tents only to large trailers. Seasonal Campsites are also available.  \r\nAmenities such as water taps, comfort stations and laundry facilities are close by.  Swimming, boating, great fishing and hiking are only a short distance away. \r\n",
+    "website": "http://www.ontarioparks.com/park/Pakwash",
+    "address": {
+      "streetAddress": "Hwy 105",
+      "city": "20km North of Ear Falls",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": "807-727-2861"
+    }
+  },
+  {
+    "park_id": -2147483542,
+    "short_name": "Silver Falls",
+    "full_name": "Silver Falls Provincial Park",
+    "description": "Silver Falls offers rustic tent and car camping with a total of 56 campsites. 45 campsites are Seasonal Campsites and 11 are available on a first come-first serve basis. A permit must be purchased to camp on all campsites at the park. There is no electricity or running water available at this park.",
+    "website": "http://www.ontarioparks.com/park/SilverFalls",
+    "address": {
+      "streetAddress": "4853 Hwy 11/17",
+      "city": "Kakabeka Falls",
+      "region": "Ontario",
+      "regionCode": "",
+      "country": "Canada",
+      "phoneNumber": "807-473-5973"
+    }
+  },
+  {
+    "park_id": -2147483515,
+    "short_name": "Tidewater",
+    "full_name": "Tidewater Provincial Park",
+    "description": "The park consists of 5 islands in the Moose River between Moosonee and Moose Factory. Charles Island is the only one with designated campsites, which can be found on the trail just off of the day use area overlooking the town of Moosonee. There are water taxis that can be taken from the Park to Moosonee and Moose Factory. Caution is advised as the winds, tides and river currents can challenge even the most experienced paddlers.",
+    "website": "http://www.ontarioparks.com/park/tidewater",
+    "address": {
+      "streetAddress": "2 Highway 11 South, Building 4",
+      "city": "Cochrane",
+      "region": "Ontario",
+      "regionCode": "P0L 1C0",
+      "country": "Canada",
+      "phoneNumber": "705-272-7139"
+    }
+  },
+  {
+    "park_id": -2147483520,
+    "short_name": "Petroglyphs",
+    "full_name": "Petroglyphs Provincial Park",
+    "description": "",
+    "website": "http://www.ontarioparks.com/park/Petroglyphs",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483519,
+    "short_name": "Springwater",
+    "full_name": "Springwater Provincial Park",
+    "description": "",
+    "website": "http://www.ontarioparks.com/park/Springwater ",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483642,
+    "short_name": "Arrow Lake",
+    "full_name": "Arrow Lake Provincial Park",
+    "description": "Arrow Lake offers rustic tent and car camping on 40 campsites. Of these, 30 campsites are seasonally leased and 10 are available for reservations. A permit must be purchased to camp on all campsites at the park. There is no electricity or running water available at this park.",
+    "website": "https://www.ontarioparks.com/park/ArrowLake",
+    "address": {
+      "streetAddress": "4853 Hwy 11/17",
+      "city": "Kakabeka Falls",
+      "region": "Ontario",
+      "regionCode": "P0T 1W0",
+      "country": "Canada",
+      "phoneNumber": "807-473-9231"
+    }
+  },
+  {
+    "park_id": -2147483552,
+    "short_name": "Rushing River",
+    "full_name": "Rushing River Provincial Park",
+    "description": "Rushing River has a variety of electrical and non-electrical sites well suited to any equipment ranging from a single tent to a large motorhome. Many of the sites are waterfront and offer unforgettable views of Dogtooth Lake. Facilities throughout the campgrounds include drinking water taps, two modern comfort stations and a trailer dump and fill station.\r\nThe Northwest and Southeast campground have walk-in campsites.   Park along the main road and then take a short path (20-50m) to your campsite. These waterfront campsites are extremely popular.\r\nRushing River also offers 4 sites that are fully equipped with rental trailers, providing the full camping experience without any setup required.",
+    "website": "http://www.ontarioparks.com/park/RushingRiver",
+    "address": {
+      "streetAddress": "1100 Hwy 71",
+      "city": "Longbow Lake",
+      "region": "Ontario",
+      "regionCode": "P0X 1H0",
+      "country": "Canada",
+      "phoneNumber": "807-548-4351"
+    }
+  },
+  {
+    "park_id": -2147483612,
+    "short_name": "French River",
+    "full_name": "French River Provincial Park",
+    "description": "<p>The French River is a favourite of beginner and experienced backcountry canoeists alike. Its rugged landscape, windswept pines, easy to reach road access options, and choice of routes make it a popular trip. Paddle the route of Indigenous peoples, Samuel de Champlain, and 18th century fur traders.</p>\r\n<p>All campsites are water access only. Reservations are not necessary as all campsites operate on a first come, first served basis.</p>\r\n<p>The first digit of the campsite number shown on the official park map indicates that campsite’s zone e.g. campsite 106 is in Zone 1 and campsite 723 is in Zone 7.</p>\r\n<p>Designated campsites and portages are clearly signed and can be found on the official park map which is available for purchase at the French River Visitor Centre. Some campsites are not outfitted with a privy due to the local geology and topography.</p>\r\n<p>Otter Bay is the only access point located within French River Provincial Park. All other access to the park is through private businesses or public boat launches. Vehicle parking at private businesses or public boat launches is not included with the purchase of a park permit as these locations are not within the park. Ontario Parks is not responsible for any additional fees incurred or the hours of operation at these privately-operated access points.</p>",
+    "website": "https://www.ontarioparks.com/park/FrenchRiver",
+    "address": {
+      "streetAddress": "20526 Highway 69",
+      "city": "Alban",
+      "region": "Ontario",
+      "regionCode": "P0M 1A0",
+      "country": "Canada",
+      "phoneNumber": "705-857-1630"
+    }
+  },
+  {
+    "park_id": -2147483609,
+    "short_name": "Grundy Lake",
+    "full_name": "Grundy Lake Provincial Park",
+    "description": "Grundy Lake offers large, private campsites within 9 campgrounds and most campsites are less than a five-minute walk to beaches or water access. Campsites are available for all types of camping equipment. Electrical campsites are available in Hemlock, Trailer, Poplar, White Pine, White Birch and Jack Pine campgrounds. \r\nTrailer, Poplar and White Birch campgrounds offer large, electrical pull-thru sites perfect for trailers. \r\nHemlock and Red Maple campgrounds are radio-free, and Red Maple campground is also pet-free.  \r\nThe park also offers backcountry campsites on a number of inland lakes. Accessibility of these campsites ranges from a short paddle to crossing multiple portages, you will find a firepit, picnic table, tent space and a toilet nearby.\r\nA camp cabin, which sleeps up to five is located on the shores of Grundy Lake in the White Birch Campground.",
+    "website": "https://www.ontarioparks.com/park/GrundyLake",
+    "address": {
+      "streetAddress": "20400 Hwy 522",
+      "city": "Britt",
+      "region": "Ontario",
+      "regionCode": "P0G 1A0",
+      "country": "Canada",
+      "phoneNumber": "(705)383-2286"
+    }
+  },
+  {
+    "park_id": -2147483532,
+    "short_name": "Temagami Cluster",
+    "full_name": "Temagami (Lady Evelyn-Smoothwater, Obabika River, Sturgeon River, Solace, Makobe-Grays River)",
+    "description": "The “Temagami Cluster” consists of a network of five parks providing a number of interconnected canoe routes. The parks include:\n          \n          <p> Lady Evelyn-Smoothwater Provincial Park  </p>\n          <ul>\n          <li> Located in the heart of the Temagami region and centre of a 2400km interconnected canoeing network, thousands of years old </li>\n          <li> A spectacular wilderness park encompassing rugged topography, clear lakes and rushing rivers </li>\n          </ul>\n\n          <p> Makobe-Grays River Provincial Park  </p>\n          <ul>\n          <li> The Makobe River is one of the wild whitewater rivers that flow from the headwaters contained in Lady Evelyn-Smoothwater Provincial Park. </li>\n          </ul>\n\n          <p> Obabika River Provincial Park  </p>\n          <ul>\n          <li> This waterway park contains an incredible diversity of landscapes, from island-speckled lakes, to meandering rivers, bedrock uplands and expansive wetlands, as well as towering stands of old growth pine and rocky cliffs </li>\n          </ul>\n\n          <p> Sturgeon River Provincial Park  </p>\n          <ul>\n          <li> The Sturgeon River provides canoeists with plenty of whitewater, scenic falls and rapids, wildlife spotting and good fishing, all in a remote setting. </li>\n          </ul>\n\n          <p> Solace Provincial Park   </p>\n          <ul>\n          <li> Solace Provincial Park encompasses a chain of narrow, scenic lakes that point north and south, and lie between a series of forest-covered ridges.  </li>\n          <li> Canoeing opportunities are lake-to-lake with short rugged portages in-between.  </li>\n          </ul>\n\n          <p> If your trip will travel on park land and crown land, please purchase your park permit for the nights you plan to spend within the park boundaries. If your trip is broken up with a crown land stay in the middle of your trip, please purchase 2 separate permits.\n          For example: Your trip is 10 nights. Your crown land nights are planned for nights 1, 4, 5, and 10. You will require a park permit for nights 2 and 3, and another park permit for nights 6 – 9, for a total of 6 nights in the park. You can enter your entrance and exit points the same for both permits.</p>\n\n          <p> Please note crown land camping permits are required for non-residents of Canada. Please follow the link to purchase your crown land camping permits. </p>\n\n\n          <p><a href=\"http://www.ontarioparks.com/park/ladyevelynsmoothwater\" target=\"_blank\">Lady Evelyn-Smoothwater Provincial Park</a></p>\n\n          <p><a href=\"http://www.ontarioparks.com/park/makobegraysriver\" target=\"_blank\">Makobe-Grays River Provincial Park</a></p>\n\n          <p><a href=\"http://www.ontarioparks.com/park/obabikariver\" target=\"_blank\">Obabika River Provincial Park</a></p>\n          \n          <p><a href=\"http://www.ontarioparks.com/park/solace\" target=\"_blank\">Solace Provincial Park</a></p>\n\n          <p><a href=\"http://www.ontarioparks.com/park/sturgeonriver\" target=\"_blank\">Sturgeon River Provincial Park</a></p>\n\n          <p><a href=\"https://www.ontario.ca/page/fishing\" target=\"_blank\">Ontario Fishing Regulations</a></p>",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483538,
+    "short_name": "Sleeping Giant",
+    "full_name": "Sleeping Giant Provincial Park",
+    "description": "<p>The Marie Louise Lake Campground is renowned for large, lakefront campsites which provide excellent views of the Sleeping Giant. \r\nSites 118-168 are located on the campground’s windswept point and are ideal for tenting while avoiding bugs. \r\nThe pull-through sites 85-96 are perfect for larger trailers that require nearby electrical pedestals and easy access to a comfort station.\r\nSites 200-221 are the largest, most private campsites in the campground and the distance to electrical pedestals can exceed 100 feet. \r\nSites 310-319 are located along a 12 km one-way road on the opposite shore of Marie Louise Lake. Some of these campsites require a short 25-50 metre walk to access tenting location(s) adjacent to Marie Louise Lake.</p>\r\n<p>There are 27 backcountry campsites in Sleeping Giant Provincial Park which are divided into seven zones. The Tee Harbour Zone (Zone 1) encompasses 10 campsites, the Lehtinen’s Bay Zone (Zone 2) contains 3 campsites, and the Sawyer Bay Zone (Zone 5) has 3 campsites. These three zones are by far the most popular backcountry camping areas within the park and accordingly, sites at these locations have designated metal firepits, access to privies (or thunder-boxes) and access to shared bear-proof, stainless-steel storage lockers. There are 3 campsites in the Talus Lake Zone (Zone 3), 4 campsites in the Nanabosho Zone (Zone 4), and 3 campsites in the Twinpine Lake Zone (Zone 6) which are more suited for short stop-overs during longer hiking trips. These campsites have basic, stone fire-rings and often do not have access to privies or thunder-boxes. The Finlay Bay Zone (Zone 7) corresponds to a single, isolated campsite at Finlay Bay.</p>",
+    "website": "http://www.ontarioparks.com/park/SleepingGiant",
+    "address": {
+      "streetAddress": "RR 1",
+      "city": "Pass Lake",
+      "region": "Ontario",
+      "regionCode": "P0T 2M0",
+      "country": "Canada",
+      "phoneNumber": "807-977-2526"
+    }
+  },
+  {
+    "park_id": -2147483600,
+    "short_name": "Killbear",
+    "full_name": "Killbear Provincial Park",
+    "description": "Killbear offers car camping at all seven campgrounds with most campsites being less than a five-minute walk from the shoreline. Campsites are available for all types of camping equipment. Electrical sites are available in Kilcoursie, Beaver Dams and Harold Point Campgrounds.\r\nRadio-free campgrounds include Granite Saddle, Harold Point, Lighthouse Point and Georgian campgrounds are radio-free.",
+    "website": "http://www.ontarioparks.com/park/Killbear",
+    "address": {
+      "streetAddress": "35 Eddie Ramsay Parkway",
+      "city": "Nobel",
+      "region": "Ontario",
+      "regionCode": "P0G 1G0",
+      "country": "Canada",
+      "phoneNumber": "(705) 342-5492"
+    }
+  },
+  {
+    "park_id": -2147483618,
+    "short_name": "Emily",
+    "full_name": "Emily Provincial Park",
+    "description": "The park is on the Pigeon River and provides access to the Trent Severn Waterway and the Kawartha Lakes. The Hilltop, Hill, and Circle Campgrounds offer many large, private and grassy sites that can accommodate various types of equipment ranging from tents to large trailers. Many of the sites offer electrical hookups.\r\nCedars Campground offers tent only sites. Sites in the Cedars Campground are non-electrical, and the east side of the Cedars is radio free.",
+    "website": "https://www.ontarioparks.com/park/Emily",
+    "address": {
+      "streetAddress": "797 County Road 10, R.R. 4",
+      "city": "Omemee",
+      "region": "Ontario",
+      "regionCode": "K0L 2W0",
+      "country": "Canada",
+      "phoneNumber": "(705)799-5170"
+    }
+  },
+  {
+    "park_id": -2147483517,
+    "short_name": "Web Store",
+    "full_name": "Web Store",
+    "description": "",
+    "website": "https://www.ontarioparks.con/contact",
+    "address": {
+      "streetAddress": "P.O. Box 2178",
+      "city": "Orillia",
+      "region": "Ontario",
+      "regionCode": "L3V 6S1",
+      "country": "Canada",
+      "phoneNumber": "1-888-668-7275"
+    }
+  },
+  {
+    "park_id": -2147483647,
+    "short_name": "Achray / Sand Lake Gate",
+    "full_name": "Algonquin - Achray Campground / Sand Lake Gate",
+    "description": "<p>The campground is in a pine forest bordering sandy beaches; all campsites are a short walk from the waterfront. There are flush toilets but no shower or laundry facilities. A limited number of sites can accommodate recreational vehicles but there are no electrical sites and generators are prohibited. The campground has one Yurt, sleeping up to 6.</p>\r\n\r\n<p>The entire Achray campground is radio-free and the western side of the campground is pet-free.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>Boat launch, maximum 10 horsepower permitted on Grand Lake</li>\r\n<li>Park office on site</li>\r\n<li>4 trails in the area: Achray Historic Site Exhibit (easy, 2.4 km), Berm Lake (moderate, 4.5 km), Barron Canyon (easy, 1.5 km) and Jack Pine (easy, 1.6 km return)</li>\r\n<li>Beaches and day use picnic areas available – pets are prohibited in the beach areas</li>\r\n<li>Flush toilets and vault privy toilets available in the campground area only</li>\r\n<li>Garbage facilities at the campground only</li>\r\n<li>No cell service</li>\r\n</ul>\r\n\r\n<p>Access to this campground is on 45 km of gravel road. There is no gas sold at this access point or at the campground. There are no public roads to Achray directly from Highway 60.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "5396 Barron Canyon Road",
+      "city": "Pembroke",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483555,
+    "short_name": "Rock Lake and Raccoon Lake",
+    "full_name": "Algonquin - Rock Lake and Raccoon Lake",
+    "description": "This small campground is located 6 km south of Hwy 60 from km 40.3.  Vault privies are located within the campground while showers, laundry facilities and flush toilets are located at nearby Rock Lake Campground. \r\nThis campground and sites are small and not suitable for trailers or RVs.  \r\nRegistration is at Rock Lake Campground office.\r\n\r\nNestled in a pine forest, Rock Lake Campground is located at 8 km south of Highway 60 at km 40. This campground has over 100 campsites, over half of which have electrical hook-ups. Sites can accommodate all types of equipment ranging from tents to larger vehicles. Two barrier-free campsites are available.",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "P.O. Box 219",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "(705)633-5572"
+    }
+  },
+  {
+    "park_id": -2147483521,
+    "short_name": "MacLeod",
+    "full_name": "MacLeod Provincial Park",
+    "description": "MacLeod offers treed sites that are well-drained and level.  The park is located on a peninsula jutting out into the lake and many sites have great shoreline access.  Seasonal Campsites are available.",
+    "website": "http://www.ontarioparks.com/park/macleod",
+    "address": {
+      "streetAddress": "1800 Main Street",
+      "city": "Geraldton",
+      "region": "Ontario",
+      "regionCode": "P0T1M0",
+      "country": "Canada",
+      "phoneNumber": "(807) 854-0370"
+    }
+  },
+  {
+    "park_id": -2147483531,
+    "short_name": "Turkey Point",
+    "full_name": "Turkey Point Provincial Park",
+    "description": "<p>Walkingstick Woods, situated in a deciduous/oak forest, is a mix of 15/30 amp electric and non-electric campsites. The large private sites include both drive in and pull through sites which make it ideal for trailers and large motorhomes. Tents are also welcome. Amenities such as water taps, vault toilets, and a comfort station are located within this campground.</p>\r\n\r\n<p>Whippoorwill campground, which is carved from an old pine forestry plantation, is a mix of electric and non-electric sites and is ideal for small to medium sized trailers and tents. This campground also has two vault toilets, one comfort station and a playground.</p>\r\n\r\n<p>Fin and Feather campground is the smallest campground and is a mix of electric and non-electric sites. This campground is Radio Free. This small campground is equipped with one vault toilet with walking paths to comfort stations in the other two campgrounds.</p>\r\n\r\n<p>Turkey Point also offers 3 Group Camp Areas. The largest, 401, is located at the north end of the park and can accommodate 40-50 people. 402 and 403, located in the southwest end of the park, can accommodate 25-30 people. All group campsites have onsite vault toilets, water taps and a group fire pit.</p>\r\n\r\n<p>Swimming is available on Lake Erie about 2 km from the main park entrance. </p>",
+    "website": "http://www.ontarioparks.com/park/TurkeyPoint",
+    "address": {
+      "streetAddress": "194 Turkey Point Road",
+      "city": "Turkey Point",
+      "region": "Ontario",
+      "regionCode": "N0E 1T0",
+      "country": "Canada",
+      "phoneNumber": "519-426-3239"
+    }
+  },
+  {
+    "park_id": -2147483544,
+    "short_name": "Sibbald Point",
+    "full_name": "Sibbald Point Provincial Park",
+    "description": "<p>Sibbald Point is located on the shores of Lake Simcoe, offering camping and day use opportunities. In the day use area, visitors can enjoy a large sandy beach, grassy picnicking areas, designated on leash dog beaches, 7 picnic shelters, comfort stations and a boat launch with designated parking for vehicles with boat trailers. Sibbald Point offers 10 different campground areas.</p>\r\n\r\n<p>The East Campground offers non-electrical sites only. Sites #200-381 are in a Radio Free area; these sites are close to Maidenhair Fern Trail, which is a 2 kilometre walk through a variety of different ecosystems. This area also offers close access to the beach and day use areas.</p>\r\n\r\n<p>The West campground offers electrical sites. Sites #402-586 are in radio free areas. The 500s area is for trailers only.</p>\r\n\r\n<p>Our 6 group camping sites are non-electric and radio free.</p>\r\n\r\n<p>If you enjoy attending our programming, the 900s are a short distance to the Park Amphitheatre.</p>",
+    "website": "http://www.ontarioparks.com/park/SibbaldPoint",
+    "address": {
+      "streetAddress": "26071 York Rd 18",
+      "city": "Sutton West",
+      "region": "Ontario",
+      "regionCode": "L0E 1R0",
+      "country": "Canada",
+      "phoneNumber": "905-722-8061"
+    }
+  },
+  {
+    "park_id": -2147483549,
+    "short_name": "Sandbanks",
+    "full_name": "Sandbanks Provincial Park",
+    "description": "<p>Sandbanks offers camping and day use opportunities and roofed accommodation rentals. Day use is available for trail use throughout the park and at three different beaches: Outlet Beach, Dunes Beach and Lakeshore Beach. Car camping is available with over 500 campsites in five campground areas: Outlet River A & B, Cedars in the East Lake sector, Richardson’s in the West Lake sector and the Woodlands Campground located between East and West Lake sectors of the park.</p>\r\n\r\n<p>Outlet A, with its many waterfront sites, is very popular with campers. This is a busy campground with sites that are grouped relatively close together. Outlet B offers a bit more privacy with some sites along the Outlet River and a loop with electrical pull-through sites.</p>\r\n\r\n<p>Cedars is a family-oriented campground offering more sheltered, private campsites. It has less traffic than the Outlet campgrounds, but the beach is still close by.</p>\r\n\r\n<p>The Woodlands Campground offers both shady and sunny sites. Sunny sites are preferred by fall campers when temperatures are cooler. All sites in the Woodlands Campground offer electrical service. Swimming, boating and the Discovery Centre are only a short distance away.</p>\r\n\r\n<p>The West Lake Campground is Pet Free and has 75 electrical campsites suitable to large RVs; many of the campsite are pull through sites. This campground is located across from the Dunes Day Use area.</p>\r\n\r\n<p> Richardson’s Campground also offers a mix of sunny and shady sites. </p>\r\n\r\n<p>Sandbanks has two roofed accommodations. Jacques Cottage, located on the shore of Lake Ontario, sleeps up to 4 and is a short bicycle ride from Lakeshore and Dunes beaches. Maple Rest Heritage House is a four bedroom Victorian house that sleeps up to 8, located close to Dunes Beach and all of the park’s trails.</p>",
+    "website": "http://www.ontarioparks.com/park/Sandbanks",
+    "address": {
+      "streetAddress": "3004 County Rd 12",
+      "city": "Picton",
+      "region": "Ontario",
+      "regionCode": "K0K 2T0",
+      "country": "Canada",
+      "phoneNumber": "613-393-3319"
+    }
+  },
+  {
+    "park_id": -2147483563,
+    "short_name": "Presqu'ile",
+    "full_name": "Presqu'ile Provincial Park",
+    "description": "<p>High Bluff Campground has many open, sunny sites that are popular for RVs. The few sites directly on the water are the most popular in the park. Wooded sites are available in the back of the loop.</p>\r\n\r\n<p>Pines Campground is the smallest campground with all electrical sites situated among a Scots Pine forest. It is popular for RVs.</p>\r\n\r\n<p>Maples Campground has spacious sites, in a mixed deciduous-coniferous forest.</p>\r\n\r\n<p>Lakeside Campground has non-electrical sites, with a few located right on the lakeshore. The comfort station is shared with Hidden Valley Campground and not available after Labour Day. Maples Comfort Station is a short stroll away.</p>\r\n\r\n<p>Trails End Campground has almost all electrical campsites. This former farm field is now treed with a young forest and shrubs and most sites are nicely screened. Vault toilets and water taps service this campground.</p>\r\n\r\n<p>Craigs Campground has non-electrical campsites in a wooded area and is radio-free. Vault toilets and water taps are located on the site and comfort stations are a short stroll away.</p>\r\n\r\n<p>Hidden Valley Campground has non-electrical sites in a mature forest. A comfort station with flush toilets and showers is located on the west side of the campground.</p>\r\n\r\n<p>Elmvale Campground has mostly non-electrical sites with a few having electrical service. Three sites are situated directly on the lakeshore. Most sites are in mature forest, with the ones nearer the lake being more open.</p>\r\n\r\n<p>The Clarke-Denson Cottage offers comfortable accommodations for up to six, located right on the shore of Lake Ontario.  Two soft-sided structures are available in the Maples Campground.</p>",
+    "website": "http://www.ontarioparks.com/park/Presquile",
+    "address": {
+      "streetAddress": "328 Presqu'ile Parkway",
+      "city": "Brighton",
+      "region": "Ontario",
+      "regionCode": "K0K 1H0",
+      "country": "Canada",
+      "phoneNumber": "613-475-4324"
+    }
+  },
+  {
+    "park_id": -2147483568,
+    "short_name": "Pinery",
+    "full_name": "Pinery Provincial Park",
+    "description": "<p>Riverside Campground is located beside the provincially significant Old Ausable Channel and has electrical, non-electrical, pull-through sites and roofed accommodations. Riverside Area 1 is open year-round for those that want to enjoy Pinery in all four seasons.</p>\r\n\r\n<p>Roofed accommodations are located in Riverside Area 1. Area 3 Riverside Campground is designated as radio-free.</p>\r\n\r\n<p>Dunes Campground is within easy walking distance of the Lake Huron beach, outdoor amphitheatre and Visitor Centre. This campground provides a mix of electrical, pop-up trailer and tent sites from May to October. Area 4 of Dunes Campground is designated as pet-free camping.</p>\r\n\r\n<p>Burley Campground, open from June to September, is the furthest away from the main gate, but is well worth the extra drive! The sites in Burley are nestled between older cedars and within close walking distance of the beach. These campsites are perfect for those campers that do not need electricity or pull-through sites.</p>\r\n\r\n<p>Amenities such as water taps, comfort stations and laundry facilities are located within all areas in each of the three campground areas in Pinery – Riverside, Dunes and Burley.</p>\r\n\r\n<p>Please be sure to always use designated trails and boardwalks to access the beach as our dune system is extremely fragile and sensitive to human impacts.</p>",
+    "website": "http://www.ontarioparks.com/park/Pinery",
+    "address": {
+      "streetAddress": "9526 Lakeshore Road Hwy 21",
+      "city": "Grand Bend",
+      "region": "Ontario",
+      "regionCode": "N0M 1T0",
+      "country": "Canada",
+      "phoneNumber": "519-243-2220"
+    }
+  },
+  {
+    "park_id": -2147483577,
+    "short_name": "North Beach",
+    "full_name": "North Beach Provincial Park",
+    "description": "North Beach is a recreational day use park located near Consecon on the west side of Prince Edward County. The park is a bay-mouth sandbar at approximately 1,200 metres long and 200 metres wide; it is a park which is almost all beach. This sandbar, situated on Lake Ontario and North Bay, provides two different beach experiences. A small canteen is available in the park, there is a boat launch suitable for small vessels on the North Bay side of the park and there is a beach designated for visitors with dogs. North Beach does not offer camping.",
+    "website": "http://www.ontarioparks.com/park/NorthBeach",
+    "address": {
+      "streetAddress": "440 North Beach Road RR #3",
+      "city": "Consecon",
+      "region": "Ontario",
+      "regionCode": "K0K 2T0",
+      "country": "Canada",
+      "phoneNumber": "613-399-2030"
+    }
+  },
+  {
+    "park_id": -2147483472,
+    "short_name": "Mono Cliffs",
+    "full_name": "Mono Cliffs Provincial Park",
+    "description": "<p>Mono Cliffs hosts the picturesque Bruce Trail. It is a day-use-only park with great hiking and biking trails. Mono Cliffs does not offer camping.</p>\r\n\r\nPlease:\r\n<ul>\r\n<li>Stay on designated trails for your safety and the protection of the park ecosystem</li>\r\n<li>No fires</li>\r\n<li>Keep all domestic animals on leash\r\n<li>Do Not Litter</li>\r\n</ul>",
+    "website": "https://www.ontarioparks.com/park/monocliffs",
+    "address": {
+      "streetAddress": "795086 3rd Line EHS",
+      "city": "Mono",
+      "region": "Ontario",
+      "regionCode": "L9W 2Y8",
+      "country": "Canada",
+      "phoneNumber": "705-435-2498"
+    }
+  },
+  {
+    "park_id": -2147483593,
+    "short_name": "Long Point",
+    "full_name": "Long Point Provincial Park",
+    "description": "<p>Located on the shores of Lake Erie, Long Point offers campsites in 4 campgrounds.</p>\r\n\r\n<p>The section generally called “New Park” includes three campgrounds: Monarch’s Rest, Firefly and Turtle Dunes, as well as the popular Day-Use area only steps away from the beach front.</p>\r\n\r\n<p>Firefly Campground offers large pull-through sites equipped with electrical service. Located on the bay side of the campground, they are a short five-minute walk to the beach.</p>\r\n\r\n<p>Monarch’s Rest and Turtle Dunes Campgrounds offers a mix of electric and non-electric sites that are able to accommodate a variety of equipment. The campsites, located in the dunes at the ends of the loops closest to the beach, offer a soft sandy base.</p>\r\n\r\n<p>The Old Park section of Long Point includes Cottonwood Campground, a radio-free campground. The mix of electric and non-electric sites can accommodate a variety of equipment up to 18’.</p>",
+    "website": "http://www.ontarioparks.com/park/LongPoint",
+    "address": {
+      "streetAddress": "350 Erie Blvd., End of Hwy 59 South",
+      "city": "Port Rowan",
+      "region": "Ontario",
+      "regionCode": "N0E 1M0",
+      "country": "Canada",
+      "phoneNumber": "519-586-2133"
+    }
+  },
+  {
+    "park_id": -2147483646,
+    "short_name": "Lake Superior",
+    "full_name": "Lake Superior Provincial Park",
+    "description": "<b>Car Camping</b>\r\n<br>\r\n<p>Agawa Bay Campground is located right on Lake Superior, on a 3 km beach. More than half of the campsites have a view of Lake Superior. Forest cover is primarily mature pine trees. The campground is adjacent to Hwy 17. An outdoor amphitheatre and the Visitor Centre are a short walk from the campground. The south portion of the campground is radio-free.</p>\r\n\r\n<p>The Agawa Rock Pictographs are a short drive north of the campground. Facilities include two comfort stations with flush toilets, showers and laundry and a trailer dump and fill station.</p>\r\n\r\n<p>Rabbit Blanket Lake Campground is situated on an inland lake in the north end of the park, off Hwy 17. The forest is mixed allowing for some shaded sites and some more open. There is a comfort station with flush toilets, showers and laundry and a trailer dump and fill station. </p>\r\n\r\n<p>Old Woman Bay day-use is a short drive north of the campground.</p>\r\n\r\n<b>Backcountry Camping</b>\r\n<br>\r\n<p>There are 163 backcountry campsites in Lake Superior Provincial Park which are divided into 76 zones. All zones have designated campsites with access to box privies. Some sites also have designated metal fire ring. Please carefully review your planned trip before making a reservation. It is your responsibility to ensure you can safely complete the trip.</p>",
+    "website": "http://www.ontarioparks.com/park/LakeSuperior",
+    "address": {
+      "streetAddress": "P.O. Box 267",
+      "city": "Wawa",
+      "region": "Ontario",
+      "regionCode": "P0S 1K0",
+      "country": "Canada",
+      "phoneNumber": "705-856-2284"
+    }
+  },
+  {
+    "park_id": -2147483602,
+    "short_name": "Kettle Lakes",
+    "full_name": "Kettle Lakes Provincial Park",
+    "description": "<p>Kettle Lakes offers car camping in two campgrounds: The Pines and Island Lake. The Pines is known for its quiet and peaceful atmosphere. It overlooks Bull Frog Lake and is close to the front gate and the Visitor Centre.</p>\r\n\r\n<p>Island Lake campground is located deeper into the Boreal Forest. It is a family friendly campground, adjacent to a well-maintained beach at Island Lake. Hiking trails are located nearby.</p>\r\n\r\n<p>Both campgrounds can accommodate equipment ranging from tents to large trailers.</p>\r\n\r\n<p>Kettle Lakes also has a cabin available for booking. It is located away from the campgrounds on its own private lake. The cabin sleeps five people.</p>",
+    "website": "http://www.ontarioparks.com/park/KettleLakes",
+    "address": {
+      "streetAddress": "1350 Municipal Rd.",
+      "city": "Connaught",
+      "region": "Ontario",
+      "regionCode": "P0N 1A0",
+      "country": "Canada",
+      "phoneNumber": "705-363-3511"
+    }
+  },
+  {
+    "park_id": -2147483473,
+    "short_name": "Forks of the Credit",
+    "full_name": "Forks of the Credit Provincial Park",
+    "description": "<p>Forks of the Credit hosts the famous Bruce Trail. Hiking and picnicking are favourite activities, and the park is a great spot for fishing. Popular in the winter for cross-country skiing and snowshoeing. Forks of the Credit does not offer camping.</p>\r\n\r\nPlease:\r\n<ul>\r\n<li>Stay on designated trails for your safety and the protection of the park ecosystem</li>\r\n<li>No fires</li>\r\n<li>Keep all domestic animals on leash</li>\r\n<li>Do Not Litter</li>\r\n</ul>",
+    "website": "https://www.ontarioparks.com/park/forksofthecredit",
+    "address": {
+      "streetAddress": "17760 McLaren Rd.",
+      "city": "Caledon",
+      "region": "Ontario",
+      "regionCode": "L7K 2H8",
+      "country": "Canada",
+      "phoneNumber": "705-435-2498"
+    }
+  },
+  {
+    "park_id": -2147483622,
+    "short_name": "Darlington",
+    "full_name": "Darlington Provincial Park",
+    "description": "<p>Lakeside Campground (Sites 1-102) is designated as radio-free at all times. All sites in this campground are electrical and most are pull-throughs. This campground is open for the entire operating season - May to October. All sites can accommodate various sizes of equipment ranging from a single tent to large RVs and trailers. Some of these sites are close to the shoreline and overlook Lake Ontario.</p>\r\n\r\n<p>Cliffside Campground (Sites 103-186) offers mostly non-electrical campsites, however a few electrical sites are available as well. These sites vary in size and can accommodate a variety of equipment. This campground is open for the entire operating season - May to October.</p>\r\n\r\n<p>Hilltop Campground (Sites 187-322) offers mostly non-electrical campsites, however a few electrical sites are located in this campground area. These sites vary in size and can accommodate a variety of equipment types. This campground is open for Victoria Day weekend and for peak season, end of June until Labour Day.</p>\r\n\r\n<p>A comfort station is centrally located within each campground. Shower buildings are within easy walking distance from all campsites.</p>\r\n\r\n<p>Hiking trails, Day Use Areas & Beach, Nature Discovery Centre, and Amphitheatre are only a short walk away!</p>",
+    "website": "https://www.ontarioparks.com/park/Darlington",
+    "address": {
+      "streetAddress": "1600 Darlington Park Rd",
+      "city": "Bowmanville",
+      "region": "Ontario",
+      "regionCode": "L1C 3K3",
+      "country": "Canada",
+      "phoneNumber": "905-436-2036"
+    }
+  },
+  {
+    "park_id": -2147483623,
+    "short_name": "Craigleith",
+    "full_name": "Craigleith Provincial Park",
+    "description": "<p>Area A contains non-electrical sites that are ideal for tents. This area also has a designated dog beach at the west end of the park and a comfort station with flush toilets, showers, laundry facilities and conveniently located water taps.</p>\r\n\r\n<p>Area B contains both electrical and non-electrical sites that are ideal for both tents and trailers. This area is close to the Area A comfort station and has the park’s main shower building with flush toilets.</p>\r\n\r\n<p>Area C is made up of both electrical and non-electrical sites that are all radio free. The non-electrical sites are ideal for tents or small trailers. The electrical sites are ideal for trailers and RVs with some pull through sites This area also has a comfort station, trailer filling and dumping station, playground, volleyball court, horseshoe pits and playing field.</p>\r\n\r\n<p>Area D is ideal for trailers and RVs with most electrical sites having water hook-up. This area is radio-free and has one comfort station and vault privy. The day-use area which is located at the east end has a picnic shelter and visitor parking.</p>",
+    "website": "https://www.ontarioparks.com/park/Craigleith",
+    "address": {
+      "streetAddress": "209403 Highway 26",
+      "city": "Blue Mountains",
+      "region": "Ontario",
+      "regionCode": "L9Y 0T6",
+      "country": "Canada",
+      "phoneNumber": "705-445-4467"
+    }
+  },
+  {
+    "park_id": -2147483469,
+    "short_name": "Batchawana Bay",
+    "full_name": "Batchawana Bay Provincial Park",
+    "description": "Batchawana Bay is a recreation class provincial park located 70 km north of Sault Ste. Marie along the northern shores of Lake Superior. With its towering pines and warm, sandy beaches, Batchawana Bay draws local visitors and travellers alike. The park offers an exceptional picnic site and is a good location with easy access for a short paddle. Amenities include three vault toilets and one picnic shelter that is available on a first-come-first-served basis. Pancake Bay Provincial Park is just a short drive away 10 km north of Batchawana Bay located on Highway 17 North and offers a park store to pick up your camping amenities and souvenirs.",
+    "website": "https://www.ontarioparks.com/park/batchawanabay",
+    "address": {
+      "streetAddress": "10699 Hwy 17 N",
+      "city": "Batchawana Bay",
+      "region": "Ontario",
+      "regionCode": "P0S 1A0",
+      "country": "Canada",
+      "phoneNumber": "705-882-2209"
+    }
+  },
+  {
+    "park_id": -2147483641,
+    "short_name": "Arrowhead",
+    "full_name": "Arrowhead Provincial Park",
+    "description": "<p>Arrowhead is known for its large, private campsites.</p>\r\n\r\n<p><b>Roe Campground</b> generally offers the most private, well-drained sites. The beach near this campground is less crowded and offers great access for fishing.</p>\r\n\r\n<p><b>East River Campground</b> is closest to Stubbs Falls – a wonderful area to explore. The beach here is also used by day visitors so tends to be busier.</p>\r\n\r\n<p><b>Lumby Campground</b> is located in a mixed deciduous forest. It offers great sites for tent trailers and tents. The dog beach is located nearest to the north Lumby Campground. South Lumby Campground and Roads 1-4 in East River Campground offer radio-free campsites for campers who want a quieter experience.</p> \r\n\r\n<p>Camp cabins can be found on the west side of the East River campground.</p>",
+    "website": "https://www.ontarioparks.com/park/Arrowhead",
+    "address": {
+      "streetAddress": "451 Arrowhead Park Rd.",
+      "city": "Huntsville",
+      "region": "Ontario",
+      "regionCode": "P1H 2J4",
+      "country": "Canada",
+      "phoneNumber": "705-789-5105"
+    }
+  },
+  {
+    "park_id": -2147483591,
+    "short_name": "Tim River",
+    "full_name": "Algonquin - Tim River",
+    "description": "<p>On the western side of Algonquin. Tim Lake is 2 km downstream (east) of the access point.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>Boat launch, but motorboats are not permitted</li>\r\n<li>No park office on site</li>\r\n<li>No trails, beaches or day use picnic areas available</li>\r\n<li>No washroom facilities</li>\r\n<li>No garbage facilities – please pack out what you pack in</li>\r\n<li>No cell service</li>\r\n</ul>\r\n\r\n<p>Access to this location is on 19 km of gravel road.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Take Hwy528 from Kearney > right onto Forestry Tower Rd > 19km",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483514,
+    "short_name": "Shall Lake",
+    "full_name": "Algonquin - Shall Lake",
+    "description": "<p>North of Highway 60 between Whitney and Barry’s Bay.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>Boat launch, but motorboats are not permitted</li>\r\n<li>Park Office at km 26 on Major Lake Road</li>\r\n<li>No trails, beaches or day use picnic areas available</li>\r\n<li>Composting toilet</li>\r\n<li>No garbage facilities – please pack out what you pack in</li>\r\n<li>No cell service</li>\r\n</ul>\r\n\r\n<p>Access to this location is on 11 km of paved road, then 15 km of gravel road.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "From Madawaska on Hwy60, follow Major Lake Rd for 26km",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483599,
+    "short_name": "Kiosk",
+    "full_name": "Algonquin - Kiosk Campground",
+    "description": "<p>This small campground has flush toilets but no showers or laundry facilities. Most sites are well screened from their neighbours and several are waterfront. This campsite can accommodate recreational vehicles but there are no electrical sites.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>Boat launch, maximum 20 horsepower permitted on Kioshkokwi Lake</li>\r\n<li>Park office on site</li>\r\n<li>No trails available</li>\r\n<li>Beach and a day use picnic area – pets are prohibited in the beach areas</li>\r\n<li>Flush and vault privy toilets in the campground</li>\r\n<li>Garbage facilities in the campground</li>\r\n<li>No cell service</li>\r\n</ul>\r\n\r\n<p>Access to this campground is on 30 km of paved road.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Follow Hwy630 South, off of Highway 17, and travel 30km",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483471,
+    "short_name": "Kingscote",
+    "full_name": "Algonquin - Kingscote",
+    "description": "<p>On the southern end of Algonquin.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>2 hiking trails: High Falls Hiking Trail (moderate, 1.9 km), Gut Rapids Spur Hiking Trail (moderate, 0.5 km, off the bike trail)</li>\r\n<li>Biking trail in the area (back towards Maynooth on Elephant Lake Road): Byers Lake Mountain Bike Trail (moderate, 5 km, open from June - Thanksgiving only)</li>\r\n<li>Boat launch, maximum 20 horsepower permitted on Kingscote Lake</li>\r\n<li>No park office on site</li>\r\n<li>No beach or day use picnic areas available</li>\r\n<li>Vault privy toilets</li>\r\n<li>No garbage facilities – please pack out what you pack in</li>\r\n<li>No cell service</li>\r\n</ul>\r\n\r\n<p>Access to this location is on 7 km of gravel road.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "From Hwy648 E. of Harcourt>Elephant Lk Rd to Kingscote Lk Rd>7km",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483474,
+    "short_name": "Kawawaymog (Round) Lake",
+    "full_name": "Algonquin - Kawawaymog (Round) Lake",
+    "description": "<p>On the northwestern side of Algonquin, this access point isn’t within the borders of Algonquin. It is approximately a 2.5 hour paddle to North Tea Lake down the Amable Du Fond River.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>Boat launch – motorboats are permitted on Round Lake and a maximum 10 horsepower on North Tea Lake</li>\r\n<li>Park office on site</li>\r\n<li>No trails, beaches or day use picnic areas available</li>\r\n<li>Vault privy toilets</li>\r\n<li>No garbage facilities – please pack out what you pack in</li>\r\n<li>No cell service</li>\r\n</ul>\r\n\r\n<p>Access to this location is on 6.6 km of gravel road.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "S. River on Hwy11 turn E @ Ottawa Ave >14km paved > 22km gravel",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483470,
+    "short_name": "Hwy 60 Corridor",
+    "full_name": "Algonquin - Hwy 60 Corridor",
+    "description": "<p>Along the 56-kilometre stretch of Highway 60 through Algonquin Provincial Park there are numerous day use opportunities. Be sure to pick up a copy of our Information Guide when you arrive for more details.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>Algonquin Visitor Centre, Logging Museum and Art Centre</li>\r\n<li>Educational Discovery Programs during the summer months</li>\r\n<li>14 interpretive hiking trails ranging from 1 km to 10.8 km</li>\r\n<li>2 bike trails</li>\r\n<li>6 day use picnic areas with washroom facilities</li>\r\n<li>9 boat launches (check maximum horsepower restrictions)</li>\r\n<li>3 lodges</li>\r\n<li>Several restaurants, rental facilities and gift shops</li>\r\n<li>Accessible walking trails and facilities</li>\r\n<li>Limited cell phone service</li>\r\n</ul>\r\n\r\n<p>Hwy 60 is a paved highway, but many of the secondary roads are gravel.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "Hwy60. West Gate is E. of Huntsville, East Gate is W. of Whitney",
+      "city": "Whitney",
+      "region": "Ontario",
+      "regionCode": "K0J 2M0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483631,
+    "short_name": "Brent",
+    "full_name": "Algonquin - Brent Campground",
+    "description": "<p>This campground can accommodate recreational vehicles but there are no electrical sites or showers available. A number of campsites have direct waterfront access. Two waterfront cabins are reservable.</p>\r\n\r\n<b>Amenities:</b>\r\n<ul>\r\n<li>Boat launch, maximum 20 horsepower permitted on Cedar Lake</li>\r\n<li>Brent Store, managed by Algonquin Outfitters</li>\r\n<li>3 trails in the area: Brent Crater (moderate, 2 km, 8 km north of the campground), Brent Historic Site Exhibit (easy, 3 km) and Limestone Trail (easy, 0.5 km)</li>\r\n<li>Small day use picnic area available, but no beach area</li>\r\n<li>Composting toilets and vault privy toilets in the campground only</li>\r\n<li>Garbage facilities at the campground only</li>\r\n<li>No cell service</li>\r\n</ul>\r\n\r\n<p>Access to the campground is on 40 km of gravel road.</p>",
+    "website": "https://www.ontarioparks.com/park/algonquin ",
+    "address": {
+      "streetAddress": "79 Brent Road",
+      "city": "Deux Rivieres",
+      "region": "Ontario",
+      "regionCode": "K0J 1R0",
+      "country": "Canada",
+      "phoneNumber": "705-633-5572"
+    }
+  },
+  {
+    "park_id": -2147483605,
+    "short_name": "Kakabeka Falls",
+    "full_name": "Kakabeka Falls Provincial Park",
+    "description": "<p>Whispering Hills has electrical hookups with some pull-through campsites. Most campsites have electricity. Amenities include comfort stations, laundry facilities and showers. The trailer sanitary station is located by the entrance to this campground.</p>\r\n\r\n<p>Located close to the river and falls, Riverside and Fern’s Edge offer non-electrical campsites with some pull-through campsites for small trailers. Amenities include a comfort station (without showers) and vault privies. Nearest showers are located in the Whispering Hills campground. Seasonal Campsites are available.</p>",
+    "website": "http://www.ontarioparks.com/park/KakabekaFalls",
+    "address": {
+      "streetAddress": "Hwy 11/17 Fire #4853",
+      "city": "Kakabeka Falls",
+      "region": "Ontario",
+      "regionCode": "P0T 1W0",
+      "country": "Canada",
+      "phoneNumber": "807-473-9231"
+    }
+  }
+]
