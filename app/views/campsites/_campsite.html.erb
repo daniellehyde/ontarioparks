@@ -1,14 +1,6 @@
 <p>
-<strong>Name:</strong>
-<%= campsite.name %>
-</p>
-
-<p>
-<strong>Quality:</strong>
-<%= campsite.quality %>
-</p>
-
-<p>
-<strong>Privacy:</strong>
-<%= campsite.privacy %>
+<a href="/parks/<%= campsite.park.id %>/campsites/<%= campsite.id %>">
+      <strong>Name:</strong>
+        <%= campsite.name %>
+</a>
 </p>

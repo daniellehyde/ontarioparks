@@ -10,15 +10,29 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_07_29_010309) do
+ActiveRecord::Schema.define(version: 2021_07_31_212641) do
+
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
 
   create_table "campsites", force: :cascade do |t|
     t.string "name"
     t.string "quality"
     t.string "privacy"
-    t.integer "park_id", null: false
+    t.bigint "park_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "category"
+    t.integer "min_capacity"
+    t.integer "max_capacity"
+    t.text "allowed_equipment"
+    t.string "site_shade"
+    t.text "conditions"
+    t.text "ground_cover"
+    t.string "pad_slope"
+    t.string "double_site"
+    t.text "adjacent_to"
+    t.string "service_type"
     t.index ["park_id"], name: "index_campsites_on_park_id"
   end
 
