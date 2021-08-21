@@ -1,4 +1,4 @@
-<h1><%= @park.name %></h1>
+<h1><a href="/parks/<%= @park.id %>"><%= @park.name %></a></h1>
 
 <h2><%= @campsite.name %></h2>
 <p> Type: <%= @campsite.category %><br>
@@ -10,5 +10,6 @@ Pad slope: <%= @campsite.pad_slope %><br>
 Adjacent to: <%= @campsite.adjacent_to %><br>
 Service type: <%= @campsite.service_type %>
  </p>
+ <a href="/search">Start a new search</a>
 
  

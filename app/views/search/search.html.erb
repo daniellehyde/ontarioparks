@@ -1,19 +1,23 @@
 <h1>Ontario Provincial Parks</h1>
 <%= form_with url: "/search", method: :get do |form| %>
-  <strong><%= form.label :park_ids, "Park" %></strong>
-  <%= form.collection_check_boxes :park_ids, @campsites.map(&:park).uniq.sort_by(&:name), :id, :name %>
+  <h4>Select Park(s)</h4>
+  <% @subregions.each do |subregion| %>
+      <p><strong><%= form.label :park_ids, subregion %></strong><br>
+      <%= form.collection_check_boxes :park_ids, @parks.select{|p|p.subregion==subregion}.sort_by(&:name), :id, :name %>
+      </p>
+  <% end %>
   <br>
-  <strong><%= form.label :party_size, "Party size" %></strong>
+  <h4>Select Party Size and Equipment</h4>
+  (required)<br>
+  <strong><%= form.label :party_size, "Party size*" %></strong>
   <%= form.select :party_size, [1,2,3,4,5,6], selected:params[:party_size] %>
   <br>
- <strong><%= form.label :equipment_type, "Equipment type" %></strong>
+ <strong><%= form.label :equipment_type, "Equipment type*" %></strong>
   <%= form.select :equipment_type, 
   ["Single Tent", "2 Tents", "3 Tents", "Trailer or RV up to 18ft (5.5m)", "Trailer or RV up to 25ft (7.6m)"],
   selected:params[:equipment_type] %>
   <%= form.submit "Search" %>
 <% end %>
-
-
 
 <p> Number of campsites: <%= @campsites.count %></p>
 <ul>

@@ -2,7 +2,14 @@ Campsite.delete_all
 Park.delete_all
 park_data = JSON.load (File.new('db/all_parks.json'))
 park_data.each do |park|
-    Park.new(external_park_id: park['park_id'], name: park['full_name'], city: park['address']['city']).save!
+    Park.new(
+        external_park_id: park['park_id'],
+        name: park['full_name'],
+        city: park['address']['city'],
+        region: park['address']['region'],
+        subregion: park['subregion'],
+        website: park['website'],
+    ).save!
 end
 
 

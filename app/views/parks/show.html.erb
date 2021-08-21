@@ -1,8 +1,12 @@
 <h1><%= @park.name %></h1>
 
-<p><%= @park.city %>, Ontario </p>
+<p><%= @park.city %>, <%= @park.region %><br>
+    <%= @park.subregion %> </p>
+
+<p> <%= link_to @park.website, @park.website %> </p>
 
 <h2>Campsites</h2>
 <%= render @park.campsites %>
 
  
+<a href="/search">Start a new search</a>
