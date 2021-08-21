@@ -12,11 +12,21 @@ park_data.each do |park|
     ).save!
 end
 
+puts "... added #{Park.count} parks"
 
 campsite_data = JSON.load (File.new('db/all_sites.json'))
-campsite_data.each do |campsite|
+total = campsite_data.length
+
+count = 0
+campsite_data.each_with_index do |campsite, ix|
     park = Park.where(external_park_id: campsite['park_id']).first
-    puts campsite
+
+    next unless campsite['category'] == 'Campsite'
+    next if campsite['quality'] == 'Poor' or campsite['privacy'] == 'Poor'
+    next if campsite['quality'] == 'Average' and campsite['quality'] == 'Average'
+    next if campsite['allowed_equipment'].empty? 
+
+    count += 1
     Campsite.new(
         park: park,
         name: campsite['name'],
@@ -34,6 +44,15 @@ campsite_data.each do |campsite|
         pad_slope: campsite['pad_slope'],
         site_shade: campsite['site_shade']
         ).save!
+    
+    puts "... added #{count} valid sites (#{ix}/#{total} processed)" if ix % 100 == 0
 end
 
 
+orphans = Park.all.select { |p| p.campsites.count == 0 }
+Park.where(id: orphans.map(&:id)).delete_all
+puts "... removed #{orphans.count} parks with no sites"
+puts ""
+
+puts "Campsites: #{Campsite.count}"
+puts "    Parks: #{Park.count}"
