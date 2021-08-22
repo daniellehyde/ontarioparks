@@ -1,15 +1,38 @@
 <h1><a href="/parks/<%= @park.id %>"><%= @park.name %></a></h1>
 
-<h2><%= @campsite.name %></h2>
-<p> Type: <%= @campsite.category %><br>
-Double site: <%= @campsite.double_site %><br>
-Site shade: <%= @campsite.site_shade %><br>
-Conditions: <%= @campsite.conditions %><br>
-Ground cover: <%= @campsite.ground_cover %><br>
-Pad slope: <%= @campsite.pad_slope %><br>
-Adjacent to: <%= @campsite.adjacent_to %><br>
-Service type: <%= @campsite.service_type %>
- </p>
- <a href="/search">Start a new search</a>
+<h3>Campsite: <%= @campsite.name %></h3><br>
+<table width="50%">
+<tbody>
+<tr>
+    <td style="width: 22%; text-align: right;"><strong>Double site:</strong></td>
+    <td style="width: 71%;"><%= @campsite.double_site %></td>
+</tr>
+<tr>
+    <td style="width: 22%; text-align: right;"><strong>Site shade:</strong></td>
+    <td style="width: 71%;"><%= @campsite.site_shade %></td>
+</tr>
+<tr>
+    <td style="width: 22%; text-align: right;"><strong>Conditions:</strong></td>
+    <td style="width: 71%;"><%= @campsite.conditions %></td>
+</tr>
+<tr>
+    <td style="width: 22%; text-align: right;"><strong>Ground cover:</strong></td>
+    <td style="width:71%;"><%= @campsite.ground_cover %></td>
+</tr>
+<tr>
+    <td style="width: 22%; text-align: right;"><strong>Pad slope:</strong></td>
+    <td style="width: 71%;"><%= @campsite.pad_slope %></td>
+</tr>
+<tr>
+    <td style="width: 22%; text-align: right;"><strong>Adjacent to:</strong></td>
+    <td style="width: 71%;"><%= @campsite.adjacent_to %></td>
+</tr>
+<tr>
+    <td style="width: 22%; text-align: right;"><strong>Service type:</strong></td>
+    <td style="width: 71%;"><%= @campsite.service_type %></td>
+</tr>
+</tbody>
+</table>
+ <br>
+ <a href="/search">Start a new search! >></a>
 
- 
