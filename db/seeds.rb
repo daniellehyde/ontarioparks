@@ -21,7 +21,13 @@ def load_campsites(prov, campsite_data)
         next if campsite['allowed_equipment'].empty? 
 
         count += 1
-        Campsite.from_json(campsite, park).save!
+        c = Campsite.from_json(campsite, park)
+
+        c.restrictions = campsite.fetch('restrictions', []).map do |r|
+            Restriction.find_or_create_by(name: r)
+        end
+        c.save!
+
         
         puts "... added #{count} valid sites (#{ix}/#{total} processed)" if ix % 100 == 0
     end
