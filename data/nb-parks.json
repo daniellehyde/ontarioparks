@@ -1,0 +1,212 @@
+[
+  {
+    "park_id": -2147483648,
+    "short_name": "Fundy",
+    "full_name": "Fundy Footpath",
+    "description": "Within Fundy National Park is The Fundy Footpath, one of the last remaining coastal wilderness areas between Florida and Labrador of which the views and wilderness experience is spectacular! Book your campsite and blaze a trail over a 41 kilometre hike that starts at the Fundy Trail Parkway from Big Salmon River to Fundy National Park overlooking the world famous tides of the Bay of Fundy. The trail connects to the 33 kilometres (21 mi) Fundy Trail at Fundy National Park, which in turn connects to the Dobson Trail. Visitors can appreciate rugged terrain with elevation up to 300 meters, with trails according to Appalachian Trail standards. Visitors can enjoy kayaking, birdwatching, biking, guided hikes, group tours and experience the highest tides in the world on secluded beaches.",
+    "website": "",
+    "address": {
+      "streetAddress": "3 Fundy Trail Parkway",
+      "city": "Salmon River",
+      "region": "New Brunswick",
+      "regionCode": "E5R 1W4",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483643,
+    "short_name": "Nepisiguit",
+    "full_name": "Nepisiguit Mi'gmaq Trail",
+    "description": "<p>The historic Nepisiguit Mi’gmaq hiking trail is a 147 km (90 mi) single track hiking trail that follows the mighty Nepisiguit River from Mount Carleton Provincial Park to the sea at Daly Point Nature Reserve in Bathurst. Book a campsite and enjoy an internationally renowned multi-day single track hiking trail linking the great Appalachian trail highlighting the rich cultural and natural heritage of the Nepisiguit River basin.</p>",
+    "website": "https://www.migmaqtrail.ca/en",
+    "address": {
+      "streetAddress": "2075 Carron Drive",
+      "city": "Bathurst",
+      "region": "New Brunswick",
+      "regionCode": "E2A 5Z7",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483640,
+    "short_name": "Parlee Beach - Day Use",
+    "full_name": "Parlee Beach - Day Use",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483637,
+    "short_name": "Sugarloaf Lodge",
+    "full_name": "Sugarloaf Lodge",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483638,
+    "short_name": "Sugarloaf",
+    "full_name": "Sugarloaf Provincial Park",
+    "description": "<p>During the summer, visitors have the option of staying in Sugarloaf Provincial Park’s wooded campground. The family-friendly campground has 80 beautiful sites: 8 full-serviced, 61 electrical (including 5 cabins and 6 Ch-A-lets) and 11 non-serviced. Sugarloaf also offers a playground, tennis courts, hiking and picturesque lakes for you to enjoy.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/sugarloaf-provincial-park-2020167",
+    "address": {
+      "streetAddress": "596 Val d'Amour Road",
+      "city": "Atholville",
+      "region": "New Brunswick",
+      "regionCode": "E3N 4C9",
+      "country": "Canada",
+      "phoneNumber": "506-789-2366"
+    }
+  },
+  {
+    "park_id": -2147483635,
+    "short_name": "Headquarters",
+    "full_name": "New Brunswick Headquarters",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "20 McGloin Street (Mailing: PO Box 6000, E3B 5H1)",
+      "city": "Fredericton",
+      "region": "New Brunswick",
+      "regionCode": "E3A 5T8",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483647,
+    "short_name": "Herring Cove",
+    "full_name": "Herring Cove Provincial Park",
+    "description": "<p>Camp by the sea at Herring Cove Provincial Park. The campground offers 88 campsites (40 of which have electricity) and 5 rustic shelters. Fire pits, washrooms, picnic tables, kitchen shelters and playgrounds are all available on-site.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/herring-cove-provincial-park-2020156",
+    "address": {
+      "streetAddress": "136 Herring Cove Road",
+      "city": "Welshpool",
+      "region": "New Brunswick",
+      "regionCode": "E5E 1B8",
+      "country": "Canada",
+      "phoneNumber": "506-752-7010"
+    }
+  },
+  {
+    "park_id": -2147483646,
+    "short_name": "Mactaquac",
+    "full_name": "Mactaquac Provincial Park",
+    "description": "<p>Mactaquac Provincial Park’s campground provides more than 300 campsites in both open and wooded areas (2 of which are wheelchair accessible) and features laundry facilities, hot showers and kitchen shelters. The recreation centre provides children’s entertainment and activities. The campers’ store is convenient to stock up on groceries, propane, firewood and snacks.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/mactaquac-provincial-park-2020167",
+    "address": {
+      "streetAddress": "1265 Route 105",
+      "city": "Mactaquac",
+      "region": "New Brunswick",
+      "regionCode": "E6L 1B5",
+      "country": "Canada",
+      "phoneNumber": "506-363-4747"
+    }
+  },
+  {
+    "park_id": -2147483645,
+    "short_name": "Mount Carleton",
+    "full_name": "Mount Carleton Provincial Park",
+    "description": "<p>Mount Carleton Provincial Park is home to 4 different campgrounds for campers at every experience level, plus 2 heritage cabin sites.</p>\r\n\r\n<p><b>Armstrong Campground:</b> Mount Carleton’s largest campground with 88 sites for trailers and tents. This campground boasts spectacular views of Nictau Lake and Mount Sagamook as well as a pristine beach, washrooms, showers, dry toilets, a kitchen shelter and a dumping station for trailers. A canteen is open during camping season for all your camping needs.</p>\r\n\r\n<p><b>Williams and Franklin Campgrounds:</b> 17 large, secluded tenting sites on both sides of Nictau Lake. Dry toilets, garbage bins and recycling bins are included.</p>\r\n\r\n<p><b>Group Camping:</b> This site can accommodate up to 75 campers and includes a kitchen shelter, garbage and recycling bins and water (hand pump).</p>\r\n\r\n<p><b>Headwaters Campground:</b> For a more extreme camping experience, hike partway up Mount Carleton Trail. There are 4 sites with only pit toilets and tree food storage as on-site amenities.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/mount-carleton-provincial-park-2020156",
+    "address": {
+      "streetAddress": "7612 Route 385",
+      "city": "Saint-Quentin",
+      "region": "New Brunswick",
+      "regionCode": "E8A 1N4",
+      "country": "Canada",
+      "phoneNumber": "506-235-0793"
+    }
+  },
+  {
+    "park_id": -2147483644,
+    "short_name": "Murray Beach",
+    "full_name": "Murray Beach Provincial Park",
+    "description": "<p>Murray Beach Provincial Park has an inviting community seaside campground with 111 sites and 8 cabins for you to enjoy. The sounds of the sea invite you at Murray Beach!</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/murray-beach-provincial-park-2020167",
+    "address": {
+      "streetAddress": "1679 Route 955",
+      "city": "Little Shemogue",
+      "region": "New Brunswick",
+      "regionCode": "E4M 3J7",
+      "country": "Canada",
+      "phoneNumber": "506-538-2628"
+    }
+  },
+  {
+    "park_id": -2147483642,
+    "short_name": "New River Beach",
+    "full_name": "New River Beach Provincial Park",
+    "description": "<p>Stay awhile at the New River Beach Provincial Park campground, air-conditioned by the Bay of Fundy breeze.</p>\r\n\r\n<p>It offers 99 campsites and 4 rustic shelters, forested campsites, scenic coastal nature trails, a picnic area and a spectacular tidal beach. Leashed pets are welcome in the campground, however, pets are not permitted on the beach.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/new-river-beach-provincial-park-2020167",
+    "address": {
+      "streetAddress": "78 New River Beach Road",
+      "city": "Lepreau",
+      "region": "New Brunswick",
+      "regionCode": "E5J 1G7",
+      "country": "Canada",
+      "phoneNumber": "506-755-4046"
+    }
+  },
+  {
+    "park_id": -2147483639,
+    "short_name": "République",
+    "full_name": "République Provincial Park",
+    "description": "<p>De la République Provincial Park is a recreational park located on the shores of the Madawaska River. This 44-ha (108-acre) park offers over 150 campsites, 100 of which have electricity. You can even stay in one of our rustic shelters.</p>\r\n\r\n<p>The park offers scenic hiking and cycling trails, two volleyball courts, a fully-equipped outdoor playground, two tennis courts, horseshoe pits, boat ramp, picnic sites, a picnic shelter, laundry room, a playroom for indoor activities, a heated swimming pool and a convenience store.</p>\r\n\r\n<p>Enjoy an evening of local talent as you tap your feet to the sounds of “l’Acadie des Terres et Forêts en Fête”, unique entertainment in the outdoor roofed-amphitheatre. Step back in time at the Antique Automobile Museum as you marvel at mint-condition vehicles, or savour the sweet perfume of the magnificent New Brunswick Botanical Garden, a truly peaceful oasis located on more than 8 ha (20 acres) of the park’s land.</p>\r\n\r\n<p>With so much to see and do for the whole family, De la République Provincial Park is the perfect place to spend a few days.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/republique-provincial-park-2020167",
+    "address": {
+      "streetAddress": "31 Isidore-Boucher Boulevard, P.O. Box 1567",
+      "city": "Saint-Jacques",
+      "region": "New Brunswick",
+      "regionCode": "E7B 1V6",
+      "country": "Canada",
+      "phoneNumber": "506-735-2525"
+    }
+  },
+  {
+    "park_id": -2147483636,
+    "short_name": "The Anchorage",
+    "full_name": "The Anchorage Provincial Park",
+    "description": "<p>A range of camping options, including tent cabins, and the panoramic view of the bay make The Anchorage Provincial Park an ultimate camping destination. The campground features washrooms, showers, laundry facilities, a kitchen shelter, hiking trails, a playground, and an excellent opportunity for picnicking.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/the-anchorage-provincial-park-2020167",
+    "address": {
+      "streetAddress": "136 Anchorage Road",
+      "city": "Grand Manan",
+      "region": "New Brunswick",
+      "regionCode": "E5G 2H4",
+      "country": "Canada",
+      "phoneNumber": "506-662-7022"
+    }
+  },
+  {
+    "park_id": -2147483641,
+    "short_name": "Parlee Beach",
+    "full_name": "Parlee Beach Provincial Park",
+    "description": "<p>Parlee Beach Provincial Park’s campground is ideally located, only a 10-minute walk from the warm saltwater beach. On-site, the campground offers a campers store, amphitheatre, change houses, showers, washrooms, playground, picnic area and plenty of parking.</p>",
+    "website": "https://www.parcsnbparks.info/en/parks/parlee-beach-provincial-park-2020155",
+    "address": {
+      "streetAddress": "25 Gould Beach Rd",
+      "city": "Pointe-du-Chêne",
+      "region": "New Brunswick",
+      "regionCode": "E4P 4J8",
+      "country": "Canada",
+      "phoneNumber": "506-533-3363"
+    }
+  }
+]

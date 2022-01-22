@@ -1,0 +1,291 @@
+{
+  "-32744": {
+    "name": "outlet_distance",
+    "display_name": "Outlet Distance",
+    "value_dict": null
+  },
+  "-32743": {
+    "name": "maximum_rvs",
+    "display_name": "Maximum RVs",
+    "value_dict": null
+  },
+  "-32742": {
+    "name": "maximum_tents",
+    "display_name": "Maximum Tents",
+    "value_dict": null
+  },
+  "-32741": {
+    "name": "distance_to_restroom",
+    "display_name": "Distance to Restroom",
+    "value_dict": null
+  },
+  "-32740": {
+    "name": "distance_to_beach",
+    "display_name": "Distance to Beach",
+    "value_dict": null
+  },
+  "-32739": {
+    "name": "distance_to_water_source",
+    "display_name": "Distance to Water Source",
+    "value_dict": null
+  },
+  "-32738": {
+    "name": "distance_from_parking",
+    "display_name": "Distance from Parking",
+    "value_dict": null
+  },
+  "-32737": {
+    "name": "bear_boxes",
+    "display_name": "Bear Boxes",
+    "value_dict": null
+  },
+  "-32767": {
+    "name": "electrical_service",
+    "display_name": "Electrical Service",
+    "value_dict": {
+      "0": "15 Amps",
+      "1": "30 Amps",
+      "2": "15/30 Amps",
+      "3": "50 Amps"
+    }
+  },
+  "-32766": {
+    "name": "size",
+    "display_name": "Size",
+    "value_dict": {
+      "0": "Small",
+      "1": "Medium",
+      "2": "Large",
+      "3": "X-large"
+    }
+  },
+  "-32764": {
+    "name": "quality",
+    "display_name": "Quality",
+    "value_dict": {
+      "0": "Poor",
+      "1": "Average",
+      "2": "Good"
+    }
+  },
+  "-32763": {
+    "name": "privacy",
+    "display_name": "Privacy",
+    "value_dict": {
+      "0": "Poor",
+      "1": "Average",
+      "2": "Good",
+      "3": "Excellent"
+    }
+  },
+  "-32762": {
+    "name": "site_shade",
+    "display_name": "Site Shade",
+    "value_dict": {
+      "0": "Full Shade",
+      "1": "No Shade/Full Sun",
+      "2": "Partial Shade - AM Sun",
+      "3": "Partial Shade - PM Sun",
+      "4": "Partial Shade"
+    }
+  },
+  "-32760": {
+    "name": "pad_slope",
+    "display_name": "Pad Slope",
+    "value_dict": {
+      "0": "None",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "Severe",
+      "4": "Uneven"
+    }
+  },
+  "-32759": {
+    "name": "on_site_vehicle_parking",
+    "display_name": "On-Site Vehicle Parking",
+    "value_dict": {
+      "0": "0",
+      "1": "1",
+      "2": "2",
+      "3": "Unlimited"
+    }
+  },
+  "-32758": {
+    "name": "off_site_vehicle_parking",
+    "display_name": "Off-Site Vehicle Parking",
+    "value_dict": {
+      "0": "0",
+      "1": "1",
+      "2": "2",
+      "3": "Unlimited"
+    }
+  },
+  "-32757": {
+    "name": "obstructions",
+    "display_name": "Obstructions",
+    "value_dict": {
+      "0": "Tree(s)",
+      "1": "Root(s)",
+      "2": "Stump(s)",
+      "3": "Branches",
+      "4": "Hill",
+      "5": "Mound",
+      "6": "Rock(s)"
+    }
+  },
+  "-32756": {
+    "name": "adjacent_to",
+    "display_name": "Adjacent To",
+    "value_dict": {
+      "0": "Restroom (Privy)",
+      "1": "Beach",
+      "2": "Refuse Disposal",
+      "3": "Body of Water",
+      "4": "Water Tap",
+      "5": "Playground",
+      "6": "Field",
+      "7": "Vehicle Parking",
+      "8": "Wetland/Marsh",
+      "9": "Dump Station",
+      "10": "Recycling Container"
+    }
+  },
+  "-32755": {
+    "name": "group_service_level",
+    "display_name": "Group Service Level",
+    "value_dict": {
+      "0": "Low",
+      "1": "Moderate",
+      "2": "Developed"
+    }
+  },
+  "-32754": {
+    "name": "conditions",
+    "display_name": "Conditions",
+    "value_dict": {
+      "0": "Noisy",
+      "1": "Windy",
+      "2": "Poor Drainage",
+      "3": "Above Avg. Vehicular Traffic",
+      "4": "Above Avg. Pedestrian Traffic",
+      "5": "Poison Ivy",
+      "6": "Corner Site",
+      "7": "Split Level Site",
+      "8": "View Site",
+      "9": "Partial View Site"
+    }
+  },
+  "-32753": {
+    "name": "ground_cover",
+    "display_name": "Ground Cover",
+    "value_dict": {
+      "0": "Not Available",
+      "1": "Gravel",
+      "2": "Paved",
+      "3": "Grass",
+      "4": "Dirt",
+      "5": "Tent Pad"
+    }
+  },
+  "-32752": {
+    "name": "water_service",
+    "display_name": "Water Service",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32751": {
+    "name": "sewer_service",
+    "display_name": "Sewer Service",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32750": {
+    "name": "showers",
+    "display_name": "Showers",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32748": {
+    "name": "firepit",
+    "display_name": "Firepit",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32747": {
+    "name": "picnic_table",
+    "display_name": "Picnic Table",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32746": {
+    "name": "equipped_with_kitchen",
+    "display_name": "Equipped with Kitchen",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32749": {
+    "name": "wheelchair_accessible",
+    "display_name": "Wheelchair Accessible",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32745": {
+    "name": "allow_seasonal_usage",
+    "display_name": "Allow Seasonal Usage",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32765": {
+    "name": "restrictions",
+    "display_name": "Restrictions",
+    "value_dict": {
+      "0": "No Vehicles",
+      "1": "No Tents",
+      "2": "Wheelchair Only"
+    }
+  },
+  "-32735": {
+    "name": "pull_through",
+    "display_name": "Pull-Through",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32761": {
+    "name": "pad_location",
+    "display_name": "Pad Location",
+    "value_dict": {
+      "0": "Not Available",
+      "1": "Head In",
+      "2": "Back In",
+      "3": "Straight Drive-thru",
+      "4": "Pull-thru Left",
+      "5": "Pull-thru Right"
+    }
+  },
+  "-32768": {
+    "name": "service_type",
+    "display_name": "Service Type",
+    "value_dict": {
+      "0": "Unserviced",
+      "1": "Serviced"
+    }
+  }
+}

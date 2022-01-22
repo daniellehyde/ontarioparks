@@ -1,0 +1,9 @@
+{
+  "[-32768, -32768]": "Single Tent",
+  "[-32768, -32767]": "2 or more Tents",
+  "[-32768, -32766]": "RV less than 20 feet long",
+  "[-32768, -32765]": "RV between 20 and 30 feet long",
+  "[-32768, -32764]": "RV between 30 and 40 feet long",
+  "[-32768, -32763]": "RV more than 40 feet long",
+  "[-32768, -32762]": "No Tents"
+}
