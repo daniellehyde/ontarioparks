@@ -45,6 +45,7 @@ ActiveRecord::Schema.define(version: 2021_08_21_211934) do
     t.string "subregion"
     t.string "region"
     t.string "website"
+    t.text "description"
   end
 
   add_foreign_key "campsites", "parks"
