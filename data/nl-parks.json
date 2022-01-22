@@ -1,0 +1,212 @@
+[
+  {
+    "park_id": -2147483647,
+    "short_name": "Blow Me Down",
+    "full_name": "Blow Me Down Provincial Park",
+    "description": "<p>Blow Me Down Provincial Park in western Newfoundland is situated on a peninsula between Lark Harbour and York Harbour. Magnificent views of the Blow Me Down Mountains and the Bay of Islands make this park one of the most scenic locations in the area to visit. Located on Route 450, the park is 60 km west from Corner Brook and the Trans Canada Highway.</p>\n          <p>Route 450, Lark Harbour.</p>\n          <p>The Blow Me Down Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 28 campsites have a picnic table, fireplace and garbage can</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Hiking Trails</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/blow-me-down-provincial-park/",
+    "address": {
+      "streetAddress": "Blow Me Down",
+      "city": "Lark Harbour",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A8A 2B7",
+      "country": "Canada",
+      "phoneNumber": "709-681-2430"
+    }
+  },
+  {
+    "park_id": -2147483646,
+    "short_name": "Butter Pot",
+    "full_name": "Butter Pot Provincial Park",
+    "description": "<p>Butter Pot Provincial Park is located in eastern Newfoundland on the Avalon Peninsula approximately 36 km west of St. John's along the Trans Canada Highway, Route 1. The park covers an area of 2833 hectares of varied terrain and vegetation, forests, bogs, heaths and ponds. Hiking trails take you through forests and over barrens to remarkable scenic viewpoints.</p>\n          <p>Route 1, Trans Canada Highway, 36 km west of St. John's.</p>\n          <p>The Butter Pot Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 175 campsites have a picnic table, fireplace and garbage can</li>\n          <li>2 Comfort Stations (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Hiking Trails</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/butter-pot-provincial-park/",
+    "address": {
+      "streetAddress": "Butter Pot",
+      "city": "Holyrood",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A1N 1L1",
+      "country": "Canada",
+      "phoneNumber": "709-685-1853"
+    }
+  },
+  {
+    "park_id": -2147483644,
+    "short_name": "Frenchman's Cove",
+    "full_name": "Frenchman's Cove Provincial Park",
+    "description": "<p>Frenchman's Cove Provincial Park is located in eastern Newfoundland on Route 213 on the west side of the Burin Peninsula. The park is comprised of 51 hectares of varied habitat with ocean views that will fascinate the visitor. Grand Meadows Golf Course is located adjacent to the park.</p>\n          <p>Route 213, Frenchman's Cove.</p>\n          <p>The Frenchman's Cove Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 76 campsites have a picnic table, fireplace and garbage can</li>\n          <li>Campsites 33 to 44 and 69 to 76 have electrical services</li>\n          <li>Campsites 33 to 76 have water taps</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, and flush toilets)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Concessionaire Cabins for rent</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/frenchmans-cove-provincial-park/",
+    "address": {
+      "streetAddress": "Frenchman's Cove",
+      "city": "Frenchman's Cove",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0E 1R0",
+      "country": "Canada",
+      "phoneNumber": "709-826-2753"
+    }
+  },
+  {
+    "park_id": -2147483639,
+    "short_name": "Pinware River",
+    "full_name": "Pinware River Provincial Park",
+    "description": "<p>Pinware River Provincial Park is located in southern Labrador on the Labrador Straits on Route 510, 40 km east of Blanc Sablon. A ferry crosses from St. Barbe on the Great Northern Peninsula of Newfoundland to Blanc Sablon, Quebec. The 68 hectare park covers diverse terrain and vegetation and is located on a scheduled salmon river. Red Bay National Historic Site, home to a 16 century Basque whaling station, is nearby. This is the only provincial park campground in Labrador.</p>\n          <p>Route 510, 40 km east of Blanc Sablon.</p>\n          <p>The Pinware River Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 22 campsites have a picnic table, fireplace and garbage can</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>1.2 km Hiking Trail</li>\n          <li>Atlantic Salmon angling in season</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/pinware-river-provincial-park/",
+    "address": {
+      "streetAddress": "Pinware River",
+      "city": "Pinware",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0K 5S0",
+      "country": "Canada",
+      "phoneNumber": "709-927-5516"
+    }
+  },
+  {
+    "park_id": -2147483638,
+    "short_name": "Pistolet Bay",
+    "full_name": "Pistolet Bay Provincial Park",
+    "description": "<p>Pistolet Bay Provincial Park is located in western Newfoundland on the tip of the Great Northern Peninsula on Route 437. The park encompasses 897 hectares of delightfully varied vegetation. The Pistolet Bay area was known to Basque and French fishermen in the 17th and 18th centuries. Nearby is L’anse aux Meadows National Historic Site where the Vikings established a settlement in 1000 A.D. – the only authenticated Viking site in North America.</p>\n          <p>Route 437, 6 km south of Raleigh.</p>\n          <p>The Pistolet Bay Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 30 campsites have a picnic table, fireplace and garbage can</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Swimming Area</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/pistolet-bay-provincial-park/",
+    "address": {
+      "streetAddress": "Pistolet Bay",
+      "city": "Raleigh",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0K 4M0",
+      "country": "Canada",
+      "phoneNumber": "709-454-7570"
+    }
+  },
+  {
+    "park_id": -2147483637,
+    "short_name": "Sandbanks",
+    "full_name": "Sandbanks Provincial Park",
+    "description": "<p>Sandbanks Provincial Park is located on Newfoundland's south coast near the town of Burgeo some 150 km from the Trans Canada Highway on Route 480. The park is named for its undulating sand dunes and long expanses of flat, sandy beaches which are some of the most magnificent on the island portion of the province. This park is also home to the endangered Piping Plover.</p>\n          <p>Route 480, Burgeo.</p>\n          <p>The Sandbanks Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 30 campsites have a picnic table, fireplace and garbage can</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>7 km of Hiking Trails</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/sandbanks-provincial-park/",
+    "address": {
+      "streetAddress": "Sandbanks",
+      "city": "Burgeo",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0N 2H0",
+      "country": "Canada",
+      "phoneNumber": "709-886-2331"
+    }
+  },
+  {
+    "park_id": -2147483645,
+    "short_name": "Dildo Run",
+    "full_name": "Dildo Run Provincial Park",
+    "description": "<p>Dildo Run Provincial Park is located in central Newfoundland on Route 340, the main highway to Twillingate. The park's 327 hectares provide visitors with an ideal central and convenient location for viewing all of New World Island. It is within a very short driving distance of Twillingate, Moreton’s Harbour and all other small communities located in this beautiful and historic area.</p>\n          <p>Route 340, 20 km south of Twillingate.</p>\n          <p>The Dildo Run Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 55 campsites have a picnic table, fireplace, and garbage can</li>\n          <li>21 campsites have electrical services and water taps</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>2 km Hiking Trail</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/dildo-run-provincial-park/",
+    "address": {
+      "streetAddress": "Dildo Run",
+      "city": "Virgin Arm",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0G 2R0",
+      "country": "Canada",
+      "phoneNumber": "709-629-3350"
+    }
+  },
+  {
+    "park_id": -2147483643,
+    "short_name": "J.T. Cheeseman",
+    "full_name": "J.T. Cheeseman Provincial Park",
+    "description": "<p>J.T. Cheeseman Provincial Park is located in western Newfoundland approximately 10 km from Channel-Port aux Basques on the Trans Canada Highway, Route 1. This gateway park is a great starting point or ending destination for your visit to Newfoundland and Labrador. The endangered Piping Plover calls the sandy dunes of this provincial park home in the summer.</p>\n          <p>Route 1, Trans Canada Highway, 10 km east of Port aux Basques.</p>\n          <p>The J.T. Cheeseman Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 92 campsites have a picnic table, fireplace and garbage can</li>\n          <li>22 campsites have electrical services</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, and flush toilets)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>2 km Hiking Trail</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/j-t-cheeseman-provincial-park/",
+    "address": {
+      "streetAddress": "J.T. Cheeseman",
+      "city": "Channel-Port Aux Basques",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0M 1C0",
+      "country": "Canada",
+      "phoneNumber": "709-695-7222"
+    }
+  },
+  {
+    "park_id": -2147483642,
+    "short_name": "La Manche",
+    "full_name": "La Manche Provincial Park",
+    "description": "<p>La Manche Provincial Park is located in eastern Newfoundland on the Avalon Peninsula 53 km south of St. John's along Route 10. This park was established because of the scenic La Manche Valley, interesting and varied habitat and vegetation, as well as the diverse bird life. The park area includes the abandoned fishing village of La Manche.</p>\n          <p>Route 10, 53 km south of St. John's.</p>\n          <p>The La Manche Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 82 campsites have a picnic table, fireplace and garbage can</li>\n          <li>27 campsites have electrical services</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>1.25 km Hiking Trail</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/la-manche-provincial-park/",
+    "address": {
+      "streetAddress": "La Manche",
+      "city": "Cape Broyle",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0A 1L0",
+      "country": "Canada",
+      "phoneNumber": "709-685-1823"
+    }
+  },
+  {
+    "park_id": -2147483641,
+    "short_name": "Lockston Path",
+    "full_name": "Lockston Path Provincial Park",
+    "description": "<p>Lockston Path Provincial Park is located in eastern Newfoundland on the Bonavista Peninsula approximately 6 km from Port Rexton on Route 236. Comprising 733 hectares, the park has balsam fir stands dominating sheltered areas with heath vegetation common in more exposed areas. This park, with its sheltered campsites and freshwater beach, provides the perfect base camp for visitors to explore the historic communities of the Bonavista Peninsula.</p>\n          <p>Route 236, 6 km north of Port Rexton.</p>\n          <p>The Lockston Path Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 57 campsites have a water tap, picnic table, fireplace and garbage can</li>\n          <li>20 campsites have electrical services</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Hiking Trails</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/lockston-path-provincial-park/",
+    "address": {
+      "streetAddress": "Lockston Path",
+      "city": "Port Rexton",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0G 1T0",
+      "country": "Canada",
+      "phoneNumber": "709-464-3553"
+    }
+  },
+  {
+    "park_id": -2147483640,
+    "short_name": "Notre Dame",
+    "full_name": "Notre Dame Provincial Park",
+    "description": "<p>Notre Dame Provincial Park is located in central Newfoundland approximately 1 km east of the Notre Dame Junction and approximately 41 km west of Gander on the Trans Canada Highway, Route 1. Nestled in the lush forests of central Newfoundland, the park borders on the serene waters of Junction Pond. An ideal choice for the family.</p>\n          <p>Route 1, Trans Canada Highway, 1km east of Lewisporte Junction.</p>\n          <p>The Notre Dame Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 100 campsites have a picnic table, fireplace and garbage can</li>\n          <li>36 campsites have electrical services</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Concessionaire Services and cabins for rent</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/notre-dame-provincial-park/",
+    "address": {
+      "streetAddress": "Notre Dame",
+      "city": "Lewisporte",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0G 3A0",
+      "country": "Canada",
+      "phoneNumber": "709-535-2379"
+    }
+  },
+  {
+    "park_id": -2147483636,
+    "short_name": "Sir Richard Squires Memorial",
+    "full_name": "Sir Richard Squires Memorial Provincial Park",
+    "description": "<p>Sir Richard Squires Memorial Park is located in western Newfoundland approximately 36 km northeast of Deer Lake along Route 422. The park is situated on the scenic Humber River and is a popular place for salmon angling. This park is locally known as Big Falls and is a great spot to view Atlantic Salmon as they jump the falls heading upstream. Sir Richard Squires Memorial Park was established in 1954 as the first provincial park in Newfoundland and Labrador. The park opened to the public in July 1959.</p>\n          <p>Route 422, 36 km northeast of Deer Lake.</p>\n          <p>The Sir Richard Squires Memorial Provincial Park campsites are only open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 155 campsites have a picnic table, fireplace and garbage can</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Hiking Trails</li>\n          <li>Atlantic Salmon angling in season</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/sir-richard-squires-memorial-provincial-park/",
+    "address": {
+      "streetAddress": "Sir Richard Squires Memorial",
+      "city": "Cormack",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A8A 2S5",
+      "country": "Canada",
+      "phoneNumber": "709-636-1509"
+    }
+  },
+  {
+    "park_id": -2147483635,
+    "short_name": "Web Store",
+    "full_name": "Web Store",
+    "description": "",
+    "website": "https://www.parksNL.ca/",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "region": null,
+      "regionCode": "",
+      "country": null,
+      "phoneNumber": ""
+    }
+  },
+  {
+    "park_id": -2147483648,
+    "short_name": "Barachois Pond",
+    "full_name": "Barachois Pond Provincial Park",
+    "description": "<p>Barachois Pond Provincial Park, at 3500 hectares, is the largest provincial park in Newfoundland and Labrador. Located in western Newfoundland on the Trans Canada Highway, Route 1, the park is 20 km from Stephenville. The park lies within the Western Newfoundland Forest Eco-region, which is characterized by a balsam fir forest with an understory of ferns and moss. The trail up Erin Mountain, a 2 ½ hour hike to the 340 metre summit, will give you a panoramic view of St. George's Bay.</p>\n          <p>Route 1, Trans Canada Highway, 20 km west of Stephenville.</p>\n          <p>The Barachois Pond Provincial Park campsites are open seasonally.</p>\n          <p><b>Facilities & Services</b>\n          <ul>\n          <li>All 150 campsites have a picnic table, fireplace and garbage can</li>\n          <li>Comfort Station (hot/cold running water, showers, wash basins, flush toilets and laundry facilities)</li>\n          <li>Cold Water Taps available throughout the park</li>\n          <li>Hiking Trails</li>\n          <li>Swimming Area</li>\n          <li>Playground</li>\n          <li>Firewood Available (for sale)</li>\n          <li>Dumping Station</li>\n          </ul>\n          </p>",
+    "website": "https://parksnl.ca/parks/barachois-pond-provincial-park/",
+    "address": {
+      "streetAddress": "Barachois Pond",
+      "city": "Stephenville Crossing",
+      "region": "Newfoundland and Labrador",
+      "regionCode": "A0N 2C0",
+      "country": "Canada",
+      "phoneNumber": "709-649-0048"
+    }
+  }
+]

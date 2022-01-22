@@ -1,0 +1,432 @@
+{
+  "-32744": {
+    "name": "outlet_distance_m",
+    "display_name": "Outlet Distance (m)",
+    "value_dict": null
+  },
+  "-32743": {
+    "name": "site_length_m",
+    "display_name": "Site Length (m)",
+    "value_dict": null
+  },
+  "-32742": {
+    "name": "site_width_m",
+    "display_name": "Site Width (m)",
+    "value_dict": null
+  },
+  "-32740": {
+    "name": "maximum_tents",
+    "display_name": "Maximum Tents",
+    "value_dict": null
+  },
+  "-32739": {
+    "name": "maximum_trailers",
+    "display_name": "Maximum Trailers",
+    "value_dict": null
+  },
+  "-32737": {
+    "name": "group_off_site_vehicle_parking",
+    "display_name": "Group Off Site Vehicle Parking",
+    "value_dict": null
+  },
+  "-32724": {
+    "name": "toilet_distance_m",
+    "display_name": "Toilet Distance (m)",
+    "value_dict": null
+  },
+  "-32723": {
+    "name": "water_tap_distance_m",
+    "display_name": "Water Tap Distance (m)",
+    "value_dict": null
+  },
+  "-32721": {
+    "name": "shower_distance_m",
+    "display_name": "Shower Distance (m)",
+    "value_dict": null
+  },
+  "-32718": {
+    "name": "northing",
+    "display_name": "Northing",
+    "value_dict": null
+  },
+  "-32717": {
+    "name": "easting",
+    "display_name": "Easting",
+    "value_dict": null
+  },
+  "-32741": {
+    "name": "maximum_cabin_occupancy",
+    "display_name": "Maximum Cabin Occupancy",
+    "value_dict": null
+  },
+  "-32738": {
+    "name": "group_on_site_vehicle_parking",
+    "display_name": "Group On Site Vehicle Parking",
+    "value_dict": null
+  },
+  "-32763": {
+    "name": "site_shade",
+    "display_name": "Site Shade",
+    "value_dict": {
+      "0": "Full Shade",
+      "1": "No Shade/Full Sun",
+      "2": "Partial Shade - AM Sun",
+      "3": "Partial Shade - PM Sun",
+      "4": "Partial Shade"
+    }
+  },
+  "-32762": {
+    "name": "quality",
+    "display_name": "Quality",
+    "value_dict": {
+      "0": "Poor",
+      "1": "Average",
+      "2": "Good"
+    }
+  },
+  "-32761": {
+    "name": "privacy",
+    "display_name": "Privacy",
+    "value_dict": {
+      "0": "Poor",
+      "1": "Average",
+      "2": "Good"
+    }
+  },
+  "-32760": {
+    "name": "conditions",
+    "display_name": "Conditions",
+    "value_dict": {
+      "0": "Noisy",
+      "1": "Windy",
+      "2": "Poor Drainage",
+      "3": "Above Avg. Vehicular Traffic",
+      "4": "Above Avg. Pedestrian Traffic",
+      "5": "Poison Ivy",
+      "6": "Corner Site",
+      "7": "Split Level Site",
+      "8": "Island Site"
+    }
+  },
+  "-32759": {
+    "name": "ground_cover",
+    "display_name": "Ground Cover",
+    "value_dict": {
+      "0": "Gravel",
+      "1": "Sand",
+      "2": "Grass",
+      "3": "Soil",
+      "4": "Rock(s)"
+    }
+  },
+  "-32758": {
+    "name": "fire_pit_location",
+    "display_name": "Fire Pit Location",
+    "value_dict": {
+      "0": "Centre",
+      "1": "Front Left",
+      "2": "Back Left",
+      "3": "Front Right",
+      "4": "Back Right",
+      "5": "Front Centre",
+      "6": "Back Centre",
+      "7": "Middle Left",
+      "8": "Middle Right"
+    }
+  },
+  "-32757": {
+    "name": "obstructions",
+    "display_name": "Obstructions",
+    "value_dict": {
+      "0": "Rock(s)",
+      "1": "Tree(s)",
+      "2": "Root(s)",
+      "3": "Stumps",
+      "4": "Branches",
+      "5": "Hill",
+      "6": "Mound"
+    }
+  },
+  "-32755": {
+    "name": "pad_slope",
+    "display_name": "Pad Slope",
+    "value_dict": {
+      "0": "None",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "Severe",
+      "4": "Uneven"
+    }
+  },
+  "-32754": {
+    "name": "on_site_vehicle_parking",
+    "display_name": "On-Site Vehicle Parking",
+    "value_dict": {
+      "0": "0",
+      "1": "1",
+      "2": "2",
+      "3": "Unlimited"
+    }
+  },
+  "-32753": {
+    "name": "off_site_vehicle_parking",
+    "display_name": "Off-Site Vehicle Parking",
+    "value_dict": {
+      "0": "0",
+      "1": "1",
+      "2": "2",
+      "3": "Unlimited"
+    }
+  },
+  "-32752": {
+    "name": "number_of_tent_pads",
+    "display_name": "Number of Tent Pads",
+    "value_dict": {
+      "0": "1",
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    }
+  },
+  "-32751": {
+    "name": "swimming_conditions",
+    "display_name": "Swimming Conditions",
+    "value_dict": {
+      "0": "Sandy Beach",
+      "1": "Weeds Present",
+      "2": "Rock Shoreline",
+      "3": "Soft Bottom",
+      "4": "Light Current",
+      "5": "Strong Current"
+    }
+  },
+  "-32750": {
+    "name": "exposure",
+    "display_name": "Exposure",
+    "value_dict": {
+      "0": "North",
+      "1": "East",
+      "2": "South",
+      "3": "West"
+    }
+  },
+  "-32749": {
+    "name": "shoreline_access",
+    "display_name": "Shoreline Access",
+    "value_dict": {
+      "0": "Easy",
+      "1": "Moderate",
+      "2": "Difficult",
+      "3": "None"
+    }
+  },
+  "-32748": {
+    "name": "fire_pit",
+    "display_name": "Fire Pit",
+    "value_dict": {
+      "0": "Steel Ring with Grill",
+      "1": "Rocks",
+      "2": "Grill",
+      "3": "None"
+    }
+  },
+  "-32746": {
+    "name": "showers",
+    "display_name": "Showers",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32745": {
+    "name": "picnic_table",
+    "display_name": "Picnic Table",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32736": {
+    "name": "double_site",
+    "display_name": "Double Site",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32764": {
+    "name": "pull_through",
+    "display_name": "Pull-through",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32732": {
+    "name": "toilet",
+    "display_name": "Toilet",
+    "value_dict": {
+      "0": "Indoor",
+      "1": "Outdoor"
+    }
+  },
+  "-32730": {
+    "name": "cooking_facilities",
+    "display_name": "Cooking Facilities",
+    "value_dict": {
+      "0": "Indoor",
+      "1": "Outdoor"
+    }
+  },
+  "-32747": {
+    "name": "toilet_type",
+    "display_name": "Toilet Type",
+    "value_dict": {
+      "0": "Privy Box",
+      "1": "Composting Toilet",
+      "2": "Outhouse"
+    }
+  },
+  "-32729": {
+    "name": "water_tap",
+    "display_name": "Water Tap",
+    "value_dict": {
+      "0": "Indoor",
+      "1": "Outdoor"
+    }
+  },
+  "-32722": {
+    "name": "shower_type",
+    "display_name": "Shower Type",
+    "value_dict": {
+      "0": "Indoor",
+      "1": "Outdoor"
+    }
+  },
+  "-32720": {
+    "name": "alcohol_permitted",
+    "display_name": "Alcohol Permitted",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32734": {
+    "name": "fire_pit_available",
+    "display_name": "Fire Pit Available",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32735": {
+    "name": "charcoal_barbeque",
+    "display_name": "Charcoal Barbeque",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32719": {
+    "name": "park_private",
+    "display_name": "Park-Private",
+    "value_dict": {
+      "0": "Yes"
+    }
+  },
+  "-32725": {
+    "name": "dogs_allowed",
+    "display_name": "Dogs Allowed",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32756": {
+    "name": "adjacent_to",
+    "display_name": "Adjacent To",
+    "value_dict": {
+      "0": "Privy",
+      "1": "Beach",
+      "2": "Refuse Disposal",
+      "3": "Body of Water",
+      "4": "Water Tap",
+      "5": "Playground",
+      "6": "Field",
+      "7": "Wetland/Marsh",
+      "8": "Vehicle Parking",
+      "9": "Comfort Station",
+      "10": "Comfort Station With Showers",
+      "11": "Multi-use Trail",
+      "12": "Stream",
+      "13": "Campsite (less than 100m)",
+      "14": "Fill Station"
+    }
+  },
+  "-32716": {
+    "name": "roofed_barrier_free",
+    "display_name": "Roofed Barrier Free",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32726": {
+    "name": "barrier_free",
+    "display_name": "Barrier Free",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32765": {
+    "name": "electrical_service",
+    "display_name": "Electrical Service",
+    "value_dict": {
+      "0": "15 Amps",
+      "1": "30 Amps",
+      "2": "15/30 Amps",
+      "3": "15/30/50 Amps"
+    }
+  },
+  "-32715": {
+    "name": "seasonal",
+    "display_name": "Seasonal",
+    "value_dict": {
+      "0": "Yes"
+    }
+  },
+  "-32766": {
+    "name": "service_type",
+    "display_name": "Service Type",
+    "value_dict": {
+      "0": "Non-Electric",
+      "1": "Electric"
+    }
+  },
+  "-32768": {
+    "name": "fee_type",
+    "display_name": "Fee Type",
+    "value_dict": {
+      "0": "Low Rate",
+      "1": "Regular Rate",
+      "2": "Premium Rate",
+      "3": "Demand Rate"
+    }
+  },
+  "-32767": {
+    "name": "restrictions",
+    "display_name": "Restrictions",
+    "value_dict": {
+      "0": "Walk In",
+      "2": "No Vehicles",
+      "3": "Radio Free",
+      "4": "No Tents",
+      "5": "No Pets",
+      "6": "No Motorboats",
+      "7": "Tents Only",
+      "8": "Generator Free"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "[-32768, -32768]": "Single Tent",
+  "[-32768, -32767]": "2 Tents",
+  "[-32768, -32766]": "3 Tents",
+  "[-32768, -32765]": "Trailer or RV up to 18ft (5.5m)",
+  "[-32768, -32764]": "Trailer or RV up to 25ft (7.6m)",
+  "[-32768, -32763]": "Trailer or RV up to 32ft (9.7m)",
+  "[-32768, -32762]": "Trailer or RV over 32ft (9.7m)"
+}

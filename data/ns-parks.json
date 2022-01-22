@@ -1,0 +1,317 @@
+[
+  {
+    "park_id": -2147483648,
+    "short_name": "Amherst Shore",
+    "full_name": "Amherst Shore Provincial Park",
+    "description": "On the shore of the Northumberland Strait, Amherst Shore Provincial Park offers an attractive mixed woodland setting for camping. Walking on trails, swimming or beachcombing are enjoyable pastimes at the park. This park, like others along this coast, offers some of the warmest saltwater swimming north of the Carolinas. The park offers a 42-site woodland campground, showers/comfort station, and a walking trail leading to the unsupervised beach area. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Amherst Shore Provincial Park is located on Route 366, the Sunrise Trail, 36 km (22 mi.) east of Amherst and 26 km (16 mi.) west of Pugwash.",
+    "website": "https://parks.novascotia.ca/park/amherst-shore",
+    "address": {
+      "streetAddress": "6596 Highway 366",
+      "city": "Amherst Shore",
+      "region": "Nova Scotia",
+      "regionCode": "B0L 1E0",
+      "country": "Canada",
+      "phoneNumber": "902-661-6002"
+    }
+  },
+  {
+    "park_id": -2147483643,
+    "short_name": "Caribou Munroes",
+    "full_name": "Caribou Munroes Provincial Park",
+    "description": "Just a few kilometres from one of Nova Scotia's points of entry, Caribou/Munroes Island Provincial Park makes a marvelous stop on your way to or from Prince Edward Island. A mile long sand beach offers some of the warmest saltwater swimming north of the Carolinas and the campground provides excellent opportunities for camping, or just appreciating nature. The park offers 95 sites, picnic areas, and an unsupervised beach. There is a walking trail along the beach out to the island. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Caribou/Munroes Island Provincial Park is located 11 km (7 mi.) north of the junctions of Routes 6, 106, and 376 on Nova Scotia's Northumberland Shore, 4 km (2.5 mi.) east of the Caribou / Wood Islands (PEI) ferry wharf.",
+    "website": "https://parks.novascotia.ca/park/caribou-munroes-island",
+    "address": {
+      "streetAddress": "2119 Three Brooks Road",
+      "city": "Caribou",
+      "region": "Nova Scotia",
+      "regionCode": "B0K 1H0",
+      "country": "Canada",
+      "phoneNumber": "902-485-6134"
+    }
+  },
+  {
+    "park_id": -2147483646,
+    "short_name": "Blomidon",
+    "full_name": "Blomidon Provincial Park",
+    "description": "Rising majestically from the shores of the Minas Basin, Blomidon Provincial Park is renowned for its spectacular views. Blomidon's 759 ha (1,875 acres) include 180 m (600 ft.) high cliffs, a variety of habitats, striking natural features, abundant wildlife -- and the world's highest tides wash its shores. These natural attractions provide excellent opportunities for camping, hiking, beachcombing, photography or just appreciating nature. Blomidon offers a 70-site campground with both woodland and open sites, two picnic areas, an unsupervised beach near the park entrance, and hiking trails. A group campsite, with kitchen shelter and fire grills, is available by calling the park.",
+    "website": "https://parks.novascotia.ca/park/blomidon",
+    "address": {
+      "streetAddress": "3138 Pereau Road",
+      "city": "Canning",
+      "region": "Nova Scotia",
+      "regionCode": "B0P 1H0",
+      "country": "Canada",
+      "phoneNumber": "902-582-7319"
+    }
+  },
+  {
+    "park_id": -2147483644,
+    "short_name": "Cape Chignecto",
+    "full_name": "Cape Chignecto Provincial Park",
+    "description": "At Cape Chignecto Provincial Park, towering 180 m (600 ft.) sea cliffs rise from the Bay of Fundy, while the world's highest tides lap at their base. Best described as a wilderness park, it has 29 km (18 mi.) of pristine coastline, deep valleys, sheltered coves, rare plants, and remnant old-growth forests. The park offers over 40 km (25 mi.) of wilderness trails and remote walk-in campsites. Please note: There are no drive-up sites in the park; however, there is a community-operated campground 5 km (3 mi.) east of the park. Cape Chignecto offers walk-in campgrounds, wilderness cabins, a bunkhouse, and a picnic area. Follow Route 209 from Parrsboro to West Advocate; from Highway 104, Exit 4 at Amherst, follow Route 2 to Upper Nappan, take Route 302 to Maccan, Route 242 to River Hebert and then follow Route 209 through Joggins to West Advocate.",
+    "website": "https://parks.novascotia.ca/park/cape-chignecto",
+    "address": {
+      "streetAddress": "1108 West Advocate Road",
+      "city": "Advocate Harbour",
+      "region": "Nova Scotia",
+      "regionCode": "B0M 1S0",
+      "country": "Canada",
+      "phoneNumber": "902-392-2085"
+    }
+  },
+  {
+    "park_id": -2147483640,
+    "short_name": "Five Islands",
+    "full_name": "Five Islands Provincial Park",
+    "description": "Rising majestically from the shores of the Bay of Fundy, Five Islands Provincial Park is one of Nova Scotia's premiere outdoor destinations. The park features 90 metre (300 ft.) sea cliffs overlooking the world's highest tides, a spectacular setting for camping or any of the many opportunities that abound for hiking, beachcombing, rock collecting and clam digging. The park offers an 87-site campground, two picnic areas, an unsupervised beach, playground, and comfort station facility. The park is located just 32 km (20 mi) east of Parrsboro and 57 km (35 mi) west of Truro, on Route 2, \"The Glooscap Trail\". Route 2 is linked to Highway 104 at Exit 4 in Amherst, Exit 5 near Springhill, and Exit 11 at Glenholme.",
+    "website": "https://parks.novascotia.ca/park/five-islands",
+    "address": {
+      "streetAddress": "618 Bentley Branch Road (Hwy 2)",
+      "city": "Five Islands",
+      "region": "Nova Scotia",
+      "regionCode": "B0M 1K0",
+      "country": "Canada",
+      "phoneNumber": "902-254-2980"
+    }
+  },
+  {
+    "park_id": -2147483633,
+    "short_name": "Smileys",
+    "full_name": "Smileys Provincial Park",
+    "description": "Located close to the town of Windsor, this quiet campground on the Meander River offers easy access to the many cultural and natural attractions in the area. The area's abundant gypsum deposits have influenced the landscape and vegetation in and around the park. Campsites are nestled into a mix of forest and farmland habitats. Nodding trillium, ostrich fern, and black-eyed susans can be found throughout the area. The park offers an 86-site campground, picnic area, playground and walking trails. The campground has water outlets and a trailer dump station as well as a heated comfort station with flush toilets. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Located 6.5 km east of Brooklyn, Hants County just off Route 14.",
+    "website": "https://parks.novascotia.ca/park/smileys",
+    "address": {
+      "streetAddress": "109 Clayton McKay Road, Hwy 14",
+      "city": "Brooklyn",
+      "region": "Nova Scotia",
+      "regionCode": "B0N 2A0",
+      "country": "Canada",
+      "phoneNumber": "902-757-3131"
+    }
+  },
+  {
+    "park_id": -2147483630,
+    "short_name": "Valleyview",
+    "full_name": "Valleyview Provincial Park",
+    "description": "Valleyview Provincial Park offers a quiet woodland setting overlooking the Annapolis Valley. The park is within easy traveling distance of the Fundy Coast and communities along Route 1. The park offers a 30-site campground and picnic area. It also features an interpretive site overlooking the breadth of the valley below. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Located 3 km north of Bridgetown. The entrance to the park is near the top of the North Mountain.",
+    "website": "https://parks.novascotia.ca/park/valleyview",
+    "address": {
+      "streetAddress": "960 Hampton Mountain Road",
+      "city": "Bridgetown",
+      "region": "Nova Scotia",
+      "regionCode": "B0S 1L0",
+      "country": "Canada",
+      "phoneNumber": "902-665-2559"
+    }
+  },
+  {
+    "park_id": -2147483647,
+    "short_name": "Battery",
+    "full_name": "Battery Provincial Park",
+    "description": "Located on on the southeast coast of Cape Breton Island, the park is on a hillside overlooking St. Peters Bay. The lighthouse found in the park serves as a landmark for the entrance to St. Peters Canal. Completed in 1869, the 800 m (2,600 ft.) canal and lock system allows vessels to sail between Bras d'Or Lake and the Atlantic Ocean. The Park is home to a number of historically significant sites, including the site of a lime kiln used to make plaster and mortar, some of which was used in the construction of Fortress Louisbourg, as well as the remains of two forts involved in the French and English struggle over the North American continent. The park offers a 56-site wooded hillside campground, comfort station (showers and flush toilets), open picnic area, and unsupervised beach. Walking trails provide a good view of the surroundings and much of the history of the site is described at interpretive sites along the way. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist.",
+    "website": "https://parks.novascotia.ca/park/battery",
+    "address": {
+      "streetAddress": "10110 Hwy 4",
+      "city": "St. Peter's",
+      "region": "Nova Scotia",
+      "regionCode": "B0E 3B0",
+      "country": "Canada",
+      "phoneNumber": "902-535-3094"
+    }
+  },
+  {
+    "park_id": -2147483637,
+    "short_name": "Mira River",
+    "full_name": "Mira River Provincial Park",
+    "description": "Jutting out into the famous Mira River and only minutes from Sydney or Fortress Louisbourg National Historic Site, Mira River is the perfect escape. It is close enough for day trips into the city or the many attractions found in the area. The quiet water-side setting offers a wide range of outdoor opportunities including camping, walking, boating, canoeing, water skiing, fishing, and swimming. The park has 156 woodland and open campsites, including 60 two-way hookups with electric and water. The park has a picnic area, a boat launch, and a trailer dump station. The large unsupervised beach is ideal for families to play. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Located on the Brickyard Road, 3 km ( 2mi.) east of Albert Bridge. The park is 22 km (14 mi.) south of Sydney on Route 22.",
+    "website": "https://parks.novascotia.ca/park/mira-river",
+    "address": {
+      "streetAddress": "439 Brickyard Road",
+      "city": "Albert Bridge",
+      "region": "Nova Scotia",
+      "regionCode": "B1K 2R9",
+      "country": "Canada",
+      "phoneNumber": "902-563-3373"
+    }
+  },
+  {
+    "park_id": -2147483645,
+    "short_name": "Boylston",
+    "full_name": "Boylston Provincial Park",
+    "description": "Located between the communities of Boylston and Guysborough (town), the park is an ideal place to camp while touring the Eastern Shore. The wooded hilltop campground offers a spectacular view of Guysborough Harbour. The park offers a 35-site wooded campground and picnic area. The picnic area is open until mid October. The campground has water outlets and a trailer dump station. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Located about 3 km north of Guysborough on Route 16.",
+    "website": "https://parks.novascotia.ca/park/boylston",
+    "address": {
+      "streetAddress": "11131 Highway 16",
+      "city": "Guysborough",
+      "region": "Nova Scotia",
+      "regionCode": "B0H 1N0",
+      "country": "Canada",
+      "phoneNumber": "902-533-3326"
+    }
+  },
+  {
+    "park_id": -2147483642,
+    "short_name": "Dollar Lake",
+    "full_name": "Dollar Lake Provincial Park",
+    "description": "Situated on a large lake not far from the Musquodoboit Valley, the park is the perfect escape. The quiet woodland setting offers a wide range of outdoor opportunities, including camping, boating, canoeing, water-skiing, and fishing. A beautiful sandy beach at the north end of the lake offers fresh water swimming. The park has 119 woodland campsites, a picnic area, boat launch, and trailer dump station. The main beach is supervised during the peak season. The smaller \"campers\" beach is unsupervised. Although there are no electrical hookups, water and vault toilets are conveniently located throughout the campground. Accessible flush toilets and showers facilities are also available. Located about 20 kilometres (12 mi.) east of the Halifax International Airport on Route 212.",
+    "website": "https://parks.novascotia.ca/park/dollar-lake",
+    "address": {
+      "streetAddress": "5265 Old Guysborough Road",
+      "city": "Wyses Corner",
+      "region": "Nova Scotia",
+      "regionCode": "B0N 1Y0",
+      "country": "Canada",
+      "phoneNumber": "902-384-2770"
+    }
+  },
+  {
+    "park_id": -2147483636,
+    "short_name": "Porters Lake",
+    "full_name": "Porters Lake Provincial Park",
+    "description": "Only minutes from metropolitan Halifax/Dartmouth, Porters Lake Provincial Park is the perfect escape from the urban rush, yet the park is close enough for day trips to visit the many attractions found in the metro area. The quiet lakeside setting offers a wide range of outdoor opportunities including camping, boating, canoeing, water skiing, fishing, and swimming. Porters Lake has 80 campsites, a picnic area, boat launch, and trailer dump station. The small unsupervised beach is ideal for family fun. Although there are no electrical hookups on the loop sites, water and vault toilets are conveniently located throughout the campground. Electrical hook-ups are available at 10 RV pull-through sites. Accessible flush toilets and showers are available. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Located just 23 kilometres east of Dartmouth, the park is 4.4 km (2.7 mi.) south of Exit 19 from Highway 107, on the West Porters Lake Rd.",
+    "website": "https://parks.novascotia.ca/park/porters-lake",
+    "address": {
+      "streetAddress": "1160 West Porters Lake Road",
+      "city": "Porters Lake",
+      "region": "Nova Scotia",
+      "regionCode": "B3E 1L4",
+      "country": "Canada",
+      "phoneNumber": "902-827-2250"
+    }
+  },
+  {
+    "park_id": -2147483634,
+    "short_name": "Salsman",
+    "full_name": "Salsman Provincial Park",
+    "description": "Located on a small peninsula on the east side of Country Harbour, Guysborough County. The park offers campers a quiet setting to relax and enjoy day trips along the Marine Drive. Salsman Park offers 40 well-manicured campsites, a picnic area, boat launch, and trailer dump station. Although there are no electrical hookups, water and vault toilets are conveniently located throughout the campground. Accessible flush toilets and showers are available. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Salsman is located on Route 316, about 8 km north of Isaac's Harbour and the Country Harbour Ferry.",
+    "website": "https://parks.novascotia.ca/park/salsman",
+    "address": {
+      "streetAddress": "15641 Highway 316",
+      "city": "Country Harbour",
+      "region": "Nova Scotia",
+      "regionCode": "B0H 1J0",
+      "country": "Canada",
+      "phoneNumber": "902-328-2999"
+    }
+  },
+  {
+    "park_id": -2147483638,
+    "short_name": "Laurie",
+    "full_name": "Laurie Provincial Park",
+    "description": "Only minutes from metro Halifax/Dartmouth, Laurie Provincial Park is the perfect escape from the urban rush, yet the park is close enough for day trips in to visit the many attractions found in the metro area. The quiet lakeside setting offers a wide range of outdoor opportunities including camping, canoeing, water skiing, fishing, and swimming. The park has 63 wooded campsites, 1 serviced site for campground host, a large picnic area, and trailer dump station. There is a small unsupervised beach on Shubenacadie-Grand Lake. Oakfield Provincial Park, just a few kilometres north, offers a large open picnic area, boat launch and beautiful sand beach ideal for family swimming. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. At Grand Lake on Route 2. The park is 10 km ( 6 mi.) north of Highway 102, Exit 5.",
+    "website": "https://parks.novascotia.ca/park/laurie",
+    "address": {
+      "streetAddress": "4949 Highway #2",
+      "city": "Grand Lake",
+      "region": "Nova Scotia",
+      "regionCode": "B2T 0S5",
+      "country": "Canada",
+      "phoneNumber": "902-861-1623"
+    }
+  },
+  {
+    "park_id": -2147483639,
+    "short_name": "Graves Island",
+    "full_name": "Graves Island Provincial Park",
+    "description": "Joined to the mainland by a short causeway, the island is typical of many of the small islands found along Nova Scotia's Atlantic coast. This quiet ocean-side campground has long been a popular vacation spot for Nova Scotians and visitors alike. The campground is an excellent base for outdoor adventures including ocean kayaking and biking along the South Shore as well as day tripping to the area's many attractions. Graves Island offers an 95-site campground including 33 electrical and water sites, walking trails, picnic area, swimming area and boat launch. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Located on Route 3, it is 3 km (2 mi.) east of the villlage of Chester and about 5 km west of Exit 7 on the Hwy 103.",
+    "website": "https://parks.novascotia.ca/park/graves-island",
+    "address": {
+      "streetAddress": "230 Graves Island Road",
+      "city": "East Chester",
+      "region": "Nova Scotia",
+      "regionCode": "B0J 1J0",
+      "country": "Canada",
+      "phoneNumber": "902-275-4425"
+    }
+  },
+  {
+    "park_id": -2147483635,
+    "short_name": "Rissers Beach",
+    "full_name": "Rissers Beach Provincial Park",
+    "description": "Whether you want to swim, search for sea shells, or just spend the day relaxing in the sun, Rissers Beach Provincial Park offers every kind of recreational opportunity available at the seaside. Some of the features of the park include a kilometre long white sand beach and Interpretation Centre and boardwalk along an inland marsh. The park offers two campgrounds with a total of 93 sites including 19 electrical and water sites, picnic areas, and a large supervised beach. There is a canteen and change house with showers adjacent to the beach. Located on Route 331, near Petite Rivière, it is 15 km (9 mi.) south of Hwy 103, Exit 15. The park is 26 km (16 mi.) south of Bridgewater.",
+    "website": "https://parks.novascotia.ca/park/rissers-beach",
+    "address": {
+      "streetAddress": "5366 Highway 331",
+      "city": "Crescent Beach",
+      "region": "Nova Scotia",
+      "regionCode": "B4V 6P2",
+      "country": "Canada",
+      "phoneNumber": "902-688-2034"
+    }
+  },
+  {
+    "park_id": -2147483632,
+    "short_name": "The Islands",
+    "full_name": "The Islands Provincial Park",
+    "description": "Just across the harbour from the historic town of Shelburne, The Islands Provincial Park offers a restful stop on your trip around the South Shore. Bounded by Shelburne Harbour, it offers visitors a maritime camping experience. Shelburne's many museums, shops, and picturesque charm continue to attract thousands of international visitors each year. The Islands offers a 70-site campground, water outlets, two picnic areas, an unsupervised beach, boat launch, and trailer dump station. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. The Islands Provincial Park is located on Nova Scotia's South Shore, on the west side of Shelburne Harbour, 1 km (0.6 mi) south of Highway 3.",
+    "website": "https://parks.novascotia.ca/park/islands",
+    "address": {
+      "streetAddress": "183 Islands Park Road",
+      "city": "Shelburne",
+      "region": "Nova Scotia",
+      "regionCode": "B0T 1W0",
+      "country": "Canada",
+      "phoneNumber": "902-875-4304"
+    }
+  },
+  {
+    "park_id": -2147483631,
+    "short_name": "Thomas Raddall",
+    "full_name": "Thomas Raddall Provincial Park",
+    "description": "Overlooking Port Joli Harbour on Nova Scotia's South Shore, Thomas Raddall Provincial Park is a nature lovers' haven. The park is just across the harbour from Kejimkujik Seaside Adjunct National Park, and there are four migratory seabird sanctuaries nearby. With over 650 ha (1,600 acres) the park offers visitors a wide range of outdoor experiences, including hiking, camping, picnicking, sight seeing, or relaxing on the beach. The park offers a large campground with a total of 82 sites (13 walk-in), picnic areas, and three unsupervised beaches. It also features both walk-in and drive-up camping sites, beautiful white sand beaches, and walking and cycling trails. Located 4 km (2 mi.) south of Highway 103, the Lighthouse Route, the park is 29 km (18 mi.) west of Liverpool and 41 km (26 mi.) east of Shelburne. Take Exit 22 off the Highway 103 to the #3 highway and follow the signs.",
+    "website": "https://parks.novascotia.ca/park/thomas-raddall",
+    "address": {
+      "streetAddress": "529 Raddall Park Road",
+      "city": "Port Joli",
+      "region": "Nova Scotia",
+      "regionCode": "B0T 1S0",
+      "country": "Canada",
+      "phoneNumber": "902-683-2664"
+    }
+  },
+  {
+    "park_id": -2147483641,
+    "short_name": "Ellenwood Lake",
+    "full_name": "Ellenwood Lake Provincial Park",
+    "description": "Nestled between two lakes in the heart of southern Nova Scotia, this 114 ha (280 acre) park offers walking trails in a hardwood setting, canoeing, swimming, and camping for all those who like to enjoy the outdoors. The quiet beauty of nature is evident everywhere. The shoreline holds some of Nova Scotia's rare plants, and the lakes have both brown and speckled trout, chain pickerel, and Atlantic salmon. The park offers an 87-site campground, two picnic areas, boat launch, a supervised beach, and hiking trail. Ellenwood Lake Provincial Park is located just 19 km (12 mi.) northeast of Yarmouth and 1.6 km (1 mi.) south of Deerfield. Exit 34 off Highway 101, proceed 6.5 km (4 mi.) along Route 340. Follow signs to the park entrance.",
+    "website": "https://parks.novascotia.ca/park/ellenwood-lake",
+    "address": {
+      "streetAddress": "1888 Mood Road",
+      "city": "Deerfield",
+      "region": "Nova Scotia",
+      "regionCode": "B5A 5N6",
+      "country": "Canada",
+      "phoneNumber": "902-761-2400"
+    }
+  },
+  {
+    "park_id": -2147483629,
+    "short_name": "Whycocomagh",
+    "full_name": "Whycocomagh Provincial Park",
+    "description": "Occupying a dramatic hillside overlooking the Skye River Valley and the Bras d'Or Lake, the park offers a quiet scenic setting for camping, picnicking, hiking, and access to the Bras d'Or Lake. From the park, eagles may be seen soaring above the lake or perched in trees along its shores. The park offers a 40-site campground, picnic areas, lake access, and over 5 km of hiking trails. Sites 1-9 and 15 have two-way services. Yurts are at sites 38, 39 and 40. WiFi is available at the admin building and surrounding area. Password required; please see the park receptionist. Whycocomagh Provincial Park is located just 0.4 km (0.25 mi.) east of the village of Whycocomagh on Highway 105.",
+    "website": "https://parks.novascotia.ca/park/whycocomagh",
+    "address": {
+      "streetAddress": "87 Provincial Park Rd",
+      "city": "Whycocomagh",
+      "region": "Nova Scotia",
+      "regionCode": "B0E 3M0",
+      "country": "Canada",
+      "phoneNumber": "902-756-2448"
+    }
+  },
+  {
+    "park_id": -2147483628,
+    "short_name": "Headquarters",
+    "full_name": "Headquarters",
+    "description": "",
+    "website": "",
+    "address": {
+      "streetAddress": "15 Arlington Place (Suite 7), 2nd Floor",
+      "city": "Truro",
+      "region": "Nova Scotia",
+      "regionCode": "B2N 5B8",
+      "country": "Canada",
+      "phoneNumber": ""
+    }
+  }
+]

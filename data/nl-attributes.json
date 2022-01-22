@@ -1,0 +1,158 @@
+{
+  "-32753": {
+    "name": "site_width",
+    "display_name": "Site Width",
+    "value_dict": null
+  },
+  "-32752": {
+    "name": "site_length",
+    "display_name": "Site Length",
+    "value_dict": null
+  },
+  "-32751": {
+    "name": "pad_width",
+    "display_name": "Pad Width",
+    "value_dict": null
+  },
+  "-32750": {
+    "name": "pad_length",
+    "display_name": "Pad Length",
+    "value_dict": null
+  },
+  "-32768": {
+    "name": "service_type",
+    "display_name": "Service Type",
+    "value_dict": {
+      "0": "Unserviced",
+      "1": "Serviced"
+    }
+  },
+  "-32757": {
+    "name": "water_service",
+    "display_name": "Water Service",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32766": {
+    "name": "quality",
+    "display_name": "Quality",
+    "value_dict": {
+      "0": "Excellent",
+      "1": "Above Average",
+      "2": "Average",
+      "3": "Poor"
+    }
+  },
+  "-32765": {
+    "name": "privacy",
+    "display_name": "Privacy",
+    "value_dict": {
+      "0": "Excellent",
+      "1": "Above Average",
+      "2": "Average",
+      "3": "Poor"
+    }
+  },
+  "-32764": {
+    "name": "site_shade",
+    "display_name": "Site Shade",
+    "value_dict": {
+      "0": "Full Shade",
+      "1": "No Shade",
+      "2": "No Shade/Full Sun",
+      "3": "Partial Shade"
+    }
+  },
+  "-32762": {
+    "name": "ground_cover",
+    "display_name": "Ground Cover",
+    "value_dict": {
+      "0": "Gravel",
+      "1": "Dirt",
+      "2": "Grass",
+      "3": "Paved"
+    }
+  },
+  "-32761": {
+    "name": "close_to",
+    "display_name": "Close To",
+    "value_dict": {
+      "0": "Playground",
+      "1": "Washroom",
+      "2": "Showers",
+      "3": "Water Tap",
+      "4": "Garbage",
+      "5": "Beach",
+      "6": "Field",
+      "7": "Vehicle Parking",
+      "8": "Wetland/Marsh"
+    }
+  },
+  "-32758": {
+    "name": "overhead_site_clearance",
+    "display_name": "Overhead Site Clearance",
+    "value_dict": {
+      "0": "Low",
+      "1": "High"
+    }
+  },
+  "-32754": {
+    "name": "picnic_table",
+    "display_name": "Picnic Table",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32759": {
+    "name": "sub_category",
+    "display_name": "Sub-Category",
+    "value_dict": {
+      "0": "Max 7 Day",
+      "1": "Extended Stay",
+      "2": "Seasonal"
+    }
+  },
+  "-32760": {
+    "name": "conditions",
+    "display_name": "Conditions",
+    "value_dict": {
+      "0": "Noisy",
+      "1": "Windy",
+      "2": "Poor Drainage",
+      "3": "High Vehicle Traffic Area",
+      "4": "High Pedestrian Traffic Area",
+      "5": "Poison Ivy",
+      "6": "Corner Site",
+      "7": "Split Level Site",
+      "8": "View Site"
+    }
+  },
+  "-32755": {
+    "name": "firepit",
+    "display_name": "Firepit",
+    "value_dict": {
+      "0": "Yes",
+      "1": "No"
+    }
+  },
+  "-32767": {
+    "name": "electrical_service",
+    "display_name": "Electrical Service",
+    "value_dict": {
+      "0": "None",
+      "2": "15/30 Amps",
+      "3": "15/30/50 Amps"
+    }
+  },
+  "-32763": {
+    "name": "site_access",
+    "display_name": "Site Access",
+    "value_dict": {
+      "0": "Back In",
+      "1": "Pull-thru"
+    }
+  }
+}
