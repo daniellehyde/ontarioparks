@@ -1,0 +1,17 @@
+[
+  {
+    "park_id": -2147483530,
+    "short_name": "Voyageur",
+    "full_name": "Voyageur Provincial Park",
+    "description": "Champlain and Portage Campgrounds are better suited for visitors with larger camping units. \r\nChamplain has an adjacent beach and a small boat launching ramp. Iroquois and Portage share a beach located in Iroquois Campground.\r\nIroquois Campground has one loop of 20 sites that are designated pet-free. These sites will appeal to those who prefer a camping experience without any noise or contact with domestic pets.\r\nIroquois Campground has one loop set aside as a radio-free area. The sites are located in a forested section of the park and offer a more secluded, private experience without the noise of electronic audio equipment.\r\n",
+    "website": "http://www.ontarioparks.com/park/Voyageur",
+    "address": {
+      "streetAddress": "1313 Front Rd",
+      "city": "Chute-a-Blondeau",
+      "region": "Ontario",
+      "regionCode": "K0B 1B0",
+      "country": "Canada",
+      "phoneNumber": "(613)674-2825"
+    }
+  }
+]

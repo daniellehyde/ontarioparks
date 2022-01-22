@@ -39,7 +39,7 @@ end
 puts ""
 
 
-provs = %w(ns nb nl)
+provs = %w(voyageur)
 
 Campsite.delete_all
 Park.delete_all
