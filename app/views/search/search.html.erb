@@ -1,5 +1,7 @@
 <h1>Ontario Provincial Parks</h1>
-<%= form_with url: "/search", method: :get do |form| %>
+
+<%= form_with scope: :search, method: :get do |form| %>
+
   <h4>Select Park(s)</h4>
   <% @subregions.each do |subregion| %>
       <p><strong><%= form.label :park_ids, subregion %></strong><br>
@@ -7,21 +9,37 @@
       </p>
   <% end %>
   <br>
+
   <h4>Select Party Size and Equipment</h4>
   (required)<br>
+
   <strong><%= form.label :party_size, "Party size*" %></strong>
-  <%= form.select :party_size, [1,2,3,4,5,6], selected:params[:party_size] %>
+  <%= form.select :party_size, [1,2,3,4,5,6]  %>
   <br>
- <strong><%= form.label :equipment_type, "Equipment type*" %></strong>
-  <%= form.select :equipment_type, 
-  ["Single Tent", "2 Tents", "3 Tents", "Trailer or RV up to 18ft (5.5m)", "Trailer or RV up to 25ft (7.6m)"],
-  selected:params[:equipment_type] %>
+
+  <strong><%= form.label :equipment_type, "Equipment type*" %></strong>
+  <%= form.select :equipment_type, ["Single Tent", "2 Tents", "3 Tents", "Trailer or RV up to 18ft (5.5m)", "Trailer or RV up to 25ft (7.6m)"] %>
+  <br>
+
+  <hr>
+
+  <br>
+  <strong><%= form.label :restrictions_included, "Restrictions to include" %></strong>
+  <%= form.collection_check_boxes(:restrictions_included, Restriction.all, :id, :name) %>
+  <br>
+
+  <strong><%= form.label :restrictions_exclude, "Restrictions to exclude" %></strong>
+  <%= form.collection_check_boxes(:restrictions_excluded, Restriction.all, :id, :name) %>
+  <br>
+
+
   <%= form.submit "Search" %>
 <% end %>
+<br>
 
 <p> Number of campsites: <%= @campsites.count %></p>
 <ul>
   <% @campsites.each do |campsite| %>
- <li> <%= link_to "#{campsite.name} [#{campsite.park.name}]", park_campsite_path(campsite.park, campsite) %></li>
+ <li> <%= link_to "#{campsite.name} [#{campsite.park.name}] #{campsite.restrictions.map(&:name)}", park_campsite_path(campsite.park, campsite) %></li>
   <% end %>
 </ul>
