@@ -23,8 +23,8 @@ def load_campsites(prov, campsite_data)
         count += 1
         c = Campsite.from_json(campsite, park)
 
-        c.restrictions = campsite.fetch('restrictions', []).map do |r|
-            Restriction.find_or_create_by(name: r)
+        c.restrictions = Array(campsite.fetch('restrictions', [])).map do |r|
+            Restriction.find_or_create_by(prov: prov, name: r)
         end
         c.save!
 

@@ -59,6 +59,7 @@ ActiveRecord::Schema.define(version: 2021_08_21_211934) do
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "prov"
   end
 
   add_foreign_key "campsites", "parks"
