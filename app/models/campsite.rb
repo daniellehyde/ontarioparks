@@ -1,6 +1,8 @@
 class Campsite < ApplicationRecord
   belongs_to :park
 
+  has_and_belongs_to_many :restrictions
+
   def self.from_json(campsite, park)
     Campsite.new(
       park: park,

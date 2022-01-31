@@ -36,6 +36,13 @@ ActiveRecord::Schema.define(version: 2021_08_21_211934) do
     t.index ["park_id"], name: "index_campsites_on_park_id"
   end
 
+  create_table "campsites_restrictions", id: false, force: :cascade do |t|
+    t.integer "campsite_id", null: false
+    t.integer "restriction_id", null: false
+    t.index ["campsite_id"], name: "index_campsites_restrictions_on_campsite_id"
+    t.index ["restriction_id"], name: "index_campsites_restrictions_on_restriction_id"
+  end
+
   create_table "parks", force: :cascade do |t|
     t.string "name"
     t.string "city"
@@ -46,6 +53,12 @@ ActiveRecord::Schema.define(version: 2021_08_21_211934) do
     t.string "region"
     t.string "website"
     t.text "description"
+  end
+
+  create_table "restrictions", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   add_foreign_key "campsites", "parks"
