@@ -23,15 +23,25 @@ def load_campsites(prov, campsite_data)
         count += 1
         c = Campsite.from_json(campsite, park)
 
-        c.restrictions = Array(campsite.fetch('restrictions', [])).map do |r|
-            Restriction.find_or_create_by(prov: prov, name: r)
-        end
+        c.restrictions = load_field(prov, campsite, 'restrictions', Restriction)
+        c.conditions = load_field(prov, campsite, 'conditions', Condition)
+        c.adjacent_tos = load_field(prov, campsite, 'adjacent_to', AdjacentTo)
+        c.ground_covers = load_field(prov, campsite, 'ground_cover', GroundCover)
+        c.allowed_equipments = load_field(prov, campsite, 'allowed_equipment', AllowedEquipment)
+        c.obstructions = load_field(prov, campsite, 'obstructions', Obstruction)
         c.save!
 
         
         puts "... added #{count} valid sites (#{ix}/#{total} processed)" if ix % 100 == 0
     end
 end
+
+def load_field(prov, campsite, field, field_cls)
+    Array(campsite.fetch(field, [])).map do |name|
+        field_cls.find_or_create_by(prov: prov, name: name)
+    end
+end
+
 
 def load_for_province(prov, park_data, campsite_data)
     load_parks(park_data)
@@ -45,7 +55,7 @@ end
 puts ""
 
 
-provs = %w(ns nb nl)
+provs = %w(nb)
 
 Campsite.delete_all
 Park.delete_all

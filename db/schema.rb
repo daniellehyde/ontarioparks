@@ -10,10 +10,37 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_08_21_211934) do
+ActiveRecord::Schema.define(version: 2022_01_31_004801) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+  create_table "adjacent_tos", force: :cascade do |t|
+    t.string "name"
+    t.string "prov"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "adjacent_tos_campsites", id: false, force: :cascade do |t|
+    t.integer "campsite_id", null: false
+    t.integer "adjacent_to_id", null: false
+    t.index ["adjacent_to_id"], name: "index_adjacent_tos_campsites_on_adjacent_to_id"
+    t.index ["campsite_id"], name: "index_adjacent_tos_campsites_on_campsite_id"
+  end
+
+  create_table "allowed_equipments", force: :cascade do |t|
+    t.string "name"
+    t.string "prov"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "allowed_equipments_campsites", id: false, force: :cascade do |t|
+    t.integer "campsite_id", null: false
+    t.integer "allowed_equipment_id", null: false
+    t.index ["allowed_equipment_id"], name: "index_allowed_equipments_campsites_on_allowed_equipment_id"
+    t.index ["campsite_id"], name: "index_allowed_equipments_campsites_on_campsite_id"
+  end
 
   create_table "campsites", force: :cascade do |t|
     t.string "name"
@@ -36,11 +63,53 @@ ActiveRecord::Schema.define(version: 2021_08_21_211934) do
     t.index ["park_id"], name: "index_campsites_on_park_id"
   end
 
+  create_table "campsites_conditions", id: false, force: :cascade do |t|
+    t.integer "campsite_id", null: false
+    t.integer "condition_id", null: false
+    t.index ["campsite_id"], name: "index_campsites_conditions_on_campsite_id"
+    t.index ["condition_id"], name: "index_campsites_conditions_on_condition_id"
+  end
+
+  create_table "campsites_ground_covers", id: false, force: :cascade do |t|
+    t.integer "campsite_id", null: false
+    t.integer "ground_cover_id", null: false
+    t.index ["campsite_id"], name: "index_campsites_ground_covers_on_campsite_id"
+    t.index ["ground_cover_id"], name: "index_campsites_ground_covers_on_ground_cover_id"
+  end
+
+  create_table "campsites_obstructions", id: false, force: :cascade do |t|
+    t.integer "campsite_id", null: false
+    t.integer "obstruction_id", null: false
+    t.index ["campsite_id"], name: "index_campsites_obstructions_on_campsite_id"
+    t.index ["obstruction_id"], name: "index_campsites_obstructions_on_obstruction_id"
+  end
+
   create_table "campsites_restrictions", id: false, force: :cascade do |t|
     t.integer "campsite_id", null: false
     t.integer "restriction_id", null: false
     t.index ["campsite_id"], name: "index_campsites_restrictions_on_campsite_id"
     t.index ["restriction_id"], name: "index_campsites_restrictions_on_restriction_id"
+  end
+
+  create_table "conditions", force: :cascade do |t|
+    t.string "name"
+    t.string "prov"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "ground_covers", force: :cascade do |t|
+    t.string "name"
+    t.string "prov"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "obstructions", force: :cascade do |t|
+    t.string "name"
+    t.string "prov"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "parks", force: :cascade do |t|
