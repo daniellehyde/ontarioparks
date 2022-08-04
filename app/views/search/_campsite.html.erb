@@ -1,0 +1,10 @@
+ <tr>
+  <td> <%= link_to "#{campsite.name} [#{campsite.park.name}]", park_campsite_path(campsite.park, campsite) %> </td>
+  <td> 
+    <ul>
+      <% campsite.restrictions.each do |r| %>
+        <li><%= "#{r.name} (#{r.category})" %></li>
+      <% end%>
+    </ul>
+  </td>
+</tr>

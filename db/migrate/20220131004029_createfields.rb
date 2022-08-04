@@ -1,5 +1,12 @@
 class Createfields < ActiveRecord::Migration[6.1]
   def change
+    create_table :equipment do |t|
+      t.string :name
+      t.string :prov
+      t.timestamps
+    end
+
+    return
     create_table :conditions do |t|
       t.string :name
       t.string :prov
@@ -18,11 +25,6 @@ class Createfields < ActiveRecord::Migration[6.1]
       t.timestamps
     end
 
-    create_table :allowed_equipments do |t|
-      t.string :name
-      t.string :prov
-      t.timestamps
-    end
 
     create_table :obstructions do |t|
       t.string :name

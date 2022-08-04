@@ -12,8 +12,6 @@
 
 ActiveRecord::Schema.define(version: 2022_01_31_004801) do
 
-  # These are extensions that must be enabled in order to support this database
-  enable_extension "plpgsql"
   create_table "adjacent_tos", force: :cascade do |t|
     t.string "name"
     t.string "prov"
@@ -46,7 +44,7 @@ ActiveRecord::Schema.define(version: 2022_01_31_004801) do
     t.string "name"
     t.string "quality"
     t.string "privacy"
-    t.bigint "park_id", null: false
+    t.integer "park_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "category"
@@ -68,6 +66,13 @@ ActiveRecord::Schema.define(version: 2022_01_31_004801) do
     t.integer "condition_id", null: false
     t.index ["campsite_id"], name: "index_campsites_conditions_on_campsite_id"
     t.index ["condition_id"], name: "index_campsites_conditions_on_condition_id"
+  end
+
+  create_table "campsites_equipment", id: false, force: :cascade do |t|
+    t.integer "campsite_id", null: false
+    t.integer "equipment_id", null: false
+    t.index ["campsite_id"], name: "index_campsites_equipment_on_campsite_id"
+    t.index ["equipment_id"], name: "index_campsites_equipment_on_equipment_id"
   end
 
   create_table "campsites_ground_covers", id: false, force: :cascade do |t|
@@ -92,6 +97,13 @@ ActiveRecord::Schema.define(version: 2022_01_31_004801) do
   end
 
   create_table "conditions", force: :cascade do |t|
+    t.string "name"
+    t.string "prov"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "equipment", force: :cascade do |t|
     t.string "name"
     t.string "prov"
     t.datetime "created_at", precision: 6, null: false
@@ -129,6 +141,7 @@ ActiveRecord::Schema.define(version: 2022_01_31_004801) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "prov"
+    t.string "category"
   end
 
   add_foreign_key "campsites", "parks"

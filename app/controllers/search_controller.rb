@@ -3,26 +3,26 @@ class SearchController < ApplicationController
         @search = Search.new(params[:search])
 
         @campsites = Campsite
-            .includes(:park, :restrictions, :conditions, :adjacent_tos)
-            .where(privacy:"Good",quality:"Good")
+            .includes(:park, :restrictions, :equipment)
+            .where(privacy:"Good", quality:"Good")
             .where("max_capacity >= ?", @search.party_size)
-            #.where("allowed_equipment like ?", "%#{@search.equipment_type}%")
-
-        restrict(:restrictions)
-        restrict(:conditions)
-        restrict(:adjacent_tos)
-        restrict(:ground_covers)
-        restrict(:obstructions)
+            .left_outer_joins(:equipment)
+            .where(equipment: @search.equipment_type)
 
         if @search.park_ids.any?
             @campsites = @campsites.where(park_id: @search.park_ids)
         end
 
-        pp @search.exclusions
+        @campsites = @campsites.select do |c|
+            actual = Set.new(c.restrictions.map(&:id))
+            required = Set.new(@search.restrictions_included)
+            required.subset?(actual)
+        end
+
         @campsites = @campsites.reject do |c|
-            @search.exclusions.any? do |field, exclude|
-                (c.public_send(field).map(&:id) & exclude).any?
-            end
+            excluded = @search.restrictions_excluded
+            actual = c.restrictions.map(&:id)
+            (excluded & actual).any?
         end
 
         @parks = @campsites.map(&:park).uniq
@@ -52,10 +52,6 @@ class Search
     def exclusions
         {
             restrictions: restrictions_excluded,
-            conditions: conditions_excluded,
-            adjacent_tos: adjacent_tos_excluded,
-            ground_covers: ground_covers_excluded,
-            obstructions: obstructions_excluded,
         }.select { |k, v| [v.any?] }
     end
 
@@ -68,22 +64,11 @@ class Search
     end
 
     def equipment_type
-        params.fetch(:equipment_type, "Single Tent")
+        params.fetch(:equipment_type, Equipment.first)
     end
 
     def restrictions_excluded; clean_array(:restrictions_excluded); end
     def restrictions_included; clean_array(:restrictions_included); end
-    def conditions_excluded; clean_array(:conditions_excluded); end
-    def conditions_included; clean_array(:conditions_included); end
-
-    def adjacent_tos_excluded; clean_array(:adjacent_tos_excluded); end
-    def adjacent_tos_included; clean_array(:adjacent_tos_included); end
-
-    def ground_covers_excluded; clean_array(:ground_covers_excluded); end
-    def ground_covers_included; clean_array(:ground_covers_included); end
-
-    def obstructions_excluded; clean_array(:obstructions_excluded); end
-    def obstructions_included; clean_array(:obstructions_included); end
 
     private
 

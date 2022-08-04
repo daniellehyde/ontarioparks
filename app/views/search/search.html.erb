@@ -18,19 +18,14 @@
   <br>
 
   <strong><%= form.label :equipment_type, "Equipment type*" %></strong>
-  <%= form.select :equipment_type, ["Single Tent", "2 Tents", "3 Tents", "Trailer or RV up to 18ft (5.5m)", "Trailer or RV up to 25ft (7.6m)"] %>
+  <%= form.collection_select(:equipment_type, Equipment.all, :id, :name) %>
   <br>
 
   <hr>
 
   <%= render("filter_control", form: form, field: :restrictions) %>
-  <%= render("filter_control", form: form, field: :conditions) %>
-  <%= render("filter_control", form: form, field: :adjacent_tos) %>
-  <%= render("filter_control", form: form, field: :ground_covers) %>
-  <%= render("filter_control", form: form, field: :obstructions) %>
 
   <hr>
-
 
   <%= form.submit "Search" %>
 <% end %>
@@ -40,10 +35,6 @@
 <table>
 <thead>
 <th>Site</th>
-<th>Adjacent To</th>
-<th>Conditions</th>
-<th>Ground covers</th>
-<th>Obstruction</th>
 <th>Restrictions</th>
 </thead>
 <tbody>
@@ -52,11 +43,3 @@
   <% end %>
 </tbody>
 </table>
-
-
-<hr>
-<ul>
-  <% @campsites.each do |campsite| %>
- <li> <%= link_to "#{campsite.name} [#{campsite.park.name}] #{campsite.adjacent_tos.map(&:name)}", park_campsite_path(campsite.park, campsite) %></li>
-  <% end %>
-</ul>

@@ -1,0 +1,13 @@
+  <div>
+    <div><strong><%= Restriction %></strong></div>
+    <ul>
+    <li>
+      <%= form.label "restrictions_included".to_sym, "include:" %>
+      <%= form.collection_check_boxes("restrictions_included", Restriction.all, :id, :name) %>
+    </li>
+    <li>
+      <%= form.label "restrictions_excluded", "exclude:" %>
+      <%= form.collection_check_boxes("restrictions_excluded", Restriction.all, :id, :name) %>
+    </li>
+    </ul>
+  </div>
